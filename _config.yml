@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: RSE community - Recognition for Researchers who Code
-email: rse-nz-au@googlegroups.com
+title: RSE AU/NZ community - Recognition for Researchers who Code
+sign_up: https://groups.google.com/d/forum/rse-nz-au
 description: >- # this means to ignore newlines until "baseurl:"
   A community for academics/researchers who code but are lacking recognition and metrics needed to progress their academic career
 baseurl: "" # the subpath of your site, e.g. /blog
