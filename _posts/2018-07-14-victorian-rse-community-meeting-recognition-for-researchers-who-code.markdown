@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Melbourne Face to Face"
+title:  "Victorian RSE Community Meeting - Recognition for Researchers who Code"
 date:   2018-07-14 23:05:00 +1000
 categories: jekyll update
 ---
