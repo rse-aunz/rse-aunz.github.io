@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The First Survey of RSEs in Australia and New Zealand (https://bit.ly/RSESurvey2018)"
+title:  "The First Survey of RSEs in Australia and New Zealand"
 date:   2018-09-03 19:30:00 +1000
 categories: survey
 ---
@@ -13,7 +13,7 @@ to express your views about your current job and your career path, and
 constitutes a first step towards identifying the key characteristics of the
 RSE community in Australia and New Zealand.
 
-The survey url is: https://bit.ly/RSESurvey2018
+The survey url is: [https://bit.ly/RSESurvey2018](https://bit.ly/RSESurvey2018)
 
 The survey takes about 10-15 mins to finish and only has a handful of
 mandatory questions. The survey is completely confidential, and should you
