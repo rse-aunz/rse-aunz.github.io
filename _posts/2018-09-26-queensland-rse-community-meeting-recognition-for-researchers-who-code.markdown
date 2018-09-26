@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Queensland RSE Community Meeting - Recognition for Researchers who Code"
-date:   2018-09-26 17:00:00 +1000
+date:   2018-09-26 14:00:00 +1000
 categories: jekyll update
-draft: true
 ---
 
 This meeting, on the 5th of October at the Queensland University of Technology,
@@ -15,5 +14,5 @@ community. Please consider attending if
 - a professional software engineer working in the research space
 - or a system administrator who maintains research systems
 
-To find out more or to register, [go to the Eventbrite page](<broken TODO>)
+To find out more or to register, [go to the Eventbrite page](<https://www.eventbrite.com.au/e/queensland-rse-community-meeting-recognition-for-researchers-who-code-tickets-50673953158>)
 
