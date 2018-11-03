@@ -14,7 +14,7 @@ There was plenty of discussion in the RSE pre conference workshop: Recognition a
 To have a look at the simple slides we created for the BoF, [click here.](<https://docs.google.com/presentation/d/1lhhZQcdTu-J43j28vbySfCrE_DwYqBza3sNCX9Dm68U/edit#slide=id.g44fe97d406_11_5>)
 
 
-What was great about both meetings was that we had a range of people from all over Australian and New Zealand all willing to help grow the community.
+What was great about both meetings was that we had a range of people from all over Australia and New Zealand all willing to help grow the community.
 
 If you would like to help out, there are a number of things you can do:
  
