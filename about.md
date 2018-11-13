@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This website is to build awareness of the Research Software Engineer (RSE) community and to identify volunteers to help implement the practical solutions for the RSE community. If you are an academic/researcher who codes but are lacking recognition and metrics needed to progress your academic career; a professional software engineer working in the research space; or a  system administrator who maintains research systems, you should think about joining.
+This website is to build awareness of the Research Software Engineer (RSE) community and to identify volunteers to help implement the practical solutions for the RSE community. If you are an academic/researcher who codes but are lacking recognition and metrics needed to progress your academic career; a 'generalist' who brings communities together and can engage with both researchers and technical staff; a professional software engineer working in the research space; or a  system administrator who maintains research systems, you should think about joining.
 
 The term RSE, originally coined by the UK RSE association (rse.ac.uk), says the following about RSEs: “A growing number of people in academia combine expertise in programming with an intricate understanding of research. Although this combination of skills is extremely valuable, these people lack a formal place in the academic system.”
 
