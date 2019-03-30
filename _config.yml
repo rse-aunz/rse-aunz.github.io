@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   A community for academics/researchers who code but are lacking recognition and metrics needed to progress their academic career
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ResearchSoftEng
+twitter_username: rse_aunz
 github_username:  rse-aunz 
 github_repo:  rse-au
 
