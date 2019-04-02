@@ -11,4 +11,6 @@ Because the main percentage of C3DIS delegates are researchers,  we have decided
 
 We then want to feed those cross domain problems into the Friday workshop to identify some solutions that we could convert into proposals to send to funders like the ARDC, NCI, Pawsey, and BPA. This is a great opportunity as these funders have just been provided funding and are already thinking of how they might allocate these funds.
 
-If you are going to C3DIS and would like to help, please email me at rowland.mosbergen@unimelb.edu.au. If you would like to be a part of the RSE workshop, you can register here: http://www.c3dis.com/registration 
+If you are going to C3DIS and would like to help, please email me at rowland.mosbergen@unimelb.edu.au. If you would like to be a part of the RSE workshop, you can [register here:](http://www.c3dis.com/registration)
+
+There are travel funds available at [AeRO](www.aero.edu.au/fund)
