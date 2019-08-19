@@ -9,7 +9,7 @@ In 2018, the RSE-AUNZ Association participated in an international survey <sup>[
 
 “The purpose of this survey is to collect information about people who develop the software that is used in research. We call these people Research Software Engineers (RSEs) <sup>[3]</sup>, but they exist under many job titles (from postdoctoral researcher to applications consultant, to bioinformatician).”
 
-There were 99 participants from Australia. The follow slides show some of the important data gathered from their responses: [Slides: Australian results of the 2018](../assets/RSE_Survey_2018_AU_v3.pdf)
+There were 99 participants from Australia. The follow slides show some of the important data gathered from their responses: [Slides: Australian results of the 2018](/assets/RSE_Survey_2018_AU_v3.pdf)
 
 Some highlights include: 
 
