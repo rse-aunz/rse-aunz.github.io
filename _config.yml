@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: RSE AU/NZ community - Recognition for Researchers who Code
-sign_up: https://groups.google.com/d/forum/rse-nz-au
+sign_up: https://groups.google.com/forum/#!forum/rse-nz-au/join
 description: >- # this means to ignore newlines until "baseurl:"
   A community for academics/researchers who code but are lacking recognition and metrics needed to progress their academic career
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rse_aunz
-github_username:  rse-aunz 
+github_username:  rse-aunz
 github_repo:  rse-au
 
 # Build settings
