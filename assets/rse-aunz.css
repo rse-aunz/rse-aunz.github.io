@@ -1,0 +1,43 @@
+/*************************************
+ RSE-AUNZ Branding
+ 
+Colours (Dark to Light):
+   Purple: 590040   9e2871   c68da8
+   Grey:   817b75   bcb8b3   d6d2ce
+ 
+ Font: Titillium
+   Headings:       800wt
+   Sug-headings:  400wt
+   Body text:     250wt
+   
+   font-family: 'Lora', serif;
+   font-family: 'Titillium Web', sans-serif;
+   
+*************************************/
+
+h1, h2, body {
+	font-family: 'Lora', serif;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h1 { font-weight: 800; }
+h2 { font-weight: 400; }
+body { font-weight: 250; }
+
+.site-title img {
+	float: left;
+	height: 8%;
+	width: 8%;
+	padding: 1em;
+   display: inline-block;
+}
+
+.site-title h1 {
+	font-size: xx-large;
+	padding-top: 0.5em;
+	   display: inline-block;
+}
+
+.trigger {
+	font-size: x-large;
+}
