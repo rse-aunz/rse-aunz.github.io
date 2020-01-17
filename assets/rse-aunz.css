@@ -24,6 +24,10 @@ h1 { font-weight: 800; }
 h2 { font-weight: 400; }
 body { font-weight: 250; }
 
+.site-header {
+	border-top: 5px solid #590040;
+}
+
 .site-title img {
 	float: left;
 	height: 8%;
