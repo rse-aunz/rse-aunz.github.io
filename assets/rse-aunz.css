@@ -20,8 +20,8 @@ h1, h2, body {
 	font-family: 'Titillium Web', sans-serif;
 }
 
-h1 { font-weight: 800; }
-h2 { font-weight: 400; }
+h1 { font-weight: 800; color: #590040; }
+h2 { font-weight: 400; color: #590040; }
 body { font-weight: 250; }
 
 .site-header {
