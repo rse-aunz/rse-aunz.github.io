@@ -1,6 +1,8 @@
 ---
 layout: default
 title: News & Articles
+permalink: /posts/
+navigation_weight: 4
 ---
 
 <div class="home">

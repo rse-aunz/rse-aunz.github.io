@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to the RSE Community in Australia and New Zealand"
 date:   2018-07-06 12:50:04 +1000
-categories: jekyll update
+tags: community
 ---
 
 Hi there and welcome to the RSE Community in Australia and New Zealand.

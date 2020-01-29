@@ -3,23 +3,26 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+      
+      	<h3>{{ site.title | escape }}</h3>
+      	
         <ul class="contact-list">
-            {%- if site.sign_up -%}
-            <li><a class="u-email" href="{{ site.sign_up }}">Want to keep up to date? Sign up here</a></li>
-            {%- endif -%}
             <li>{%- include social.html -%}</li>
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
-      </div>
+      <div class="footer-col footer-col-2"></div>
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
+        {%- if site.sign_up -%}
+        	Want to keep up to date? &nbsp;&nbsp; 
+        	<a href="{{ site.sign_up }}">
+           		Sign up here!
+        	</a>
+        {%- endif -%}
       </div>
     </div>
 

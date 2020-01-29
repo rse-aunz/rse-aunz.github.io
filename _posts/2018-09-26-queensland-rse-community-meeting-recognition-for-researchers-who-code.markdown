@@ -2,7 +2,7 @@
 layout: post
 title:  "Queensland RSE Community Meeting - Recognition for Researchers who Code"
 date:   2018-09-26 14:00:00 +1000
-categories: jekyll update
+tags:  Queensland events
 ---
 
 This meeting, on the 5th of October at the Queensland University of Technology,
