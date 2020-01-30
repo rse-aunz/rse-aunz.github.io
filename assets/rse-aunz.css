@@ -41,22 +41,26 @@ a.site-title img {
 	margin-right: 12px;
 }
 
-a.site-title h2 {
+h2.deskContent, h2.phoneContent {
 	margin-top: 12px;
+	display: block-inline;
 }
 
-a.site-title h2.phoneContent {
-    display: none;
-}
-
-@media handheld {
-    .deskContent {
-    	clear: both;
-    	display:none;
+@media all and (max-width: 475px ) {
+    a.site-title h2.deskContent {
+    	display: none;
     }
-    .phoneContent {
-    	clear: both;
-    	display:block;
+    a.site-title h2.phoneContent {
+    	display: block-inline;
+    }
+}
+
+@media all and (min-width: 476px ) {
+    a.site-title h2.deskContent {
+    	display: block-inline;
+    }
+    a.site-title h2.phoneContent {
+    	display: none;
     }
 }
 
