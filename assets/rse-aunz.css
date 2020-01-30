@@ -28,14 +28,18 @@ body { font-weight: 250; }
 	border-top: 9px solid #590040;
 }
 
-a.site-logo img {
+a.site-title {
+	text-decoration: none;
+}
+
+a.site-title img {
 	width: 10%;
 	float: left;
 	padding: 12px;
 	margin-right: 12px;
 }
 
-a.site-logo h2 {
+a.site-title h2 {
 	margin-top: 12px;
 }
 
