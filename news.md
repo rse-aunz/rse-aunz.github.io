@@ -1,6 +1,6 @@
 ---
 layout: default
-title: News & Articles
+title: News
 permalink: /posts/
 navigation_weight: 4
 ---

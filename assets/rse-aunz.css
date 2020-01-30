@@ -28,41 +28,19 @@ body { font-weight: 250; }
 	border-top: 9px solid #590040;
 }
 
-a.site-title {
-	width: 20%;
-}
-
-.site-header .wrapper {
-	display: flex;
-	flex-direction: row;
-}
-
-.site-title img {
+a.site-logo img {
+	width: 10%;
 	float: left;
-	width: 55%;
-	padding: 1em;
+	padding: 12px;
+	margin-right: 12px;
 }
 
-.site-nav {
-	font-size: x-large;
-	padding-top: 0.5em;
-	width: 80%;
-	text-align: right;
+a.site-logo h2 {
+	margin-top: 12px;
 }
 
-.site-nav .page-link {
-	color: #590040;
-	font-family: 'Titillium Web', sans-serif;
-	font-size: large;
-	font-decoration: none;
-	padding: 0em 5px;
-}
-
-.site-nav .page-link:hover {
-	color: white;
-	background-color: #bcb8b3;
-	border-radius: 6px;
-	text-decoration: none;
+nav.site-nav {
+	margin-top: 18px;
 }
 
 body a.rse {

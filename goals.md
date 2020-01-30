@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Goals & Deliverables
+title: Goals
 permalink: /goals/
 navigation_weight: 3
 ---
