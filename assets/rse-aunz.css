@@ -28,6 +28,8 @@ body { font-weight: 250; }
 	border-top: 9px solid #590040;
 }
 
+
+/*** Site Title & Logo ***/
 a.site-title {
 	text-decoration: none;
 }
@@ -43,9 +45,27 @@ a.site-title h2 {
 	margin-top: 12px;
 }
 
+a.site-title h2.phone {
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+    a.site-title h2.phone {
+        clear: both;
+        display: block;
+    }
+    a.site-title h2.screen {
+    display: none;
+	} 
+}
+
+/*** Navigation Bar ***/
+
 nav.site-nav {
 	margin-top: 18px;
 }
+
+/*** Body ***/
 
 body a.rse {
 	color: white;
