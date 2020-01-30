@@ -7,7 +7,7 @@ navigation_weight: 1
 
 ## The RSE Association of Australia and New Zealand
 
-This community aims to build awareness of the divwerse Research Software 
+This community aims to build awareness of the diverse Research Software 
 Engineer (RSE) roles, to connect volunteers in the RSE domain, and to 
 help build practical solutions for the RSE community. 
 
@@ -17,6 +17,10 @@ The community is for:
 - __systems administrators__ who maintains research systems
 - __generalist__ who brings communities together across the research
 	and technical domains.
+	
+
+<a class="rse rse-join" href="{{ site.sign_up }}">Join the community</a>
+
 
 The term RSE, originally coined by the 
 [UK RSE association](http://rse.ac.uk), 
@@ -39,15 +43,15 @@ opportunities.
 
 We ran an initial Expression of Interest survey in 2017 among Australian
  and New Zealand researchers and found that majority of the respondents 
- prioritised:  (1) Increased recognition of the RSE role, (2) More 
- appropriate, consistent and representative position descriptions and 
- KPIs, and (3) Community development through regular events and 
- gatherings. 
+ prioritised:
+1. Increased recognition of the RSE role, 
+1. More appropriate, consistent and representative position descriptions 
+and KPIs, and 
+1. Community development through regular events and gatherings. 
 
 Please join us to actively work on how we can grow this community and 
 advocate for others. Together, we can build a sustainable community that 
 benefits research software engineers, and ultimately contributes to more 
 efficient and reproducible research.
 
-| You can sign up to the mailing list: | <a class="rse" href="{{ site.sign_up }}">&nbsp; Mailing List &nbsp; </a> |
-| You can comment on topics: | <a class="rse" href="https://github.com/rse-aunz/rse-au/issues">GitHub Issues</a> |
+You can comment on topics: <a class="rse" href="https://github.com/rse-aunz/rse-au/issues">GitHub Issues</a> 

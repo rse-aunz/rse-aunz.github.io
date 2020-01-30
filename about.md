@@ -31,6 +31,6 @@ Membership is open to RSEs that sign up to the mailing list
 
 ## Minutes of Steering Committee Meetings
 
-| SCM #1 | Final | <a class="rse" href="https://docs.google.com/document/d/1skqBInk_WASEDKAAvCKxrZwKf3SwDxzCJ408F-2lmjg">2019.10.17</a> |
-| SCM #2 | Final | <a class="rse" href="https://docs.google.com/document/d/1gTAAPHFKVPq21Oa3La-3cDoWOpKcw4Fapa6ByIK-U-4">2019.11.01</a> |
-| SCM #3 | Pending | &nbsp; &nbsp; &nbsp; **2020.01.28** |
+| SCM No.3 | Pending |  &nbsp; &nbsp;  &nbsp; **2019.11.01** |
+| SCM No.2 | Final | <a class="rse" href="/2019/11/01/Minutes-of-SCM-02">2019.11.01</a> |
+| SCM No.1 | Final | <a class="rse" href="/2019/10/17/Minutes-of-SCM-01">2019.10.17</a> |

@@ -75,8 +75,30 @@ body a.rse {
 	text-decoration: none;
 }
 
+body a.rse-join {
+	float: left;
+	width: 18%;
+	margin: 1.5em 40%;
+}
+
 body a.rse:hover {
 	color: #590040;
 	background-color: #bcb8b3;
 }
 
+span.badge {
+	padding: 0px 12px;
+	margin-left: 12px;
+	border-radius: 3px;
+	text-transform: uppercase;
+}
+
+span.badge-final {
+	color: black;
+	background-color: #85de77;
+}
+
+span.badge-draft {
+	color: white;
+	background-color: #ff756d;
+}
