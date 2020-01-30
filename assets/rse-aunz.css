@@ -45,18 +45,19 @@ a.site-title h2 {
 	margin-top: 12px;
 }
 
-a.site-title h2.phone {
+a.site-title h2.phoneContent {
     display: none;
 }
 
-@media screen and (min-width: 768px) {
-    a.site-title h2.phone {
-        clear: both;
-        display: block;
+@media handheld {
+    .deskContent {
+    	clear: both;
+    	display:none;
     }
-    a.site-title h2.screen {
-    display: none;
-	} 
+    .phoneContent {
+    	clear: both;
+    	display:block;
+    }
 }
 
 /*** Navigation Bar ***/
