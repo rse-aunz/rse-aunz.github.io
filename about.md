@@ -10,6 +10,8 @@ RSE-AUNZ is overseen by a __Steering Committee__ elected by the members.
 Membership is open to RSEs that sign up to the mailing list 
 (see link at the bottom of the page).
 
+![rse-workshop](/assets/RSE-Members-2020-01-31.png){:class="img-responsive"}
+
 ## Steering Committee 2020
 
 ### Co-Chairs
