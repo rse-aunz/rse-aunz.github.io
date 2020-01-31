@@ -11,13 +11,11 @@ This community aims to build awareness of the diverse Research Software
 Engineer (RSE) roles, to connect volunteers in the RSE domain, and to 
 help build practical solutions for the RSE community. 
 
-The community is for:
-- __researchers__, and __academics__, who code
-- __professional software engineers__ working in the research domain
-- __systems administrators__ who maintains research systems
-- __generalist__ who brings communities together across the research
-	and technical domains.
-	
+This community is for:
+
+|:-----:|:-----:|
+| <emp>researchers</emp> and <emp>academics</emp> <br/> who code | <emp>generalists</emp> <br/> who brings communities together across the research and technical domains
+| <emp>software engineers</emp> <br/> who work in the research domain | <emp>systems administrators</emp> <br/>  who maintains research systems 
 
 <a class="rse rse-join" href="{{ site.sign_up }}">Join the community</a>
 

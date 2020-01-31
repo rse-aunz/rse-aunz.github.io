@@ -5,8 +5,7 @@ permalink: /goals/
 navigation_weight: 3
 ---
 
-## Goals
-The following are the four main goals of RSE-AUNZ:
+RSE-AUNZ has four main goals:
 
 1. Maintain an active, diverse, sustainable RSE Community.
 

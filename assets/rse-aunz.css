@@ -76,7 +76,7 @@ body a.rse {
 body a.rse-join {
 	float: left;
 	width: 18%;
-	margin: 1.5em 40%;
+	margin: 1em 40% 1.5em;
 	text-align: center;
 }
 
@@ -100,4 +100,22 @@ span.badge-final {
 span.badge-draft {
 	color: white;
 	background-color: #ff756d;
+}
+
+table, table td {
+	border: none;
+	background-color: white;
+	text-align: center;
+	vertical-align: top;
+}
+
+td emp {
+	color: #590040;
+	text-weight: bold;
+	text-transform: uppercase;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+table td {
+	width: 40%;	
 }

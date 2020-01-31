@@ -5,14 +5,16 @@ permalink: /about/
 navigation_weight: 2
 ---
 
-RSE-AUNZ is overseen by a __Steering Committee__ elected by the members.
+Membershipship is open to RSEs in Australia and New Zealand, who sign up to the mailing list:
 
-Membership is open to RSEs that sign up to the mailing list 
-(see link at the bottom of the page).
+<a class="rse rse-join" href="{{ site.sign_up }}">Join the community</a>
 
 ![rse-workshop](/assets/RSE-Members-2020-01-31.png){:class="img-responsive"}
 
 ## Steering Committee 2020
+
+RSE-AUNZ is overseen by a __Steering Committee__ which is elected by the members.
+The current committee is as follows:
 
 ### Co-Chairs
 - Nooriyah Poonawala-Lohani
