@@ -1,0 +1,21 @@
+toc: 
+  - title: Home 
+    subfolderitems: 
+      - page: Welcome
+        url: /
+      - page: About
+        url: /about/
+  - title: Resources 
+    subfolderitems: 
+      - page: Goals
+        url: /goals/
+      - page: Resources
+        url: /resources/
+      - page: Links
+        url: /links/
+  - title: Articles
+    subfolderitems: 
+      - page: News
+        url: /posts/
+      - page: Minutes
+        url: /minutes/

@@ -22,12 +22,29 @@
 			</label>
 
 			<div class="trigger">
-				{% assign navigation_pages = site.html_pages | sort:
-				'navigation_weight' %} {% for p in navigation_pages %} {% if
-				p.navigation_weight %}
-				<a class="page-link" href="{{ p.url | relative_url }}"> {{
-					p.title | escape }} </a>
-				{% endif %} {% endfor %}
+				<!--  
+				{% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} 
+				{% for p in navigation_pages %} 
+				{% if p.navigation_weight %}
+				<a class="page-link" href="{{ p.url | relative_url }}"> 
+					{{ p.title | escape }}
+				</a>
+				{% endif %} 
+				{% endfor %}
+				-->
+				
+				{% if site.data.navlist.toc.size > 0 %}
+				{% for item in site.data.navlist.toc %}
+				<div class="dropdown">
+					<h3>{{ item.title }}</h3>
+					<div class="dropdown-content">
+						{% for entry in item.subfolderitems %}
+							<a href="{{ entry.url }}">{{ entry.page }}</a>
+						{% endfor %}
+					</div>
+				</div>
+				{% endfor %}
+				{% endif %}
 			</div>
 		</nav>
 		{%- endif -%}
