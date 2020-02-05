@@ -13,9 +13,30 @@ help build practical solutions for the RSE community.
 
 This community is for:
 
-|:-----:|:-----:|
-| <emp>researchers</emp> and <emp>academics</emp> <br/> who code | <emp>generalists</emp> <br/> who brings communities together across the research and technical domains
-| <emp>software engineers</emp> <br/> who work in the research domain | <emp>systems administrators</emp> <br/>  who maintains research systems 
+<div class="roleTable">
+<div class="roleRow">
+	<span class="roles">
+		<emp>researchers</emp> and <emp>academics</emp> <br/> 
+		who code 
+	</span>
+	<span class="roles">
+		<emp>generalists</emp> <br/> 
+		who brings communities together across the <br/>
+		research and technical domains
+	</span>
+</div>
+<div class="roleRow">
+	<span class="roles">
+		<emp>software engineers</emp> <br/> 
+		who work in the research domain
+	</span>
+	<span class="roles">
+		<emp>systems administrators</emp> <br/> 
+		who maintains research systems
+	</span>
+</div>
+</div>
+
 
 <a class="rse rse-join" href="{{ site.sign_up }}">Join the community</a>
 
