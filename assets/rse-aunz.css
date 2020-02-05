@@ -1,5 +1,5 @@
 /*************************************
- RSE-AUNZ Branding
+   RSE-AUNZ Branding
  
 Colours (Dark to Light):
    Purple: 590040   9e2871   c68da8
@@ -162,3 +162,20 @@ td emp {
 table td {
 	width: 40%;	
 }
+
+/*** 404 page ***/
+
+div.page_not_found {
+    margin: 10px auto;
+    max-width: 600px;
+    text-align: center;
+ }
+  
+div.page_not_found h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+  
+/*** end of css file ***/

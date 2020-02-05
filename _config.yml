@@ -41,11 +41,11 @@ markdown: kramdown
 kramdown: 
   input: GFM
 theme: minima
-plugins:
+plugins: 
   - jekyll-feed
-include:
+include: 
   - "_img"
-minima:
-  social_links:
+minima: 
+  social_links: 
     twitter: rse_aunz
     github: rse-aunz
