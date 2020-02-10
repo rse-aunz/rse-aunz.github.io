@@ -32,6 +32,10 @@ permalink: /links/
   
 ### RSE Meetings
   - <a class=""  target="_blank" 
+  			href="https://rsecon2020.society-rse.org/"> 
+  			RSE Conference 2020
+  			</a>
+  - <a class=""  target="_blank" 
   			href="https://rse.ac.uk/conf2019/"> 
   			RSE Conference 2019
   			</a>
