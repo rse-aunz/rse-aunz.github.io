@@ -39,6 +39,10 @@ permalink: /links/
   			</a>
 
 ### Online Communities
+  - <a class=""  target="_blank"
+  			href="https://chat.aero.edu.au/c/RSE">
+  			RSE Chat
+  			</a>
   - <a class=""  target="_blank" 
   			href="https://ukrse.slack.com">
   			RSE Slack
