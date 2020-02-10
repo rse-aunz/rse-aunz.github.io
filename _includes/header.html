@@ -21,18 +21,7 @@
 				</span>
 			</label>
 
-			<div class="trigger">
-				<!--  
-				{% assign navigation_pages = site.html_pages | sort: 'navigation_weight' %} 
-				{% for p in navigation_pages %} 
-				{% if p.navigation_weight %}
-				<a class="page-link" href="{{ p.url | relative_url }}"> 
-					{{ p.title | escape }}
-				</a>
-				{% endif %} 
-				{% endfor %}
-				-->
-				
+			<div class="trigger">			
 				{% if site.data.navlist.toc.size > 0 %}
 				{% for item in site.data.navlist.toc %}
 				<div class="dropdown">
