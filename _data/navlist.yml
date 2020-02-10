@@ -1,21 +1,17 @@
 toc: 
-  - title: Home 
+  - title: Home
+    url: /
+  - title: Community 
     subfolderitems: 
-      - page: Welcome
-        url: /
       - page: About
         url: /about/
-  - title: Resources 
-    subfolderitems: 
       - page: Goals
         url: /goals/
-      - page: Resources
-        url: /resources/
-      - page: Links
-        url: /links/
-  - title: Articles
+      - page: Minutes
+        url: /minutes/
+  - title: Resources
     subfolderitems: 
       - page: News
         url: /posts/
-      - page: Minutes
-        url: /minutes/
+      - page: Links
+        url: /links/

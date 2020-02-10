@@ -36,12 +36,18 @@
 				{% if site.data.navlist.toc.size > 0 %}
 				{% for item in site.data.navlist.toc %}
 				<div class="dropdown">
+					{% if item.url %}
+					<a href="{{ item.url }}">
+						<h3>{{ item.title }}</h3>
+					</a>
+					{% else %}
 					<h3>{{ item.title }}</h3>
 					<div class="dropdown-content">
 						{% for entry in item.subfolderitems %}
 							<a href="{{ entry.url }}">{{ entry.page }}</a>
 						{% endfor %}
 					</div>
+					{% endif %}
 				</div>
 				{% endfor %}
 				{% endif %}
