@@ -5,6 +5,8 @@ permalink: /links/
 
 ---
 
+
+
 ### RSE Associations 
   - <a class="" target="_blank" 
   			href="https://society-rse.org/">
@@ -51,3 +53,5 @@ permalink: /links/
   			href="https://docs.google.com/forms/d/e/1FAIpQLSc9LqOWGwA1xDvSgy81eimcb9s0cNBFso0zv0_HoZz16G1M5w/viewform?c=0&w=1">
   			Request to Join
   			</a>
+  			
+  > Note: all links will open in a new tab.
