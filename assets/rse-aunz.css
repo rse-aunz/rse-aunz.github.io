@@ -64,7 +64,7 @@ nav.site-nav {
 .dropdown {
   	position: relative;
   	display: inline-block;
-  	padding-left: 18px;
+  	padding-left: 10px;
 }
 
 .dropdown:first {

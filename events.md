@@ -1,8 +1,7 @@
 ---
-layout: default
-title: News
-permalink: /posts/
-navigation_weight: 4
+layout: page
+title: Events
+permalink: /events/
 ---
 
 <div class="home">
@@ -10,10 +9,8 @@ navigation_weight: 4
   {%- if site.posts.size > 0 -%}
     <ul class="post-list">
       {%- for post in site.posts -%}
-      {%- if post.tags contains "minutes" or post.tags contains "events" -%}
-      	<!-- ignore -->
-      {%- else -%}
- 	  <li>
+	  {%- if post.tags contains "events" -%}
+      <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
@@ -29,7 +26,6 @@ navigation_weight: 4
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
 </div>

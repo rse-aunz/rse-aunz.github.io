@@ -11,6 +11,8 @@ toc:
         url: /minutes/
   - title: Resources
     subfolderitems: 
+      - page: Events
+        url: /events/
       - page: News
         url: /posts/
       - page: Links

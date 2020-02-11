@@ -23,7 +23,7 @@ who define RSEs as:
 - academics and researchers who code;
 - professional software engineers working in the research space;
 - system administrators who maintain research systems and closely interact with their researchers; and
-- generalists who brings communities together and can engage with both researchers and technical staff.
+- generalists who bring communities together and can engage with both researchers and technical staff.
 
 Please join us on this event to help develop a stronger community by 
 networking and sharing your experiences, skills and knowledge with your 

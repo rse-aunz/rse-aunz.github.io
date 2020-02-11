@@ -21,7 +21,11 @@ problems written down.
 
 We then want to feed those cross domain problems into the Friday 
 workshop to identify some solutions that we could convert into proposals
- to send to funders like the ARDC, NCI, Pawsey, and BPA. 
+ to send to funders like the 
+ [ARDC](https://ardc.edu.au/), 
+ [NCI](https://nci.org.au/), 
+ [Pawsey Supercomputing Centre](https://pawsey.org.au/) , and 
+ [BPA](https://www.bioplatforms.com/). 
  This is a great opportunity as these funders have just been provided 
  funding and are already thinking of how they might allocate these 
  funds.
