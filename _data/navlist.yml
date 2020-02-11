@@ -1,0 +1,19 @@
+toc: 
+  - title: Home
+    url: /
+  - title: Community 
+    subfolderitems: 
+      - page: About
+        url: /about/
+      - page: Goals
+        url: /goals/
+      - page: Minutes
+        url: /minutes/
+  - title: Resources
+    subfolderitems: 
+      - page: Events
+        url: /events/
+      - page: News
+        url: /posts/
+      - page: Links
+        url: /links/

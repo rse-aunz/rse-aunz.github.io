@@ -5,14 +5,22 @@ date:   2019-08-09 12:00:00 +1000
 categories: survey 2018
 ---
 
-In 2018, the RSE-AUNZ Association participated in an international survey <sup>[1]</sup> organized by the Software Sustainability Institute in the UK, with questions tailored for AU and NZ contexts <sup>[2]</sup>.
+In 2018, the RSE-AUNZ Association participated in an international 
+survey <sup>[1]</sup> organized by the Software Sustainability Institute
+ in the UK, with questions tailored for AU and NZ contexts 
+ <sup>[2]</sup>.
 
-“The purpose of this survey is to collect information about people who develop the software that is used in research. We call these people Research Software Engineers (RSEs) <sup>[3]</sup>, but they exist under many job titles (from postdoctoral researcher to applications consultant, to bioinformatician).”
+“The purpose of this survey is to collect information about people who 
+develop the software that is used in research. We call these people 
+Research Software Engineers (RSEs) <sup>[3]</sup>, but they exist under 
+many job titles (from postdoctoral researcher to applications consultant,
+ to bioinformatician).”
 
-There were 99 participants from Australia. The follow slides show some of the important data gathered from their responses: [Slides: Australian results of the 2018](/assets/RSE_Survey_2018_AU_v3.pdf)
+There were 99 participants from Australia. The follow slides show some 
+of the important data gathered from their responses: 
+[Slides: Australian results of the 2018](/assets/RSE_Survey_2018_AU_v3.pdf)
 
 Some highlights include: 
-
   -  64% were educated in the Physical, Information & Computing, or Biological Sciences.
   -  64% had a Doctoral Degree.
   -  51% had over 10 years software development experience, but most had learned their RSE skill on the job.

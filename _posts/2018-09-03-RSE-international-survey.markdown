@@ -2,7 +2,7 @@
 layout: post
 title:  "The First Survey of RSEs in Australia and New Zealand"
 date:   2018-09-03 19:30:00 +1000
-categories: survey
+tags: community survey 
 ---
 
 We are participating in the international survey for RSEs simultaneously run

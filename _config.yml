@@ -7,31 +7,13 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
+#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: RSE AU/NZ community - Recognition for Researchers who Code
-sign_up: https://groups.google.com/forum/#!forum/rse-nz-au/join
-description: >- # this means to ignore newlines until "baseurl:"
-  A community for academics/researchers who code but are lacking recognition and metrics needed to progress their academic career
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rse_aunz
-github_username:  rse-aunz
-github_repo:  rse-au
-
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-
-include:
-  - "_img"
-
+#
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -43,3 +25,27 @@ include:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+title: RSE Australia / New Zealand
+title-short: RSE-AUNZ
+sign_up: https://groups.google.com/forum/#!forum/rse-nz-au/join
+description: >- # this means to ignore newlines until "baseurl:"
+  A community for academics and professionals who work with software in the research domain.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: rse_aunz
+github_username:  rse-aunz
+github_repo:  rse-au
+logo: RSE_AUNZ_logo.png
+markdown: kramdown
+kramdown: 
+  input: GFM
+theme: minima
+plugins: 
+  - jekyll-feed
+include: 
+  - "_img"
+minima: 
+  social_links: 
+    twitter: rse_aunz
+    github: rse-aunz
