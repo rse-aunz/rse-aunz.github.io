@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "eResearch Australasia pre-conference workshop and BoF - Recognition for Researchers who Code"
-date:   2018-11-03 04:00:00 +1000
+from:   2018-10-16 09:00:00 +1000
+to:     2018-10-16 17:00:00 +1000
+location: Melbourne, Australia
 tags: events conference
 ---
 

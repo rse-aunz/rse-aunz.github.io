@@ -184,5 +184,17 @@ div.page_not_found h1 {
     line-height: 1;
     letter-spacing: -1px;
 }
-  
+
+.event {
+	padding-right: 16px;
+}
+
+.event span {
+	font-weight: 400;
+	color: #590040;
+}
+
+td.lastrow {
+	border-bottom: 2px double #590040;
+}
 /*** end of css file ***/

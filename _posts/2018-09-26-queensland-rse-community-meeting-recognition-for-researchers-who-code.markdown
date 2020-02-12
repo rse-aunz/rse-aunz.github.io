@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Queensland RSE Community Meeting - Recognition for Researchers who Code"
-date:   2018-09-26 14:00:00 +1000
+from:   2018-10-05 15:00:00 +1000
+to:     2018-10-05 17:00:00 +1000
+location: Brisbane, Australia
 tags:  Queensland events
 ---
 

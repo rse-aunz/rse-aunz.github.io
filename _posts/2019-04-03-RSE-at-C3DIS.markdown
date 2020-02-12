@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: event
 title:  "RSE community at C3DIS"
-date:   2019-04-03 07:50:04 +1000
+from:   2019-05-19 09:00:00 +1000
+to:     2019-05-19 17:00:00 +1000
+location: Canberra, Australia
 tags: events conference
 ---
 

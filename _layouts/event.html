@@ -1,0 +1,53 @@
+--- 
+layout: default 
+---
+
+<article class="post h-entry" itemscope
+	itemtype="http://schema.org/BlogPosting">
+
+	<header class="post-header"> 
+		<p class="post-meta">
+			
+			{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} 
+			{%- assign time_format = "%l:%M %P" -%} 
+			{%- if page.from -%}
+			<time class="event">
+				<span>Date</span>: {{ page.from | date: date_format }}
+			</time>
+			<span class="event">
+				<span>Time</span>: {{ page.from | date: time_format }}
+				{%- if page.to -%}
+					&nbsp; - &nbsp;
+						{{ page.to | date: time_format }}
+					</span>
+				{%- endif -%}
+			</span>
+			{%- endif -%}			
+			
+			{%- if page.location -%}
+			<span class="event">
+				<span>Location</span>: {{ page.location }}
+			</span>
+			{%- endif -%}
+					
+			{%- if page.more_info -%}
+			<span class="event">
+				<a href="{{ page.more_info }}" target="_blank">
+					More Information
+				</a>
+			</span>
+			{%- endif -%}
+					
+		</p>
+	</header>
+
+	<div class="post-content e-content" itemprop="articleBody">
+		{{ content }}
+	</div>
+
+	{%- if site.disqus.shortname -%} 
+		{%- include disqus_comments.html -%}
+	{%- endif -%}
+
+	<a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
