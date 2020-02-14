@@ -35,14 +35,14 @@ permalink: /events/
 			<h3>
 				<a class="post-link" href="{{ post.url | relative_url }}">
 					{{ post.title | escape }} 
-						{%- if site.show_excerpts -%}
-						<br/> {{ post.excerpt }}
-					{%- endif -%}
 				</a>
 			</h3>
+			{%- if site.show_excerpts -%}
+				{{ post.excerpt }}
+			{%- endif -%}
+
 		</td>
     </tr>
-	
 	{%- endif -%}
   {%- endfor -%}
   

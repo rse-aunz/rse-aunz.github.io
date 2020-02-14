@@ -5,6 +5,7 @@ from:   2019-10-21 09:00:00 +1000
 to:     2019-10-21 17:00:00 +1000
 location: Brisbane, Australia
 tags: events conference
+
 ---
 
 At the last interim steering committee meeting on the 28th of May, 
