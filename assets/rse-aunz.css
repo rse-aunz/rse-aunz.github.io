@@ -194,7 +194,22 @@ div.page_not_found h1 {
 	color: #590040;
 }
 
-td.lastrow {
+tr.lastrow {
 	border-bottom: 2px double #590040;
 }
+
+table.w3-table {
+	border: none;
+}
+
+table.w3-table tr:nth-child(even) {
+	background: none;
+	padding-top: none;
+}
+
+table.w3-table tbody tr td {
+	border: none;
+}
+
+
 /*** end of css file ***/

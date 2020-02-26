@@ -35,6 +35,7 @@ The current committee is as follows:
 
 ## Minutes of Steering Committee Meetings
 
-| SCM No.3 | Pending |  &nbsp; &nbsp;  &nbsp; **2019.11.01** |
+| SCM No.4 | Pending |  &nbsp; &nbsp;  &nbsp; **2020.02.25** |
+| SCM No.3 | Final | <a class="rse" href="/2020/01/28/Minutes-of-SCM-03">2020.01.28</a> |
 | SCM No.2 | Final | <a class="rse" href="/2019/11/01/Minutes-of-SCM-02">2019.11.01</a> |
 | SCM No.1 | Final | <a class="rse" href="/2019/10/17/Minutes-of-SCM-01">2019.10.17</a> |
