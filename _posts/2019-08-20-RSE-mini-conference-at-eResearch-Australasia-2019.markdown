@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "RSE mini-conference at eResearch Australasia"
-date:   2019-08-20 11:50:04 +1000
-tags: events Queensland volunteers
+date:   2019-10-21 09:00:00 +1000
+tags: Queensland volunteers
 ---
 
 The RSE Mini-conference on the 21st of October 2019 in Brisbane, 
