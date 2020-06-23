@@ -11,7 +11,7 @@ RSE-AUNZ has four main goals:
 
 2. Define the role of RSE-AUNZ within the eResearch, Academic, and Professional context.
 
-3. Form a connection between communities: people and organizations.
+3. Form a connection between communities: people and organisations.
 
 4. Obtain recognition for RSE-AUNZ and its role.
 
@@ -24,7 +24,7 @@ through which RSE-AUNZ can progress its goals:
 2. Define Personas, Profiles, or Personal Stories of the people that 
 form the RSE community.
 
-3. Create Impact Stories to inform organizations about RSE.
+3. Create Impact Stories to inform organisations about RSE.
 
 4. Establish a permanent Web Presence to be launched at eResearch
 Australasia 2019.
@@ -32,4 +32,4 @@ Australasia 2019.
 5. Run Face-to-face Meetings and grow contacts in states and regional 
 areas not yet engaged.
 
-6. Create an Info Pack for Local RSE Groups.
+6. Create an Info Pack for local RSE Groups.
