@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Minutes of Steering Committee Meeting No.6"
+title:  "Minutes of Steering Committee Meeting No.7"
 date:   2020-06-23 15:00:00 +1000
 tags: minutes steering
-published: true
+published: false
 badges: [ draft ]
 ---
 
