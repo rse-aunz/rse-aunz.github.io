@@ -74,6 +74,5 @@ The need to transition 'rse-aunz.org' from http to https was discussed. Further 
 ## Next Meeting
 Scheduled: 2pm (AEST) on Tuesday 26th May.
 
-> Notes
-> These minutes have been drafted under part of the Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule). This promotes openness, and inclusion, by not attributing any specific 
-> comment to any individual/s. The exception is that participants are necessarily listed as attendees of the Steering Committee meeting.
+> Notes:
+> These minutes have been drafted under part of the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule). This promotes openness, and inclusion, by not attributing any specific comment to any individual/s. The exception is that participants are necessarily listed as attendees of the Steering Committee meeting.

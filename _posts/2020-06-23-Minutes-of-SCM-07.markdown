@@ -18,8 +18,6 @@ badges: [ draft ]
 ## Guests
 - [VH] Vicky Hellon (Associate Publisher, F1000Research)
 
-  
-
 ## Discussion
 For the detailed agenda see: [GitHub Issue 12](https://github.com/rse-aunz/organisation/issues/12)
 
@@ -103,6 +101,4 @@ None.
 ## Next Meeting
 Scheduled: 2pm (AEST) on Tuesday 28th July, 2020.
 
-> Notes
-> These minutes have been drafted under part of the Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule). This promotes openness, and inclusion, by not attributing any specific 
-> comment to any individual/s. The exception is that participants are necessarily listed as attendees of the Steering Committee meeting.
+> Notes: These minutes have been drafted under part of the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule). This promotes openness, and inclusion, by not attributing any specific comment to any individual/s. The exception is that participants are necessarily listed as attendees of the Steering Committee meeting.

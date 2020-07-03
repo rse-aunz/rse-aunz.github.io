@@ -98,5 +98,4 @@ None.
 Scheduled: 2pm (AEST) on Tuesday 23rd June.
 
 > Notes
-> These minutes have been drafted under part of the Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule). This promotes openness, and inclusion, by not attributing any specific 
-> comment to any individual/s. The exception is that participants are necessarily listed as attendees of the Steering Committee meeting.
+> These minutes have been drafted under part of the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule). This promotes openness, and inclusion, by not attributing any specific comment to any individual/s. The exception is that participants are necessarily listed as attendees of the Steering Committee meeting.

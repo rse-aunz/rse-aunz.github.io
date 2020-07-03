@@ -118,6 +118,4 @@ Several non-Victorian committee members will be in Melbourne for the C3DIS'20, s
 
 Steering Committee Meeting #5 on the evening of Mon. 16th March (provisionally).
 
-> Notes
-> These minutes have been drafted under part of the Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule). This promotes openness, and inclusion, by not attributing any specific 
-> comment to any individual/s. The exception is that participants are necessarily listed as attendees of the Steering Committee meeting.
+> Notes: These minutes have been drafted under part of the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule). This promotes openness, and inclusion, by not attributing any specific  comment to any individual/s. The exception is that participants are necessarily listed as attendees of the Steering Committee meeting.
