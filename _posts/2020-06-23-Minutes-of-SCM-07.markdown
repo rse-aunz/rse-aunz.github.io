@@ -24,7 +24,7 @@ badges: [ draft ]
 For the detailed agenda see: [GitHub Issue 12](https://github.com/rse-aunz/organisation/issues/12)
 
 ### 1. Approval of Previous Minutes
-See link: [Minutes from Meeting No.6](https://docs.google.com/document/d/1T8qbNSuxM2tvUjoaF_rjqc45EV9GfhkEc_8Pt4ZYuKI) - Passed unanimously.
+See link: [Minutes from Meeting No.6](/2020/05/26/Minutes-of-SCM-06) - Passed unanimously.
 
 Completed and updated actions carried forward.
 

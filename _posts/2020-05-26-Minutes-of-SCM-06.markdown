@@ -7,8 +7,7 @@ published: true
 badges: [ final ]
 ---
 
-## Attendees
-- 
+## Attendees 
 - [JB] Justin Baker
 - [MS] Manodeep Sinha  (Chair)
 - [NL] Nooriyah Poonawala-Lohani
@@ -23,7 +22,7 @@ badges: [ final ]
 For the detailed agenda see: [GitHub Issue 11](https://github.com/rse-aunz/organisation/issues/11)
 
 ### 1. Approval of Previous Minutes
-See link: [Minutes from Meeting No.5](https://docs.google.com/document/d/1rYxXbaJN0ic1N6TXtiBZmby9ZCbzEU6KKlX1rP0AIwU) - Passed unanimously.
+See link: [Minutes from Meeting No.5](/2020/04/28/Minutes-of-SCM-05) - Passed unanimously.
 
 Completed and updated actions carried forward.
 
