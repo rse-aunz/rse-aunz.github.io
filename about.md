@@ -34,7 +34,7 @@ The current committee is as follows:
 - Daniel Collins (2019-20)
 
 ### Nomination Statements
-- [Election 2019](https://github.com/mpfl/rse-au/blob/master/Elections/2019/nominations.md)
+- [Election 2019](https://github.com/rse-aunz/rse-au/blob/master/Elections/2019/nominations.md)
 
 
 ## Minutes of Steering Committee Meetings
