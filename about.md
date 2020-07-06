@@ -11,7 +11,7 @@ Membership is open to RSEs in Australia and New Zealand, who sign up to the mail
 
 ![rse-workshop](/assets/RSE-Members-2020-07-03.png){:class="img-responsive"}
 
-## Steering Committee 2020
+## Steering Committee
 
 RSE-AUNZ is overseen by a __Steering Committee__ which is elected by the members.
 The current committee is as follows:
@@ -20,10 +20,8 @@ The current committee is as follows:
 - Nooriyah Poonawala-Lohani
 - Manodeep Sinha
 
-
 ### Secretary
 - Nicholas May
-
 
 ### General Members
 - Justin Baker
@@ -33,8 +31,10 @@ The current committee is as follows:
 - *vacant*
 
 ### Past Members
+- Daniel Collins (2019-20)
 
-- Daniel Collins 
+### Nomination Statements
+- [Election 2019](https://github.com/mpfl/rse-au/blob/master/Elections/2019/nominations.md)
 
 
 ## Minutes of Steering Committee Meetings
