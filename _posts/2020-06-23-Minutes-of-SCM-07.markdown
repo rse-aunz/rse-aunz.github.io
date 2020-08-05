@@ -3,8 +3,8 @@ layout: post
 title:  "Minutes of Steering Committee Meeting No.7"
 date:   2020-06-23 15:00:00 +1000
 tags: minutes steering
-published: false
-badges: [ draft ]
+published: true
+badges: [ final ]
 ---
 
 ## Attendees
@@ -26,11 +26,11 @@ See link: [Minutes from Meeting No.6](/2020/05/26/Minutes-of-SCM-06) - Passed un
 
 Completed and updated actions carried forward.
 
-- [HP] Contact Rowland Mosbergen about pictures from the eResAus 2019 workshop - Done
-- [HP, NL] Gather content from Workshop and BoF at eResAus 2019 and eResNZ 2020 (Done) and create a post (or posts) from the content.
+- [HP] Contact Rowland Mosbergen about pictures from the eResAus 2019 workshop - **done**
+- [HP, NL] Gather content from Workshop and BoF at eResAus 2019 and eResNZ 2020 (**done**) and create a post (or posts) from the content.
   - The committee agreed that the post should be shared with the participants and the RSE-AUNZ community, via the website, google group, and participants email list.
-- [MS] Investigate a potential relationship between RSE-AUNZ and F1000Research - Done.
-- [NM] Share logo and branding details with NL. - Done
+- [MS] Investigate a potential relationship between RSE-AUNZ and F1000Research - **done**.
+- [NM] Share logo and branding details with NL. - **done**
 
 ### 2. Discussion of Events for 2020
 
@@ -91,11 +91,11 @@ None.
 
 ##### Deliverables - on hold.
 
-- [MS]  	D1 (Manifesto): re-draft (if appropriate) and outline steps to advance.
-- [NL]  	D7 (Survey): re-draft (if appropriate) and outline steps to advance.
-- [HP]  	D2 (Personas): re-draft (if appropriate) and outline steps to advance.
-- [NM] 	D4 (Web Presence): re-draft (if appropriate) and outline steps to advance.
-- [JB]  	D5 (Meetings): re-draft (if appropriate) and outline steps to advance.
+- D1 (Manifesto): re-draft (if appropriate) and outline steps to advance.
+- D7 (Survey): re-draft (if appropriate) and outline steps to advance.
+- D2 (Personas): re-draft (if appropriate) and outline steps to advance.
+- D4 (Web Presence): re-draft (if appropriate) and outline steps to advance.
+- D5 (Meetings): re-draft (if appropriate) and outline steps to advance.
   - See [RSE-AUNZ D5 Run Face to Face Meetings](https://drive.google.com/open?id=1UVCYK9AhfJLTqavvTdWCkgB_yjkaUu8qUYqrElijolc)
 
 ## Next Meeting
