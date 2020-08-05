@@ -7,7 +7,7 @@ categories: topics online 2020
 
 RSE-AUNZ, in association with the [ARDC](https://ardc.edu.au/) is planning to run regular online events on topics of interest to the RSE community.
 
-<a class="rse rse-join" target="_blank" href="https://www.tricider.com/admin/33t2mlX7PGN/BDpZ6Q5s733">Topics and Votes</a>
+<a class="rse rse-join" target="_blank" href="https://www.tricider.com/brainstorming/33t2mlX7PGN">Topics and Votes</a>
 
 We would like to know which topics you would be interested in learning more about. The link above provides a place for you to add and describe your topic ideas, add feedback on other peoples ideas, and vote for your favourites. No sign-up is required, just follow the link to the Tricider platform and get voting.
 
