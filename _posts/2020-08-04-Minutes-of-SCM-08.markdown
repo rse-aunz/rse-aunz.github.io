@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Minutes of Steering Committee Meeting No.7"
-date:   2020-06-23 15:00:00 +1000
+title:  "Minutes of Steering Committee Meeting No.8"
+date:   2020-08-04 14:00:00 +1000
 tags: minutes steering
 published: true
 badges: [ final ]
@@ -10,83 +10,71 @@ badges: [ final ]
 ## Attendees
 - [HP] Heidi Perrett
 - [JB] Justin Baker
-- [MS] Manodeep Sinha  (Chair)
-- [NL] Nooriyah Poonawala-Lohani
+- [MS] Manodeep Sinha
+- [NL] Nooriyah Poonawala-Lohani (Chair)
 - [NM] Nicholas May
 - [RL] Rebecca Lange
 
-## Guests
-- [VH] Vicky Hellon (Associate Publisher, F1000Research)
-
 ## Discussion
-For the detailed agenda see: [GitHub Issue 12](https://github.com/rse-aunz/organisation/issues/12)
+For the detailed agenda see: [GitHub Issue 13](https://github.com/rse-aunz/organisation/issues/13)
 
 ### 1. Approval of Previous Minutes
-See link: [Minutes from Meeting No.6](/2020/05/26/Minutes-of-SCM-06) - Passed unanimously.
+See link: [Minutes from Meeting No.7](/2020/06/23/Minutes-of-SCM-07) - Passed unanimously.
 
-Completed and updated actions carried forward.
+### 2. Discussion of Online Events for 2020
 
-- [HP] Contact Rowland Mosbergen about pictures from the eResAus 2019 workshop - **done**
-- [HP, NL] Gather content from Workshop and BoF at eResAus 2019 and eResNZ 2020 (**done**) and create a post (or posts) from the content.
-  - The committee agreed that the post should be shared with the participants and the RSE-AUNZ community, via the website, google group, and participants email list.
-- [MS] Investigate a potential relationship between RSE-AUNZ and F1000Research - **done**.
-- [NM] Share logo and branding details with NL. - **done**
+- [eResearch Australasia 2020](https://conference.eresearch.edu.au/) 
 
-### 2. Discussion of Events for 2020
+The committee discussed the opportunities provided by presenting at this event and identified three potential contributions (and their target audiences):
 
-The committee reviewed the [Tricider](https://www.tricider.com/admin/2rDIG9YkaPB/EFbYe3vgIwX) poll and agreed that the platform was sufficient for our needs. Furthermore, it was agreed that:
+- <u>RSE Impact Stories</u> (RSEs and eResearch Organizations): A session where RSEs can share personal stories about their roles that promote recognition of RSE contributions. Possibly as Lightning Talks.
+- <u>Tools and Techniques</u> (RSEs): A session for RSEs to share use-cases for tools or skill sets, which they have used, to inform the RSE community. Possibly as Lightning Talks.
+- <u>RSE Strategy</u> (eResearch Organizations): A BoF session to discuss the bigger picture of RSE in AUNZ, such as: 
+  - the health of the community
+  - the ongoing collaborations between organizations in the RSE space 
+  - growth and change in-line with our deliverables
 
-- The top voted topic should be progress with the ARDC as our first event.
-- Other topics should be expanded with more detail, as examples.
-- The poll should be shared so that the wider RSE-AUNZ community can contribute and vote.
+### 3. Outstanding Actions - updates
 
-### 3. F1000Research
-
- The committee has been contacted by [F1000Research ](https://f1000research.com/)to explore a potential collaboration around promoting open research.
-
-VH was invited to present a brief talk about F1000Research to the Steering Committee, and discuss potential collaborations. The key point are as follows:
-
-- F1000Research are an open access publisher, primarily for science.
-- Their platform also provides publishing [gateways ](https://f1000research.com/gateways)for projects and funding agencies, and support for [collections](https://f1000research.com/collections).
-- They would like to expand the platform support for publishing software tools.
-- The benefits of their publishing process include:
-  - Speed - approx. 14 days from submission to an initial publication.
-  - Flexibility - accepts different research outputs, including software tools, with credit for all types.
-  - Transparent - open review process. (Like [JOSS](https://joss.theoj.org/)).
-- Software Tools submissions use a 
-  - Additional integrations include: CodeOcean, Plotly, RShiny, etc.
-- Collections are free to set up and can be created for domains and platforms.
-- The platform is funded by submissions. 
-  - Submission cost is based on length.
-  - Non-peer reviewed submissions are free if they are submitted to a collection.
-
-The committee commented that there may be a potential use-case for a 'Research Software' or 'RSE' specific collection. Further discussion about this use-case would be useful, and it was suggested that it might be beneficial to include the [Research Software Alliance](https://www.researchsoft.org/) in this conversation.
-
-### 4. Casual Vacancies
-The committee received notice from Daniel Collins that he has resigned from the Steering Committee as of this meeting. The committee would like to thank Daniel for his valuable contribution to progressing the association and hope that he will stay connected with RSE-AUNZ in the future, if time pressures permit.
-
-As of this meeting there are now two casual vacancies.
+- [NL] Commence planning for a virtual event about: - **action assigned**
+  "How to publicly share 100 TB's of data with a Jupyter Notebook access."
+- [NM] Share and publicize the poll with the RSE-AUNZ community. - **done** 
+- [All] Create posts for the website about outputs/results from the following: 
+  \- **in progress**
+  - [NM] Create google docs for collaboration on posts.
+  - [HP] Oversee post: Workshop and BoF at eResAus 2019
+  - [NL] Oversee post: eResNZ 2020.
+  - [MS] Share lists of attendees for eResAus 2019 events.
+  - [All] Contribute to the posts.
+- [NM] Investigate implementation of secure protocol for rse-aunz.org website. 
+  \- **done**. Not possible under current website deployment.
+- [NL] Invite the candidate (casual vacancy) to submit nomination information. 
+  \- **done**. Waiting on submissions.
+- [NM] Update website: **done**
+  - Add approved minutes. 
+  - Update steering committee membership.
+  - Add Posts (when available).
 
 ### 5. Any other business
 
-None.
+- **Podcast**: NL has been invited to take part in a podcast called [RSE Stories](https://us-rse.org/rse-stories/) and will keep the committee informed about progress and proposed content.
+- **Election 2020**: The scheduling of the next steering committee election was raised. NM committed to sharing the dates and process of 2019 election with the committee for discussion.
+  - A suggestion was made to introduce rolling half-committee elections with two year terms, to ensure ongoing continuity of activities. This issue of how this could be implemented in the 2020 election was deferred for further discussion.
 
 ## Actions
-- [All] 	Expand ideas submitted to the poll: https://www.tricider.com/admin/2rDIG9YkaPB/EFbYe3vgIwX
-- [TBA] 	Commence planning for a virtual event about:
-  "How to publicly share 100 TB's of data with a Jupyter Notebook access"
-- [NM] 	Share and publicize the poll with the RSE-AUNZ community.
+- [NM]	Schedule a special meeting to discuss eResearch Australasia 2020, and create a discussion document to share ideas.
+- [NM]	Share 2019 steering committee election process and dates.
+- [All] 	Expand ideas submitted to the poll: https://www.tricider.com/brainstorming/33t2mlX7PGN
+- [NL] 	Planning our first online event about:
+          	"How to publicly share 100 TB's of data with a Jupyter Notebook access"
 - [All] Create posts for the website about outputs/results from the following:
   - [NM] Create google docs for collaboration on posts.
   - [HP] Oversee post: Workshop and BoF at eResAus 2019 
   - [NL] Oversee post: eResNZ 2020.
   - [MS] Share lists of attendees for eResAus 2019 events.
   - [All] Contribute to the posts.
-- [NM]  	Investigate implementation of secure protocol for rse-aunz.org website.
-- [NL]	Invite the candidate (casual vacancy) to submit nomination information.
 - [NM]	Update website:
-  - Add approved minutes.
-  - Update steering committee membership.
+  - Add approved minutes #7.
   - Add Posts (when available).
 
 ##### Deliverables - on hold.
@@ -99,6 +87,7 @@ None.
   - See [RSE-AUNZ D5 Run Face to Face Meetings](https://drive.google.com/open?id=1UVCYK9AhfJLTqavvTdWCkgB_yjkaUu8qUYqrElijolc)
 
 ## Next Meeting
-Scheduled: 2pm (AEST) on Tuesday 28th July, 2020.
+- Special: 2pm (AEST) on Monday 10th August, 2020
+- Scheduled: 2pm (AEST) on Tuesday 25th August, 2020.
 
 > Notes: These minutes have been drafted under part of the [Chatham House Rule](https://www.chathamhouse.org/chatham-house-rule). This promotes openness, and inclusion, by not attributing any specific comment to any individual/s. The exception is that participants are necessarily listed as attendees of the Steering Committee meeting.
