@@ -3,18 +3,20 @@ layout: event
 title:  RSE-AUNZ at eResearch Australasia 2020
 from:   2020-10-08 15:00:00 +1000    
 location: eResearch Australasia 2020
-tags: online events                
+tags: events                
 published: true
 ---
 
+## An overview of RSE-AUNZ activities at eRA2020
+
 Dear RSEs,
 
-The RSE-AUNZ Steering Committee is leading and collaborating on the following RSE-focused events at the on-line conference: [eResearch Australasia 2020](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fprotect-au.mimecast.com%2Fs%2F8jIgCxnMOnFq2mYNuvEld3%3Fdomain%3Dconference.eresearch.edu.au&data=02|01|nicholas.may%40rmit.edu.au|81b1e55debd34890667608d86af73bc6|d1323671cdbe4417b4d4bdb24b51316b|0|0|637376958584614324&sdata=BRxsHvD4p1wE679fJgpRp6ClAyJOnc3Kv%2By5BV87uOg%3D&reserved=0)
+The RSE-AUNZ Steering Committee is leading and collaborating on the following RSE-focused events at the on-line conference: [eResearch Australasia 2020](https://conference.eresearch.edu.au/)
 
-- [RSE: Creating a community and an identity within complex research ecosystems.](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fprotect-au.mimecast.com%2Fs%2FDIzKCyoNQohml6xVTQOqXH%3Fdomain%3Dconference.eresearch.edu.au&data=02|01|nicholas.may%40rmit.edu.au|81b1e55debd34890667608d86af73bc6|d1323671cdbe4417b4d4bdb24b51316b|0|0|637376958584624317&sdata=moeIhmWFKzgIGJ80Sf2nd8whJzxmwmrd%2B1Z2AOyUVQo%3D&reserved=0) Presentation, Wed. 21st Oct, 12:40 - 13:00 (AEDT)
-- [RSE Impact Stories](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fprotect-au.mimecast.com%2Fs%2F90_UCzvOVvsN085VFKWRrR%3Fdomain%3Dconference.eresearch.edu.au&data=02|01|nicholas.may%40rmit.edu.au|81b1e55debd34890667608d86af73bc6|d1323671cdbe4417b4d4bdb24b51316b|0|0|637376958584624317&sdata=EyqYE7JeFOlqmQe4gHVuES5jhUn7PqtI5RZoUtl%2Bsos%3D&reserved=0) Birds of a Feather session, Wed. 21st Oct., 13:30 - 14:30 (AEDT)
-- [Training for and by the RSE Community](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fprotect-au.mimecast.com%2Fs%2Fj4_tCANZjNTJvrkqtQuc3K%3Fdomain%3Dconference.eresearch.edu.au&data=02|01|nicholas.may%40rmit.edu.au|81b1e55debd34890667608d86af73bc6|d1323671cdbe4417b4d4bdb24b51316b|0|0|637376958584634312&sdata=D1g7n6pKq%2Bm8yNGZ3SVPCvhISp8gwa6BdEnBAnsKaV8%3D&reserved=0) Birds of a Feather session, Thurs. 22nd Oct., 13:30 - 14:30 (AEDT)
-- [Best Practice for FAIR and Sustainable Research Software](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fprotect-au.mimecast.com%2Fs%2FI4DHCBNZlNTJgPY2t1rllk%3Fdomain%3Dconference.eresearch.edu.au&data=02|01|nicholas.may%40rmit.edu.au|81b1e55debd34890667608d86af73bc6|d1323671cdbe4417b4d4bdb24b51316b|0|0|637376958584634312&sdata=1FQYXl1GpKUTj2d4lIEsyYrEv2HEHqLdQrlrvEzjaLU%3D&reserved=0) (jointly with *ReSA* and *ARDC*) Birds of a Feather session, Fri. 23rd. Oct, 13:30 - 13:40 (AEDT)
+- [RSE: Creating a community and an identity within complex research ecosystems.](https://conference.eresearch.edu.au/2020/09/research-software-engineers-creating-a-community-and-an-identity-within-complex-research-ecosystems/) Presentation, Wed. 21st Oct, 12:40 - 13:00 (AEDT)
+- [RSE Impact Stories](https://conference.eresearch.edu.au/2020/09/rse-impact-stories/) Birds of a Feather session, Wed. 21st Oct., 13:30 - 14:30 (AEDT)
+- [Training for and by the RSE Community](https://conference.eresearch.edu.au/2020/09/training-for-and-by-the-rse-community/) Birds of a Feather session, Thurs. 22nd Oct., 13:30 - 14:30 (AEDT)
+- [Best Practice for FAIR and Sustainable Research Software](https://conference.eresearch.edu.au/2020/09/best-practice-for-fair-and-sustainable-research-software/) (jointly with *ReSA* and *ARDC*) Birds of a Feather session, Fri. 23rd. Oct, 13:30 - 13:40 (AEDT)
 
 **Call for Contributions**
 
@@ -28,8 +30,8 @@ We'd like to invite you to participate in the **RSE Impact Stories** session by 
 
 Regards,
 
-Nicholas May, on behalf of
-
+Nicholas May
+on behalf of 
 RSE-AUNZ Steering Committee
 
 Email: contact (at) rse-aunz.org

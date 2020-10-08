@@ -34,12 +34,14 @@ The current committee is as follows:
 - Daniel Collins (2019-20)
 
 ### Nomination Statements
-- [Election 2019](https://github.com/rse-aunz/rse-au/blob/master/Elections/2019/nominations.md)
+- [Election 2020](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/nominations.md)
+- [Election 2019](https://github.com/rse-aunz/organisation/blob/master/Elections/2019/nominations.md)
 
 
 ## Minutes of Steering Committee Meetings
 
-| SCM No.9 | Pending | &nbsp; &nbsp;  &nbsp; **2020.08.25** |
+| SCM No.10 | Pending | &nbsp; &nbsp;  &nbsp; **2020.09.24** |
+| SCM No.9 | Final | <a class="rse" href="/2020/08/25/Minutes-of-SCM-09">2020.08.25</a> |
 | SCM No.8 | Final | <a class="rse" href="/2020/08/04/Minutes-of-SCM-08">2020.08.04</a> |
 | SCM No.7 | Final | <a class="rse" href="/2020/06/23/Minutes-of-SCM-07">2020.06.23</a> |
 | SCM No.6 | Final | <a class="rse" href="/2020/05/26/Minutes-of-SCM-06">2020.05.26</a> |
