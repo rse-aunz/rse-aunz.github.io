@@ -3,14 +3,14 @@ layout: post
 title:  "Minutes of Steering Committee Meeting No.9"
 date:   2020-08-25 14:00:00 +1000
 tags: minutes steering
-published: false
-badges: [ draft]
+published: true
+badges: [ final ]
 ---
 
 ## Attendees
 - [HP] Heidi Perrett
 - [JB] Justin Baker
-- [MS] Manodeep Sinha
+- [MS] Manodeep Sinha 
 - [NL] Nooriyah Poonawala-Lohani (Chair)
 - [NM] Nicholas May
 - [RL] Rebecca Lange
