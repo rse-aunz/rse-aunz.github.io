@@ -18,4 +18,4 @@ You can make contributions, about technical or soft skills, in any of the follow
 - [Workshops](https://sorse.github.io/programme/workshops/)
 - [Blog Posts](https://sorse.github.io/faq/howto/contribute-blog-posts)
 
-This is an open continuous call with rolling deadlines at the end of the last day (UTC) of each month, and the next deadline is set for 1st September.
+This is an open continuous call with rolling deadlines at the end of the last day (UTC) of each month.
