@@ -26,7 +26,7 @@ The RSE-AUNZ Steering Committee is leading and collaborating on the following RS
 
 We'd like to invite you to participate in the **RSE Impact Stories** session by sharing your stories with the conference attendees. These impact stories can show how your contribution changed a research workflow or improved research outcomes. Such impact stories can range from automating a pipeline, optimising research software, to packaging and distributing code. We will attempt to include all contributions, subject to each talk being *2 mins minimum.*
 
-- Please apply via the following google form: **[RSE Impact Stories BoF - Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSe28uh7O9BbL9gyBaW0TJBCDvE9vw1e-js3lWduyHN9r6RRkg/viewform])**
+- Please apply via the following google form: **[RSE Impact Stories BoF - Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSe28uh7O9BbL9gyBaW0TJBCDvE9vw1e-js3lWduyHN9r6RRkg/viewform)**
 - Due Dates:
   - **[Wed. 14th Oct. 6 pm (AWST)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RSE+Impact+Stories+-+Submission+Deadline&iso=20201014T18&p1=196)** - Submissions are due.
   - **Thurs. 15th Oct** - Presenters will be notified about talk acceptance and slide submission details.
