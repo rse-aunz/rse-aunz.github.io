@@ -9,7 +9,7 @@ RSE-AUNZ has four main goals:
 
 1. Maintain an active, diverse, sustainable RSE Community.
 
-2. Define the role of RSE-AUNZ within the eResearch, Academic, and Professional context.
+2. Define the role of RSEs within the eResearch, Academic, and Professional context.
 
 3. Form a connection between communities: people and organisations.
 
