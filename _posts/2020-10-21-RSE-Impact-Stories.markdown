@@ -6,7 +6,8 @@ tags: eResearch Australasia impact
 published: true                     
 ---
 
-In a session called [RSE Impact Stories](https://conference.eresearch.edu.au/2020/09/rse-impact-stories/), **Justin Baker** (CSIRO) chaired a discussion with two experienced RSEs:
+In a session called [RSE Impact Stories](https://conference.eresearch.edu.au/2020/09/rse-impact-stories/){:target="_blank" rel="noopener"}
+, **Justin Baker** (CSIRO) chaired a discussion with two experienced RSEs:
 
 **Ian Thomas** from RMIT University provided an RSE’s perspective on **From the soil sample jar to society: an example of collating and sharing scientific data**.  Ian gave a great overview of this interesting project work covering the complex technical environment involving many different stakeholders. including RMIT’s eResearch unit, the researchers themselves, data providers, software developers, funding bodies and IT services. 
 
