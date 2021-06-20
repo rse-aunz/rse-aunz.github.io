@@ -16,14 +16,19 @@ Ian defined eResearch as “glueware” used to pull all of this together and em
 
 Ian’s highlighted project was shown as an exemplar of complex eResearch projects, particularly  involving experienced RSEs.
 
-<span><img src="/assets/thomas1.jpg" /><i>The [Victorian Background Soil Database](https://soilexplorer.eres.rmit.edu.au/soil-explorer)</i></span> is an example of RSE's working with researchers.</i></span>
-
+<span>
+<img src="/assets/thomas1.jpg" />
+<i>The [Victorian Background Soil Database](https://soilexplorer.eres.rmit.edu.au/soil-explorer) is an example of RSE's working with researchers.</i>
+</span>
 
 **Alexander Pletzer** from NeSI/NIWA presented **How NeSI helps its users run code faster**. This was also a great overview of how RSE’s improve the research efficiency but with a reminder that it’s not just about hardware. It also includes tools, data, algorithms, compilers and the compute environment itself.
 
 The aim was to enhance eResearch output and ensure that NeSI’s platforms were used in the most efficient way. Alexander referenced an amazing range of projects that made use of NeSI’s resources including (for example) marine microbial genome analysis, mega-thrust earthquake simulation in NZ, identifying whales by their song, predicting floods and storm surges and simulating fluvial erosion and sediment transportation. 
 
-<span><img src="/assets/pletzer1.jpg" /><i>An example of efficiency improvements that RSEs can provide to research workflows.</i></span>
+<span>
+<img src="/assets/pletzer1.jpg" />
+<i>An example of efficiency improvements that RSEs can make to research workflows.</i>
+</span>
 
 Alexander’s summarized his RSE findings as:
 * Large opportunities often exist to improve the performance of workflows and programs on scientific computing platforms
