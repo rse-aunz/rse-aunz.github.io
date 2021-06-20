@@ -21,7 +21,9 @@ If you have any suggestions or feedback to provide to the RSE-AUNZ Steering Comm
 
 Happy holidays to everyone. May all your (code)-bugs squash themselves!
 
-Regards,</br>
-Nooriyah & Manodeep </br>
+Regards,
+
+Nooriyah & Manodeep 
+
 (on behalf of the RSE-AUNZ Steering Committee)
 
