@@ -19,7 +19,7 @@ Ian’s highlighted project was shown as an exemplar of complex eResearch projec
 
 <span>
 <img src="/assets/thomas1.jpg" />
-<i>The [Victorian Background Soil Database](https://soilexplorer.eres.rmit.edu.au/soil-explorer) is an example of RSE's working with researchers.</i>
+<i>The [Victorian Background Soil Database](https://soilexplorer.eres.rmit.edu.au/soil-explorer){:target="_blank" rel="noopener"} is an example of RSE's working with researchers.</i>
 </span>
 
 **Alexander Pletzer** from NeSI/NIWA presented **How NeSI helps its users run code faster**. This was also a great overview of how RSE’s improve the research efficiency but with a reminder that it’s not just about hardware. It also includes tools, data, algorithms, compilers and the compute environment itself.
@@ -40,4 +40,4 @@ Alexander’s summarized his RSE findings as:
 
 * Other recent consultancies focused on genomics of weta insect, optimizing a weather code for Antarctic research, optimizing a workflow for climate research
 
-For more information check out [NeSI Case Studies](https://www.nesi.org.nz/case-studies)
+For more information check out [NeSI - Case Studies](https://www.nesi.org.nz/case-studies){:target="_blank" rel="noopener"}
