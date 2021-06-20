@@ -3,7 +3,7 @@ layout: event
 title:  "Recognising RSE Contributions to Research"
 from:   2021-07-08 14:00:00 +1000    
 to:     2021-07-08 15:00:00 +1000    
-location: Online
+location: C3DIS 2021 (online)
 tags: C3DIS events BoF
 published: true                     
 ---
