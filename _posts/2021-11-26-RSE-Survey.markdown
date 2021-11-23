@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "RSE Survey 2021"
-from:   2021-11-26 12:00:00 +1000    <date of event or post>
+from:   2021-11-22 12:00:00 +1000    <date of event or post>
 location: Melbourne, Australia       <if applicable>
-tags: Survey                <appropriate tags>
-published: false                     
+tags: Survey                         <appropriate tags>
+published: true                     
 ---
 
 # Complete the international RSE survey and help us understand the RSE community
