@@ -7,9 +7,7 @@ tags: Survey                         <appropriate tags>
 published: true                     
 ---
 
-# Complete the international RSE survey and help us understand the RSE community
-
-by Simon Hettrick [1](#ref-1)
+Complete the international RSE survey and help us understand the RSE community
 
 Keeping up with the phenomenal growth of the RSE community is far from easy, so we run a survey every two to three years across all the [national RSE associations](https://researchsoftware.org/2021/01/27/introducing-the-international-council-of-RSE-associations.html) and publish the results as an open, anonymised [dataset](https://www.software.ac.uk/blog/2018-03-12-what-do-we-know-about-rses-results-our-international-surveys). The survey provides insight into the community and how best to support it, so it is of incredible value to RSEs, policymakers and funders. Please help us update our data by completing this year’s survey:
 
@@ -33,6 +31,6 @@ The survey is being conducted with ethics approval from the University of Southa
 
 The survey closes on 14 January 2022. RSEs need to understand the community they work in. National associations, funders and other policymakers need to understand the RSE community if they are to support it. Please help us provide this data and support the RSE community by completing the survey linked above.
 
-
 ---
-<a name="#ref-1"/>1. Professor Simon Hettrick is Deputy Director of the Software Sustainability Institute and a Director of the Southampton Research Software Group.
+
+This post was created and shared with RSE-AUNZ by Professor Simon Hettrick, Deputy Director of the Software Sustainability Institute and a Director of the Southampton Research Software Group.
