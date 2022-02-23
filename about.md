@@ -27,7 +27,7 @@ The current committee is as follows:
 - Justin Baker
 - Rebecca Lange
 - Rowland Mosbergen
-- *vacant*
+- Paula Andrea Martinez
 - *vacant*
 
 ### Past Members
