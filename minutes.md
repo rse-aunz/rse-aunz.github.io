@@ -4,7 +4,8 @@ title: Minutes
 permalink: /minutes/
 ---
 
-
+| Meeting number  | Status | Reference  |
+| --------  | ------------------- | --------------------- |
 | SCM No.22 | Pending | &nbsp; &nbsp;  &nbsp; **2021.11.23** |
 | SCM No.21 | Final | <a class="rse" href="/assets/pdfs/SCM-21.pdf">2021.10.26</a> |
 | SCM No.20 | Final | <a class="rse" href="/assets/pdfs/SCM-20.pdf">2021.09.28</a> |
