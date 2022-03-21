@@ -9,7 +9,7 @@ Membership is open to RSEs in Australia and New Zealand, who sign up to the mail
 
 <a class="rse rse-join" href="{{ site.sign_up }}">Join the community</a>
 
-![rse-workshop](/assets/RSE-Members-2021-06-22.png){:class="img-responsive"}
+![rse-workshop](/assets/RSE-Members-2022-03-15.png){:class="img-responsive"}
 
 ## Steering Committee
 
