@@ -30,25 +30,4 @@ permalink: /minutes/
 | SCM No.1 | Final | <a class="rse" href="/2019/10/17/Minutes-of-SCM-01">2019.10.17</a> |
 
 
-<div class="home">
 
-  {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-	  {%- if post.tags contains "minutes" -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-      </li>
-      {%- endif -%}
-      {%- endfor -%}
-    </ul>
-
-  {%- endif -%}
-
-</div>
