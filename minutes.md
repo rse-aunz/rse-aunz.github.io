@@ -6,7 +6,7 @@ permalink: /minutes/
 
 | Meeting number  | Status | Reference  |
 | --------  | ------------------- | --------------------- |
-| SCM No.22 | Pending | &nbsp; &nbsp;  &nbsp; **2021.11.23** |
+| SCM No.22 | Final | <a class="rse" href="/assets/pdfs/SCM-22.pdf">2021.11.23</a> |
 | SCM No.21 | Final | <a class="rse" href="/assets/pdfs/SCM-21.pdf">2021.10.26</a> |
 | SCM No.20 | Final | <a class="rse" href="/assets/pdfs/SCM-20.pdf">2021.09.28</a> |
 | SCM No.19 | Final | <a class="rse" href="/assets/pdfs/SCM-19.pdf">2021.08.24</a> |
