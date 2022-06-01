@@ -1,6 +1,12 @@
-Minutes of Steering Committee Meeting No.24
-
-2022.02.22
+---
+layout: post
+title:  "Minutes of Steering Committee Meeting No.24"
+from:   2022-02-22 00:00:00 +1000    
+to:     2021-02-22 00:00:00 +1000    
+location: online
+tags: ["steering Committee", "2022"]
+published: true                     
+---
 
 # Attendees
 
