@@ -8,7 +8,7 @@ tags: ["steering Committee", "2022"]
 published: true                     
 ---
 
-# Attendees
+## Attendees
 
 -   [JB] Justin Baker
 
@@ -24,24 +24,22 @@ published: true
 
 -   [PM] Paula Martinez
 
-# Apologies
+## Apologies
 
-# Discussion
+## Discussion
 
 For the detailed agenda see: [GitHub Issue
 38](https://github.com/rse-aunz/organisation/issues/38)
 
-## Approval of Previous Minutes
+### Approval of Previous Minutes
 
 Previous minutes unavailable at the time of meeting.
 
-## Planning Activities
+### Planning Activities
 
 -   Welcome Paula to the committee. Looking forward to working together
 
     -   Change meeting time to 8am WA time
-
-    -   
 
     -   Quarterly online event - previously discussed planning of webinar
         series. Never got off the ground with the last committee. Will be
@@ -54,8 +52,6 @@ Previous minutes unavailable at the time of meeting.
         to be in late March/early April **ACTION tentative Report on RSE survey
         results in April. investigate live-stream options with anonymous chat
         function**
-
-    -   
 
     -   Direction/Strategy of committee - We need to think about how we operate.
         Do we want to remain high level contributors with a lot of community
@@ -71,15 +67,15 @@ Previous minutes unavailable at the time of meeting.
 
     -   Impact stories - Not discussed
 
-## Actions From Previous Minutes:
+### Actions From Previous Minutes:
 
 -   None
 
-## Any Other Business
+### Any Other Business
 
 -   None
 
-## Actions Carried Forward
+### Actions Carried Forward
 
 [All]
 
@@ -87,11 +83,11 @@ Previous minutes unavailable at the time of meeting.
     Organise an Action Workshop to define how we will move forward with setting
     strategy.
 
-# Next Meeting(s)
+## Next Meeting(s)
 
 -   Scheduled: **Tues 22 March 2022 2pm AEDT/4pm NZT**
 
-# Notes
+## Notes
 
 These minutes have been drafted under part of the [Chatham House
 Rule](https://www.chathamhouse.org/chatham-house-rule). This promotes openness,
