@@ -1,6 +1,12 @@
+---
+layout: post
+title:  "Minutes of Steering Committee Meeting No.23"
+date:   2022-01-25 12:50:04 +1000
+tags: "steering committee"
+---
+
 Minutes of Steering Committee Meeting No.23
 
-2022.01.25
 
 # Attendees
 
