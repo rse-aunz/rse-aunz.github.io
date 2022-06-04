@@ -6,6 +6,8 @@ navigation_weight: 2
 ---
 
 
+![rse-workshop](/assets/conference_banner.png){:class="img-responsive"}
+
 ## Research Software Engineer (RSE) Asia Australia Unconference
 
 We invite you to join us in the first online Research Software Engineer (RSE) Asia Australia Unconference from the 14th to the 16th of September 2022. This is a joint partnership between the newly formed RSE Asia Association and the RSE Australia New Zealand Association.
