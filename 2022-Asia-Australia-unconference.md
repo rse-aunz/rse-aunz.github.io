@@ -6,7 +6,7 @@ navigation_weight: 2
 ---
 
 
-![rse-workshop](/assets/conference_banner.png){:class="img-responsive"}
+![banner of RSE Asia Australia conference 2022 - building the research software community across Asia and Australia ](/assets/conference_banner.png){:class="img-responsive"}
 
 ## Research Software Engineer (RSE) Asia Australia Unconference
 
