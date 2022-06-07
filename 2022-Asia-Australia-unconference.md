@@ -15,7 +15,7 @@ This will be run as a participant-first online unconference to ensure you have a
 
 Together, we can create a sustainable community that benefits research software engineers by raising recognition and building career paths for RSEs, and ultimately contributes to more efficient and reproducible research.
 
-We hope that this experience will identify ways to positively engage with senior leaders who are working on policies that directly affect you and the rest of the RSE community. 
+We also hope that this experience will identify ways to positively engage with senior leaders who are working on policies that directly affect you and the rest of the RSE community. 
 
 
 ### What is a Research Software Engineer? 
