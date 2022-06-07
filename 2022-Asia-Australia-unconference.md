@@ -19,15 +19,12 @@ We hope that this experience will encourage you to engage with senior leaders wh
 
 ### Key Dates
 
-Monday 27th June 2022: Initial programme published on website; registration opens
-
-Monday 2nd August 2022: Final programme published on website.
-
-Friday 19th August 2022: Registration closes
-
-Wednesday 14th September 2022: Start of unconference
-
-Friday 16th September 2022: End of unconference.
+- Monday 27th June 2022: Initial programme published on website; registration opens
+- Monday 2nd August 2022: Final programme published on website.
+- Friday 19th August 2022: Registration closes
+- Optional Local Hub meetups in person
+- Wednesday 14th September 2022: Start of unconference
+- Friday 16th September 2022: End of unconference.
 
 ### Registration 
 
@@ -44,9 +41,6 @@ If you would like to know more or have any questions, please contact the organis
 
 ### What is an unconference?
 
-Optional Hub meet up in person
-September 13th evening
-
 The unconference will run online over three half-days. An unconference is where the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space [1]. 
 
 For this particular unconference, we will create breakout groups for the top three topics for each session. At the start of each day we will have an introduction session to provide the participants with some ideas on what they might want to discuss during the conference. We aim to summarise topics and make these available publicly after the unconference.
@@ -56,12 +50,9 @@ Topics could include things like:
 - Career development for RSEs
 - Recognition for RSEs
 - Improvements in software quality
-- Sharing difficulties and failures to help others
-
-Might be fun to also hear about things that failed - "I tried this and found out the hard way that you should not do this!"
+- Learning from previous difficulties and failures
 
 An overview of what the program will look like will be coming soon.
-
 
 [1] [https://en.wikipedia.org/wiki/Unconference](https://en.wikipedia.org/wiki/Unconference)
 
