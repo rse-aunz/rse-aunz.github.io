@@ -27,7 +27,7 @@ Research Software Engineer is a broad term for people in academia who combine ex
 - Monday 27th June 2022: Initial programme published on website; registration opens
 - Monday 2nd August 2022: Final programme published on website.
 - Friday 19th August 2022: Registration closes
-- Optional Local Hub meetups in person
+- Tuesday 13th September 2022: Optional Local Hub meetups in person
 - Wednesday 14th September 2022: Start of unconference
 - Friday 16th September 2022: End of unconference.
 
