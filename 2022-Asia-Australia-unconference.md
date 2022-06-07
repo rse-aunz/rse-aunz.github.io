@@ -56,10 +56,10 @@ An overview of what the program will look like will be coming soon.
 
 ### Key Partners
 
-![logo of QCIF ](/assets/qcif_logo.jpeg){:class="img-responsive" height="100px" style="float:left;margin-right:60px;margin-top:50px;"}
+![logo of QCIF ](/assets/qcif_logo.jpeg){:class="img-responsive" height="100px" style="float:left;margin-right:60px;margin-bottom:30px;"}
 
 
-![logo of ARDC ](/assets/ARDC_logo_RGB.png){:class="img-responsive" height="100px" style="float:left;margin-top:50px;"}
+![logo of ARDC ](/assets/ARDC_logo_RGB.png){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;"}
 
 
 
