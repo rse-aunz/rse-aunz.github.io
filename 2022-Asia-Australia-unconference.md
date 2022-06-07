@@ -37,7 +37,7 @@ Registration details will be announced on the 27th of June.
 
 ### Accessibility and Inclusivity
 
-We are committed to creating a safe, accessible, and inclusive environment for all participants.  If you feel that the unconference is not matching up to the commitment of these ideals̩ please let us know by contacting the organising committee at rse2022@rse-aunz.org.  The Code of
+We are committed to creating a safe, accessible, and inclusive environment for all participants.  If you feel that the unconference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at rse2022@rse-aunz.org.  The Code of
 Conduct will be announced soon.
 
 ### Contact Us
