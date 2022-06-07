@@ -54,5 +54,10 @@ An overview of what the program will look like will be coming soon.
 
 [1] [https://en.wikipedia.org/wiki/Unconference](https://en.wikipedia.org/wiki/Unconference)
 
+### Key Partners
+
+![logo of ARDC ](/assets/ARDC_logo_RGB.png){:class="img-responsive" width="200px"}
+
+![logo of QCIF ](/assets/qcif_logo.jpeg){:class="img-responsive" width="200px"}
 
 
