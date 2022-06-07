@@ -65,7 +65,7 @@ Might be fun to also hear about things that failed - "I tried this and found out
 An overview of what the program will look like will be coming soon.
 
 
-[1] https://en.wikipedia.org/wiki/Unconference 
+[1] [https://en.wikipedia.org/wiki/Unconference](https://en.wikipedia.org/wiki/Unconference)
 
 
 
