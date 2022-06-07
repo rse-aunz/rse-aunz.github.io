@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: RSE Asia Australia Unconference 2022
 permalink: /2022-Asia-Australia-unconference/
 navigation_weight: 2
 ---
