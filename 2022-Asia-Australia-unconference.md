@@ -52,6 +52,15 @@ Conduct will be announced soon.
 
 If you would like to know more or have any questions, please contact the organising committee at rse2022 at rse-aunz.org by email.
 
+### Aligned Conferences & Events
+
+September is full or RSE conferences around the world!
+
+- September 6-8, [RSECon2022 is in person](https://rsecon2022.society-rse.org/) at Newcastle University in the UK
+- September 12-13, [NZRSE 2022](https://www.rseconference.nz/) online
+- September 13, possible in person meetings for RSEs in Australia and New Zealand main cities (see details in the registrations)
+- September 14-16, RSE Asia Australia Unconference 2022 Online
+
 
 ### Key Partners
 
