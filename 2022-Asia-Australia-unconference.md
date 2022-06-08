@@ -15,6 +15,7 @@ We invite you to join us for the first online Research Software Engineer (RSE) A
 Research Software Engineer is a broad term for people in academia who combine expertise in programming with an intricate understanding of research, e.g. researchers and academics who code, generalists who bring communities together across the research and technical domains, systems administrators who maintain research systems, and software engineers who work in the research domain. 
 </details>
 
+
 ### Why participate?
 
 This will be run as a participant-first online unconference to ensure you have a say on how we develop the community and to allow you to share your valuable technical and social knowledge of research software with the community. In line with that, the theme for this year's unconference is “Building community”.
@@ -26,6 +27,7 @@ We also hope that this experience will identify ways to positively engage with s
 ### What is an unconference?
 <details>
   <summary>Click to expand!</summary>
+
 The unconference will run online over three half-days. An unconference is where the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space [1]. 
 
 For this particular unconference, we will create breakout groups for the top three topics for each session. At the start of each day we will have an introduction session to provide the participants with some ideas on what they might want to discuss during the conference. We aim to summarise topics and make these available publicly after the unconference.
@@ -34,6 +36,7 @@ An overview of what the program will look like will be coming soon.
 
 [1] [https://en.wikipedia.org/wiki/Unconference](https://en.wikipedia.org/wiki/Unconference)
 </details>
+
 
 ### Key Dates
 
