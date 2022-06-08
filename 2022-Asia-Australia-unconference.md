@@ -3,18 +3,15 @@ layout: default
 title: RSE Asia Australia Unconference 2022
 permalink: /2022-Asia-Australia-unconference/
 navigation_weight: 2
+toc: true
 ---
 ![banner of RSE Asia Australia conference 2022 - building the research software community across Asia and Australia ](/assets/conference_banner_small_website.png){:class="img-responsive"}
 
 We invite you to join us for the first online Research Software Engineer (RSE) Asia Australia Unconference from the *14th to the 16th of September 2022*. This is a joint partnership between the newly formed [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Australia New Zealand Association](https://rse-aunz.github.io/). We would also like to thank our key partners [ARDC](https://ardc.edu.au/) and [QCIF](https://qcif.edu.au/) for supporting us.
 
 ### What is a Research Software Engineer? 
-<details>
-  <summary>Click to expand!</summary>
 
 Research Software Engineer is a broad term for people in academia who combine expertise in programming with an intricate understanding of research, e.g. researchers and academics who code, generalists who bring communities together across the research and technical domains, systems administrators who maintain research systems, and software engineers who work in the research domain. 
-</details>
-
 
 ### Why participate?
 
@@ -25,18 +22,12 @@ Together, we can create a sustainable community that benefits research software 
 We also hope that this experience will identify ways to positively engage with senior leaders who are working on policies that directly affect you and the rest of the RSE community. 
 
 ### What is an unconference?
-<details>
-  <summary>Click to expand!</summary>
 
 The unconference will run online over three half-days. An unconference is where the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space [1]. 
 
 For this particular unconference, we will create breakout groups for the top three topics for each session. At the start of each day we will have an introduction session to provide the participants with some ideas on what they might want to discuss during the conference. We aim to summarise topics and make these available publicly after the unconference.
 
 An overview of what the program will look like will be coming soon.
-
-[1] [https://en.wikipedia.org/wiki/Unconference](https://en.wikipedia.org/wiki/Unconference)
-</details>
-
 
 ### Key Dates
 
