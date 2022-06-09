@@ -11,7 +11,7 @@ We invite you to join us for the first online Research Software Engineer (RSE) A
 
 ### What is a Research Software Engineer? 
 
-Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia, e.g. researchers and academics who code, generalists who bring communities together across the research and technical domains, systems administrators who maintain research systems, and software engineers who work in the research domain. 
+Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g researchers and academics who code, generalists who bring communities together across the research and technical domains, systems administrators who maintain research systems, and software engineers who work in the research domain. 
 
 ### Why participate?
 
