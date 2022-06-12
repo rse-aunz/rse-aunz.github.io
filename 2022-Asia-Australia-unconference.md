@@ -29,6 +29,8 @@ For this particular unconference, we will create breakout groups for the top thr
 
 An overview of what the program will look like will be coming soon.
 
+1. https://en.wikipedia.org/wiki/Unconference
+
 ### Key Dates
 
 - SAVE the dates! *14th to the 16th of September 2022*
