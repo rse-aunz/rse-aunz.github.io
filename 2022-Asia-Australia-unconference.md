@@ -54,7 +54,7 @@ If you would like to know more or have any questions, please contact the organis
 
 ### Aligned Conferences & Events
 
-September is full or RSE conferences around the world!
+September is full of RSE conferences around the world!
 
 - September 6-8, [RSECon2022 is in person](https://rsecon2022.society-rse.org/) at Newcastle University in the UK
 - September 12-13, [NZRSE 2022](https://www.rseconference.nz/) online
