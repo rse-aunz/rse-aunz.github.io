@@ -47,15 +47,23 @@ Registration details will be announced on the 27th of June. Registration will cl
 
 ### Accessibility and Inclusivity
 
-We are committed to creating a safe, accessible, and inclusive environment for all participants. 
+We are committed to creating a safe, accessible, and inclusive environment for all participants.
 
-To this end we are offering 50 scholarships for staff or students to participate for free. 
+To this end we are offering 50 scholarships for staff or students to participate for free, as well as a $50 AUD accessibility micro-grant to help with internet, headphones, childcare etc.
 
 Eligibility for the scholarships will be based on prioritising and maximising the inclusion and participation of people who have been impacted due to the cumulative effects of discrimination on factors such as race, gender, disability, gender identity, financial status,and the intersectionality of that discrimination as well as others not mentioned here.
 
+Eligibility for the accessibility micro-grants will be based on a similar approach.
+
+To apply for the scholarship, please email us at rse2022 at rse-aunz.org with the subject [Scholarship] and why you would like to attend for free and how this would benefit you and your organisation (200 words maximum).
+
+To apply for the accessibility micro-grant, please email us at rse2022 at rse-aunz.org with the subject [Accessibility]  and why you would like a micro-grant, how would you use it and how attending would benefit you (200 words maximum).
+
+If you are applying for both, please email us separately.
+
 We encourage participants to apply even if they do not think they are eligible as this will allow us to prioritise and maximise diversity and inclusion. All information will be treated in a confidential manner.
 
-If you feel that the unconference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at rse2022 at rse-aunz.org. 
+If you feel that the unconference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at rse2022 at rse-aunz.org.
 
 The Code of Conduct will be announced soon.
 
