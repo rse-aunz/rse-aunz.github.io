@@ -82,5 +82,8 @@ September is full of RSE conferences around the world!
 ![logo of ARDC ](/assets/ARDC_logo_RGB.png){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;"}
 
 
+### Accessibility Partner
+![logo of Society of RSEs](/assets/Soc_RSE_master_logo.png){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;"}
+
 
 
