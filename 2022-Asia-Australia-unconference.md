@@ -55,6 +55,8 @@ Eligibility for the scholarships will be based on prioritising and maximising th
 
 Eligibility for the accessibility micro-grants will be based on a similar approach.
 
+#### Application for scholarship and accessibility micro-grant
+
 To apply for the scholarship, please email us at rse2022 at rse-aunz.org with the subject [Scholarship] and why you would like to attend for free and how this would benefit you and your organisation (200 words maximum).
 
 To apply for the accessibility micro-grant, please email us at rse2022 at rse-aunz.org with the subject [Accessibility]  and why you would like a micro-grant, how would you use it and how attending would benefit you (200 words maximum).
