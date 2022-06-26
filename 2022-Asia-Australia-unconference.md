@@ -45,7 +45,7 @@ An overview of what the program will look like will be coming soon.
 
 Registration is now open. 
 
-<a class="rse rse-join" href="https://www.eventbrite.com.au/e/rse-asia-australia-unconference-2022-tickets-372580998797">Join the community</a>
+<a class="rse rse-join" href="https://www.eventbrite.com.au/e/rse-asia-australia-unconference-2022-tickets-372580998797">Register here</a>
 
 Registration will close on the 19th of August 2022.
 
