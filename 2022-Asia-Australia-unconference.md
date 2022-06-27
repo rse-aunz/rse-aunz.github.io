@@ -21,6 +21,8 @@ Together, we can create a sustainable community that benefits research software 
 
 We also hope that this experience will identify ways to positively engage with senior leaders who are working on policies that directly affect you and the rest of the RSE community. 
 
+<a class="rse rse-join" href="https://www.eventbrite.com.au/e/rse-asia-australia-unconference-2022-tickets-372580998797">Register here</a>
+
 ### What is an unconference?
 
 The unconference will run online over three half-days. An unconference is where the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space [1]. 
@@ -43,9 +45,7 @@ An overview of what the program will look like will be coming soon.
 
 ### Registration 
 
-Registration is now open. 
-
-<a class="rse rse-join" href="https://www.eventbrite.com.au/e/rse-asia-australia-unconference-2022-tickets-372580998797">Register here</a>
+Registration [is now open here](https://www.eventbrite.com.au/e/rse-asia-australia-unconference-2022-tickets-372580998797). 
 
 Registration will close on the 19th of August 2022.
 
@@ -98,6 +98,5 @@ September is full of RSE conferences around the world!
 
 ### Accessibility Partner
 ![logo of Society of RSEs](/assets/Soc_RSE_master_logo.png){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;"}
-
 
 
