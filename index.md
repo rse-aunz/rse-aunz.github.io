@@ -40,6 +40,11 @@ This community is for:
 
 <a class="rse rse-join" href="{{ site.sign_up }}">Join the community</a>
 
+## September 2022 is RSE conference time!
+
+- September 12-13, [New Zealand RSE Conference (NZRSE 2022)](https://www.rseconference.nz/), online
+- September 14-16, [RSE Asia Australia Unconference 2022 (RSEAA2022)](https://rse-aunz.github.io/2022-Asia-Australia-unconference/), online
+
 
 The term RSE, originally coined by the 
 [UK RSE association](http://rse.ac.uk), 
@@ -49,8 +54,8 @@ says the following about RSEs:
 > Although this combination of skills is extremely valuable, 
 > these people lack a formal place in the academic system.”
 
-Inspired by the success of the RSE Association in UK, we are seeking to 
-establish an Australasian Chapter of the RSE Association. 
+Inspired by the success of the RSE Association in UK, we  
+established an Australasian Chapter of the RSE Association. 
 Together with  international bodies and support from our national 
 organisations such as AeRO, NeSI, the Australian Research Data Commons 
 (ARDC), and research institutions, we aim to campaign for the 
