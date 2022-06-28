@@ -46,6 +46,7 @@ An overview of what the program will look like will be coming soon.
 - Thursday 15th September 2022: Senior RSE Keynote
 - Friday 16th September 2022: End of unconference, RSE Policy Panel 
 
+*All dates combined to an .ics file for your Calendar App: <A href="/assets/RSEAA2022-v280622.ics">RSEAA2022.ics</a>*
 
 ### Registration 
 

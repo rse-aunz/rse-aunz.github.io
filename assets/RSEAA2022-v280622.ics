@@ -1,0 +1,169 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:STANDARD
+TZNAME:AEST
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYMONTH=4;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZNAME:AEDT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220628T085350Z
+UID:1655248000290-76352@ical.marudot.com
+DTSTART;TZID=Australia/Sydney:20220627T120000
+DTEND;TZID=Australia/Sydney:20220627T120000
+SUMMARY:RSEAA22 - Registration Opens
+URL:https://rse-aunz.github.io/2022-Asia-Australia-unconference/
+DESCRIPTION:Research Software Engineer Asia Australia Unconference 2022\nInitial program published on website\; registration opens.\n\nhttps://rse-aunz.github.io/2022-Asia-Australia-unconference/\n
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RSEAA22 - Registration Opens
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T085350Z
+UID:1655248181703-10652@ical.marudot.com
+DTSTART;TZID=Australia/Sydney:20220801T120000
+DTEND;TZID=Australia/Sydney:20220801T120000
+SUMMARY:RSEAA22 - Final Program Available
+URL:https://rse-aunz.github.io/2022-Asia-Australia-unconference/
+DESCRIPTION:Research Software Engineer Asia Australia Unconference 2022\nFinal program published on website\n\nhttps://rse-aunz.github.io/2022-Asia-Australia-unconference/
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RSEAA22 - Final Program Available
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T085350Z
+UID:1655248239445-18935@ical.marudot.com
+DTSTART;TZID=Australia/Sydney:20220815T120000
+DTEND;TZID=Australia/Sydney:20220815T120000
+SUMMARY:RSEAA22 - Deadline for Accessibility Grants
+URL:https://rse-aunz.github.io/2022-Asia-Australia-unconference/
+DESCRIPTION:Research Software Engineer Asia Australia Unconference 2022\nDeadline for Accessibility Grants\n\nhttps://rse-aunz.github.io/2022-Asia-Australia-unconference/
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RSEAA22 - Deadline for Accessibility Grants
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T085350Z
+UID:1656406120223-82998@ical.marudot.com
+DTSTART;TZID=Australia/Sydney:20220831T120000
+DTEND;TZID=Australia/Sydney:20220831T120000
+SUMMARY:RSEAA22 - Deadline for Scholarship Applications
+URL:https://rse-aunz.github.io/2022-Asia-Australia-unconference/
+DESCRIPTION:Research Software Engineer Asia Australia Unconference 2022\nDeadline for applying to scholarship\n\nhttps://rse-aunz.github.io/2022-Asia-Australia-unconference/
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RSEAA22 - Deadline for Scholarship Applications
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T085350Z
+UID:1656406210714-96852@ical.marudot.com
+DTSTART;TZID=Australia/Sydney:20220907T120000
+DTEND;TZID=Australia/Sydney:20220907T120000
+SUMMARY:RSEAA22 - Registration Closes
+URL:https://rse-aunz.github.io/2022-Asia-Australia-unconference/
+DESCRIPTION:Research Software Engineer Asia Australia Unconference 2022\nRegistration closes.\n\nhttps://rse-aunz.github.io/2022-Asia-Australia-unconference/
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RSEAA22 - Registration Closes
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T085350Z
+UID:1655248294896-17535@ical.marudot.com
+DTSTART;TZID=Australia/Sydney:20220913T120000
+DTEND;TZID=Australia/Sydney:20220913T120000
+SUMMARY:RSEAA22 - Local Hub Meetups
+URL:https://rse-aunz.github.io/2022-Asia-Australia-unconference/
+DESCRIPTION:Research Software Engineer Asia Australia Unconference 2022\nOptional Local Hub meetups in person.\n\nhttps://rse-aunz.github.io/2022-Asia-Australia-unconference/
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RSEAA22 - Local Hub Meetups
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T085350Z
+UID:1655248560816-15133@ical.marudot.com
+DTSTART;TZID=Australia/Sydney:20220914T130000
+DTEND;TZID=Australia/Sydney:20220914T170000
+SUMMARY:RSEAA22 - Day One
+URL:https://rse-aunz.github.io/2022-Asia-Australia-unconference/
+DESCRIPTION:Research Software Engineer Asia Australia Unconference 2022\nFirst Day! The start of the Unconference\, and Junior RSE Keynote.\n\nhttps://rse-aunz.github.io/2022-Asia-Australia-unconference/
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RSEAA22 - Day One
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T085350Z
+UID:1655248595844-65980@ical.marudot.com
+DTSTART;TZID=Australia/Sydney:20220915T130000
+DTEND;TZID=Australia/Sydney:20220915T170000
+SUMMARY:RSEAA22 - Day Two
+URL:https://rse-aunz.github.io/2022-Asia-Australia-unconference/
+DESCRIPTION:Research Software Engineer Asia Australia Unconference 2022\nDay Two!\nSenior RSE Keynote.\n\nhttps://rse-aunz.github.io/2022-Asia-Australia-unconference/
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RSEAA22 - Day Two
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20220628T085350Z
+UID:1655248634594-43261@ical.marudot.com
+DTSTART;TZID=Australia/Sydney:20220916T130000
+DTEND;TZID=Australia/Sydney:20220916T170000
+SUMMARY:RSEAA22 - Day Three
+URL:https://rse-aunz.github.io/2022-Asia-Australia-unconference/
+DESCRIPTION:Research Software Engineer Asia Australia Unconference 2022\nLast Day!\nRSE Policy Panel\n\nhttps://rse-aunz.github.io/2022-Asia-Australia-unconference/
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:RSEAA22 - Day Three
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
