@@ -37,11 +37,14 @@ An overview of what the program will look like will be coming soon.
 
 - SAVE the dates! *14th to the 16th of September 2022*
 - Monday 27th June 2022: Initial programme published on website; registration opens
-- Monday 2nd August 2022: Final programme published on website
-- Friday 19th August 2022: Registration closes
+- Monday 1st August 2022: Final programme published on website
+- Monday 15th August 2022: Deadline for accessibility grants
+- Wednesday 31st August 2022: Deadline for applying to scholarship
+- Wednesday 7th September 2022: Registration closes
 - Tuesday 13th September 2022: Optional Local Hub meetups in person
 - Wednesday 14th September 2022: Start of unconference
 - Friday 16th September 2022: End of unconference
+
 
 ### Registration 
 
