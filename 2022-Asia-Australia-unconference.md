@@ -42,8 +42,9 @@ An overview of what the program will look like will be coming soon.
 - Wednesday 31st August 2022: Deadline for applying to scholarship
 - Wednesday 7th September 2022: Registration closes
 - Tuesday 13th September 2022: Optional Local Hub meetups in person
-- Wednesday 14th September 2022: Start of unconference
-- Friday 16th September 2022: End of unconference
+- Wednesday 14th September 2022: Start of unconference, Junior RSE Keynote
+- Thursday 15th September 2022: Senior RSE Keynote
+- Friday 16th September 2022: End of unconference, RSE Policy Panel 
 
 
 ### Registration 
