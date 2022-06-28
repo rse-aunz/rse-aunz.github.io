@@ -45,9 +45,10 @@ This community is for:
 - September 12-13, [New Zealand RSE Conference (NZRSE 2022)](https://www.rseconference.nz/), online
 - September 14-16, [RSE Asia Australia Unconference 2022 (RSEAA2022)](https://rse-aunz.github.io/2022-Asia-Australia-unconference/), online
 
+## About the RSE movement 
 
 The term RSE, originally coined by the 
-[UK RSE association](http://rse.ac.uk), 
+[UK, Society of Research Software Engineering](https://society-rse.org/), 
 says the following about RSEs: 
 > “A growing number of people in academia combine expertise in 
 > programming with an intricate understanding of research. 
