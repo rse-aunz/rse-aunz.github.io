@@ -78,6 +78,9 @@ If you feel that the unconference is not matching up to the commitment of these 
 
 The Code of Conduct will be announced soon.
 
+### Partner with us
+
+If your organisation would like to partner with us, there are still Allied partnerships available. To see how that would benefit your organisation, please see the [Unconference Partner Prospectus](/assets/RSEAA018 Unconference Partner Prospectus.pdf).
 
 ### Contact Us
 
