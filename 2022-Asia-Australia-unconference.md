@@ -96,6 +96,10 @@ September is full of RSE conferences around the world!
 - September 14-16, RSE Asia Australia Unconference 2022 Online
 
 
+### Download Flyer
+
+The flyer [can be downloaded here](/assets/RSEAA025 Unconference Flyer.png).
+
 ### Key Partners
 
 ![logo of QCIF ](/assets/qcif_logo.jpeg){:class="img-responsive" height="100px" style="float:left;margin-right:60px;margin-bottom:30px;"}
@@ -108,6 +112,3 @@ September is full of RSE conferences around the world!
 ![logo of Society of RSEs](/assets/Soc_RSE_master_logo.png){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;"}
 
 
-### Download Flyer
-
-[Flyer can be downloaded here.](/assets/RSEAA025 Unconference Flyer.png)
