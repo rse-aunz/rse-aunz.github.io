@@ -100,6 +100,11 @@ September is full of RSE conferences around the world!
 
 The flyer [can be downloaded here](/assets/RSEAA025 Unconference Flyer.png).
 
+Here is the suggested text to complement the flyer:
+
+*For those who are interested, we invite you to the first online Research Software Engineer (RSE) Asia Australia Unconference from the 14th to the 16th of September 2022. This is a joint partnership between the newly formed RSE Asia Association and the RSE Association of Australia and New Zealand. We have made the costs low ($10 to $20 AUD) to attract a broader audience, and there are 50 scholarships available, as well as a $50 AUD accessibility micro-grant. Details here: https://rse-aunz.github.io/2022-Asia-Australia-unconference/*
+
+
 ### Key Partners
 
 ![logo of QCIF ](/assets/qcif_logo.jpeg){:class="img-responsive" height="100px" style="float:left;margin-right:60px;margin-bottom:30px;"}
