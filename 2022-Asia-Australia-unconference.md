@@ -120,5 +120,5 @@ Here is the suggested text to complement the flyer:
 
 
 ### Allied Partner
-![logo of NCI](/assets/NCIlogo.svg){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;"}
+![logo of NCI](/assets/NCIlogo.png){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;"}
 
