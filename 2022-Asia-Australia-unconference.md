@@ -116,9 +116,9 @@ Here is the suggested text to complement the flyer:
 
 
 ### Accessibility Partner
-![logo of Society of RSEs](/assets/Soc_RSE_master_logo.png){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;"}
+![logo of Society of RSEs](/assets/Soc_RSE_master_logo.png){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;margin-right:800px"}
 
 
 ### Allied Partner
-![logo of NCI](/assets/NCIlogo.svg){:class="img-responsive" height="100px" style="clear:both;float:left;margin-bottom:30px;"}
+![logo of NCI](/assets/NCIlogo.svg){:class="img-responsive" height="100px" style="float:left;margin-bottom:30px;"}
 
