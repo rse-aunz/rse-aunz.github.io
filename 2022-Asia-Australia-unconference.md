@@ -27,7 +27,7 @@ We also hope that this experience will identify ways to positively engage with s
 
 ### What is an unconference?
 
-The unconference will run online over three half-days. An unconference is where the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space [1]. 
+The unconference will run online over three half-days from [13:00 to 17:00 AEST]([https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T0300](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T03&p1=1440&ah=4)) on 14, 15 and 16 of September. An unconference is where the agenda is created by the attendees at the beginning of the meeting. Anyone who wants to initiate a discussion on a topic can claim a time and a space [1]. 
 
 For this particular unconference, we will create breakout groups for the top three topics for each session. At the start of each day we will have an introduction session to provide the participants with some ideas on what they might want to discuss during the conference. We aim to summarise topics and make these available publicly after the unconference.
 
@@ -37,16 +37,15 @@ An overview of what the program will look like will be coming soon.
 
 ### Key Dates
 
-- SAVE the dates! *14th to the 16th of September 2022*
-- Monday 27th June 2022: Initial programme published on website; registration opens
-- Monday 1st August 2022: Final programme published on website
+- SAVE the dates! *14th to the 16th of September 2022* [13:00 to 17:00 AEST]([https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T0300](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T03&p1=1440&ah=4))
+- Monday 27th June 2022: Registration opens
 - Monday 15th August 2022: Deadline for accessibility grants
 - Wednesday 31st August 2022: Deadline for applying to scholarship
 - Wednesday 7th September 2022: Registration closes
 - Tuesday 13th September 2022: Optional Local Hub meetups in person
-- Wednesday 14th September 2022: Start of unconference, Junior RSE Keynote
-- Thursday 15th September 2022: Senior RSE Keynote
-- Friday 16th September 2022: End of unconference, RSE Policy Panel 
+- Wednesday 14th September 2022: Start of unconference, **Junior RSE Keynote**
+- Thursday 15th September 2022: **Senior RSE Keynote**
+- Friday 16th September 2022: End of unconference, **RSE Strategy Policy Panel**
 
 *All dates combined to an .ics file for your Calendar App: <A href="/assets/RSEAA2022-v280622.ics">RSEAA2022.ics</a>*
 
