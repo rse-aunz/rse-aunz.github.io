@@ -35,6 +35,19 @@ An overview of what the program will look like will be coming soon.
 
 1. https://en.wikipedia.org/wiki/Unconference
 
+### Draft Programme
+
+|             | **Day 1 - 14th September**                 | **Day 2 - 15th September** | **Day 3 - 16th September** |
+|-------------|--------------------------------------------|----------------------------|----------------------------|
+| **1:00 PM** | Welcome, Vision, Explanation, and Partners | Explain, Review            | Explain, Review            |
+| **1:30 PM** | Early Career RSE keynote                   | Mid Career RSE keynote     | Policy Panel               |
+| **2:00 PM** | Early Career RSE keynote                   | Second Session             | Fourth Session             |
+| **2:30 PM** | Introductions to connect                   | Second Session             | Fourth Session             |
+| **3:00 PM** | Break                                      | Break                      | Break                      |
+| **3:30 PM** | Introductions to connect                   | Third Session              | Actionable items           |
+| **4:00 PM** | First Session                              | Third Session              | Actionable items           |
+| **4:30 PM** | First Session                              | Review and discussion      | Close and thank you        |
+
 ### Key Dates
 
 - SAVE the dates! *14th to the 16th of September 2022* [13:00 to 17:00 AEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T03&p1=1440&ah=4)
