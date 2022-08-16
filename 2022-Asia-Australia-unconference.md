@@ -37,6 +37,9 @@ An overview of what the program will look like will be coming soon.
 
 ### Draft Programme
 
+All times in UTC+10
+
+
 |             | **Day 1 - 14th September**                 | **Day 2 - 15th September** | **Day 3 - 16th September** |
 |-------------|--------------------------------------------|----------------------------|----------------------------|
 | **1:00 PM** | Welcome, Vision, Explanation, and Partners | Explain, Review            | Explain, Review            |
