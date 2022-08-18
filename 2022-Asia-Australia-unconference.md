@@ -43,9 +43,9 @@ All times in UTC+10
 |             | **Day 1 - 14th September**                 | **Day 2 - 15th September** | **Day 3 - 16th September** |
 |-------------|--------------------------------------------|----------------------------|----------------------------|
 | **1:00 PM** | Welcome, Vision, Explanation, and Partners | Explain, Review            | Explain, Review            |
-| **1:30 PM** | Early Career RSE keynote                   | Mid Career RSE keynote     | Policy Panel               |
-| **2:00 PM** | Early Career RSE keynote                   | Second Session             | Fourth Session             |
-| **2:30 PM** | Introductions to connect                   | Second Session             | Fourth Session             |
+| **1:30 PM** | Early Career RSE keynote                   | Mid Career RSE keynote     | Strategy & Policy Panel    |
+| **2:00 PM** | Early Career RSE keynote                   | Second Session             | Strategy & Policy Panel    |
+| **2:30 PM** | Introductions to connect                   | Second Session             | Strategy & Policy Panel    |
 | **3:00 PM** | Break                                      | Break                      | Break                      |
 | **3:30 PM** | Introductions to connect                   | Third Session              | Actionable items           |
 | **4:00 PM** | First Session                              | Third Session              | Actionable items           |
