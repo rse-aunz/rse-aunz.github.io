@@ -93,7 +93,7 @@ We encourage participants to apply even if they do not think they are eligible a
 
 If you feel that the unconference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at rse2022 at rse-aunz.org.
 
-The Code of Conduct will be announced soon.
+The [Code of Conduct is now available.](https://rse-aunz.github.io/code-of-conduct)
 
 ### Partner with us
 
