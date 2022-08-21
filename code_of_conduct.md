@@ -78,7 +78,7 @@ If you believe that someone is violating the Code of Conduct, please report this
 Any violations to the Code of Conduct during Council events should be immediately reported to the event host, organiser or the designated incident person/people.
 
 - For the RSE Asia Australia Unconference please contact paula [dot] martinez [at] ardc.edu.au
-- For the any other situation, please contact the co-chair of the Steering Committee of the the RSE Association of Australia and New Zealand (Council).
+- For the any other situation, please contact the co-chair of the Steering Committee of the the RSE Association of Australia and New Zealand.
 
 If the violation occurs in an online space, reports should be emailed directly to the co-chair of the Council or any other Council member.
 
@@ -163,6 +163,18 @@ In the event of any conflict of interest (a Council member, their family member,
 
 We would like to thank the individuals, communities, and projects whose work significantly contributed to this Code of Conduct:
 
-https://researchsoftware.org/council/code-of-conduct.html
-
+-   The [The International Council of RSE Associations - Code of Conduct](https://researchsoftware.org/council/code-of-conduct.html) which is the direct source of this Code of Conduct. 
+-   The [*Society of Research Software Engineering's Code of Conduct*](https://society-rse.org/about/code-of-conduct/), which is
+    the direct source of the basis of the International Council's Code of Conduct. It in turn thanks 
+    [*Mozilla participation guidelines*](https://www.mozilla.org/en-US/about/governance/policies/participation/),
+    the [*Carpentries code of conduct*](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html),
+    and the [*OpenCon 2018 Code of Conduct*](https://www.opencon2018.org/code_of_conduct),
+    which served as an inspiration for the Society.
+-   The section outlining our processes for responding to Code of Conduct violations were again liberally borrowed from the 
+    [*RSE Society's equivalent*](https://society-rse.org/about/code-of-conduct/), which
+    was greatly inspired or derived from the
+    [*PyCon 2018 code of conduct*](https://2018.pyconuk.org/code-conduct/), the Geek Feminism
+    Wiki created by the [*Ada Initiative*](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports),
+    particularly their [*Conference anti-harassment*](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
+    section, and the [*Django project*](https://www.djangoproject.com/conduct/enforcement-manual/).
 
