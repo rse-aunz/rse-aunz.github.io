@@ -36,7 +36,7 @@ This Code of Conduct outlines our behaviour expectations as participants in all 
 
 Behaviours that are disrespectful to our members or events’ attendees and sponsors, or intimidate, exclude or cause discomfort to others will not be tolerated. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, age, disability, gender reassignment, marriage and civil partnership, pregnancy and parenthood, race, religion or belief (or lack thereof), gender identity and expression, sex, sexual orientation, technical choices, experience level or any other dimension of diversity.
 
-The Council is responsible for the enforcement of this Code of Conduct and for dealing with misconduct or violations to this policy. Council members are expected to assist with the enforcement of the Code of Conduct in their respective capacities. By participating, individuals indicate their acceptance of the procedures by which the Council resolves any Code of Conduct incidents, which might include storage and processing of their personal information.
+The Steering Committee is responsible for the enforcement of this Code of Conduct and for dealing with misconduct or violations to this policy. Council members are expected to assist with the enforcement of the Code of Conduct in their respective capacities. By participating, individuals indicate their acceptance of the procedures by which the Steering Committee resolves any Code of Conduct incidents, which might include storage and processing of their personal information.
 
 ## Expected behaviour
 All participants in our events and communications are expected to show respect and courtesy to others and all interactions should be professional, both online and in-person.
