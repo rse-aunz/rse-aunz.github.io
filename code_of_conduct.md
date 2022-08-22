@@ -156,7 +156,7 @@ Possible outcomes may include:
 - Ending a talk that violates the Code of Conduct early
 - A public announcement of an incident, ideally in the same venue that the violation occurred.
 - Immediately ending any event volunteer responsibilities and privileges the individual(s) hold(s).
-- An imposed suspension from the Council platforms. The Contact will communicate this suspension to the individual(s). They’ll be asked to take this suspension voluntarily, but if they don’t agree then a temporary ban may be imposed to enforce this suspension.
+- An imposed suspension from the Association platforms. The Contact will communicate this suspension to the individual(s). They’ll be asked to take this suspension voluntarily, but if they don’t agree then a temporary ban may be imposed to enforce this suspension.
 - A permanent or temporary ban from some or all Council spaces.
 - Assistance to the complainant with a report to other bodies, for example, institutional offices or appropriate law enforcement agencies.
 
