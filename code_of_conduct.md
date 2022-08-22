@@ -18,7 +18,7 @@ Be kind to others. Do not insult or put down others. Behave professionally. Reme
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery are not appropriate.
 
-The Council is dedicated to providing a harassment-free community for everyone, regardless of age, disability, gender reassignment, marriage and civil partnership, pregnancy and parenthood, race, religion or belief (or lack thereof), gender identity and expression, sex, sexual orientation, technical choices, experience level or any other dimension of diversity. We do not tolerate harassment of community members in any form.
+The Steering Committee is dedicated to providing a harassment-free community for everyone, regardless of age, disability, gender reassignment, marriage and civil partnership, pregnancy and parenthood, race, religion or belief (or lack thereof), gender identity and expression, sex, sexual orientation, technical choices, experience level or any other dimension of diversity. We do not tolerate harassment of community members in any form.
 
 Thank you for helping make this a welcoming, friendly community for all.
 
