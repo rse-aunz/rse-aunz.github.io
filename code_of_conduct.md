@@ -147,7 +147,7 @@ This information will be collected in writing, and whenever possible the Council
 The Council should aim to have a resolution agreed upon within one week. In the event that a resolution can’t be determined in that time, the Council will respond to the reporter(s) with an update and the projected timeline for resolution.
 
 ## Resolutions
-The Council must agree on a resolution by consensus of all members investigating the report in question.
+The Steering Committee must agree on a resolution by consensus of all members investigating the report in question.
 
 Possible outcomes may include:
 
