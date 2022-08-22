@@ -92,7 +92,7 @@ Any violations to the Code of Conduct during Council events should be immediatel
 </body>
 </html>.
 
-If the violation occurs in an online space, reports should be emailed directly to the co-chair of the Council or any other Council member.
+If the violation occurs in an online space, reports should be emailed directly to the co-chair of the Steering Committee.
 
 The person to whom a report is made is hereafter referred to as "the Contact".
 
