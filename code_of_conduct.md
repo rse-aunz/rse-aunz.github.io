@@ -150,7 +150,7 @@ Once a report is filed, the Steering Committee will review the incident and dete
 
 This information will be collected in writing, and whenever possible the Steering Committee's deliberations will be recorded and retained (e.g., email discussions, recorded voice conversations, etc).
 
-The Council should aim to have a resolution agreed upon within one week. In the event that a resolution can’t be determined in that time, the Council will respond to the reporter(s) with an update and the projected timeline for resolution.
+The Steering Committee should aim to have a resolution agreed upon within one week. In the event that a resolution can’t be determined in that time, the Steering Committee will respond to the reporter(s) with an update and the projected timeline for resolution.
 
 ## Resolutions
 The Steering Committee must agree on a resolution by consensus of all members investigating the report in question.
