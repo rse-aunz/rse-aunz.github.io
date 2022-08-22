@@ -85,7 +85,6 @@ Any violations to the Code of Conduct during Council events should be immediatel
 
 - For the RSE Asia Australia Unconference please contact paula [dot] martinez [at] ardc.edu.au
 - For any other situation, please contact the co-chair of the Steering Committee of the the RSE Association of Australia and New Zealand rse-nz-au+managers [at] googlegroups.com
---
 
 
 <!--EndFragment-->
