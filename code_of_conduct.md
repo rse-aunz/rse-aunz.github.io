@@ -160,7 +160,7 @@ Possible outcomes may include:
 - A permanent or temporary ban from some or all Association spaces.
 - Assistance to the complainant with a report to other bodies, for example, institutional offices or appropriate law enforcement agencies.
 
-Once a resolution is agreed upon, but before it is enacted, the Council will contact the original reporter and any other affected parties and explain the proposed resolution. The Council will ask if this resolution is acceptable, and must note feedback for the record. However, the Council is not required to act on this feedback.
+Once a resolution is agreed upon, but before it is enacted, the Council will contact the original reporter and any other affected parties and explain the proposed resolution. The Steering Committee will ask if this resolution is acceptable, and must note feedback for the record. However, the Steering Committee is not required to act on this feedback.
 
 ## Conflicts of interest
 In the event of any conflict of interest (a Council member, their family member, or someone with whom the Council member has a close academic, employment, or personal relationship is involved in a complaint), the Council member must immediately notify the other members, and recuse themselves if necessary.
