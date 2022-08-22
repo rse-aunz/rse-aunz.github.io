@@ -131,7 +131,7 @@ The Council is also empowered to act if any of its members becomes aware of ongo
 ### Immediate response
 The initial response to an incident is very important. Depending on the severity and details of the incident, an immediate response may be required.
 
-In situations involving immediate danger or involving a threat to anyone’s safety, any member of the Council may – and should – act immediately to protect the safety of the individual(s) in such a situation. This can include contacting law enforcement or crisis resources.
+In situations involving immediate danger or involving a threat to anyone’s safety, any member of the RSE-AUNZ may – and should – act immediately to protect the safety of the individual(s) in such a situation. This can include contacting law enforcement or crisis resources.
 
 If a Council member acts before reviewing the situation within the Council, they must inform the other Council members as soon as possible, and report their actions to the Council for review within 24 hours.
 
