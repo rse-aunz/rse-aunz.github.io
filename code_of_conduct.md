@@ -133,7 +133,7 @@ The initial response to an incident is very important. Depending on the severity
 
 In situations involving immediate danger or involving a threat to anyone’s safety, any member of the RSE-AUNZ may – and should – act immediately to protect the safety of the individual(s) in such a situation. This can include contacting law enforcement or crisis resources.
 
-If a Council member acts before reviewing the situation within the Council, they must inform the other Council members as soon as possible, and report their actions to the Council for review within 24 hours.
+If a Steering Committee member acts before reviewing the situation within the Steering Committee, they must inform the other Steering Committee members as soon as possible, and report their actions to the Steering Committee for review within 24 hours.
 
 ### Ongoing incidents
 If the action is ongoing, whether in person or online, any Council member may act immediately and employ any available means to diffuse the situation including bans and blocks. In situations where an individual Council member acts immediately, they must inform the other Council members as soon as possible, and report their actions to the Council for review within 24 hours.
