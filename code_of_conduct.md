@@ -139,7 +139,7 @@ If a Steering Committee member acts before reviewing the situation within the St
 If the action is ongoing, whether in person or online, any Steering Committee member may act immediately and employ any available means to diffuse the situation including bans and blocks. In situations where an individual Steering Committee member acts immediately, they must inform the other Steering Committee members as soon as possible, and report their actions to the Steering Committee for review within 24 hours.
 
 ### Less-urgent situations
-Once a report is filed, the Council will review the incident and determine, to the best of their ability:
+Once a report is filed, the Steering Committee will review the incident and determine, to the best of their ability:
 
 - Whether this is an ongoing situation
 - Whether there is a threat to anyone’s safety
