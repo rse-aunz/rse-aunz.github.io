@@ -1,6 +1,9 @@
 toc: 
   - title: Home
     url: /
+    subfoldersitems:
+      - page: RSE AA
+      - url: /2022-Asia-Australia-unconference/
   - title: Community 
     subfolderitems: 
       - page: About
@@ -9,6 +12,8 @@ toc:
         url: /goals/
       - page: Minutes
         url: /minutes/
+      - page: Code of Conduct
+        url: /code_of_conduct/
   - title: Resources
     subfolderitems: 
       - page: Events
