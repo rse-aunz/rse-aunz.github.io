@@ -148,7 +148,7 @@ Once a report is filed, the Steering Committee will review the incident and dete
 - Who, if anyone, was the bad actor
 - Whether any communications should be made to the wider community
 
-This information will be collected in writing, and whenever possible the Council’s deliberations will be recorded and retained (e.g., email discussions, recorded voice conversations, etc).
+This information will be collected in writing, and whenever possible the Steering Committee's deliberations will be recorded and retained (e.g., email discussions, recorded voice conversations, etc).
 
 The Council should aim to have a resolution agreed upon within one week. In the event that a resolution can’t be determined in that time, the Council will respond to the reporter(s) with an update and the projected timeline for resolution.
 
