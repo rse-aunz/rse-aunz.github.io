@@ -82,6 +82,6 @@ software engineers, and ultimately contributes to more efficient and
 reproducible research.
 
 ## Code of Conduct
-We are committed to creating a welcoming and supportive environment for all of our members. All participants in our events and communications are expected to show respect and courtesy to others. This is why we have a [Code of Conduct.](https://rse-aunz.github.io/code-of-conduct)
+We are committed to creating a welcoming and supportive environment for all of our members. All participants in our events and communications are expected to show respect and courtesy to others. This is why we have a [Code of Conduct.](https://rse-aunz.github.io/code-of-conduct).
 
 You can comment on topics: <a class="rse" href="https://github.com/rse-aunz/rse-au/issues">GitHub Issues</a> 
