@@ -84,7 +84,13 @@ If you believe that someone is violating the Code of Conduct, please report this
 Any violations to the Code of Conduct during Council events should be immediately reported to the event host, organiser or the designated incident person/people.
 
 - For the RSE Asia Australia Unconference please contact paula [dot] martinez [at] ardc.edu.au
-- For the any other situation, please contact the co-chair of the Steering Committee of the the RSE Association of Australia and New Zealand.
+- For any other situation, please contact the co-chair of the Steering Committee of the the RSE Association of Australia and New Zealand rse-nz-au+managers [at] googlegroups.com
+--
+
+
+<!--EndFragment-->
+</body>
+</html>.
 
 If the violation occurs in an online space, reports should be emailed directly to the co-chair of the Council or any other Council member.
 
