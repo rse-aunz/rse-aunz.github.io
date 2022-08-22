@@ -163,7 +163,7 @@ Possible outcomes may include:
 Once a resolution is agreed upon, but before it is enacted, the Council will contact the original reporter and any other affected parties and explain the proposed resolution. The Steering Committee will ask if this resolution is acceptable, and must note feedback for the record. However, the Steering Committee is not required to act on this feedback.
 
 ## Conflicts of interest
-In the event of any conflict of interest (a Council member, their family member, or someone with whom the Council member has a close academic, employment, or personal relationship is involved in a complaint), the Council member must immediately notify the other members, and recuse themselves if necessary.
+In the event of any conflict of interest (a Steering Committee member, their family member, or someone with whom the Steering Committee member has a close academic, employment, or personal relationship is involved in a complaint), the Steering Committee member must immediately notify the other members, and recuse themselves if necessary.
 
 ## Acknowledgements
 
