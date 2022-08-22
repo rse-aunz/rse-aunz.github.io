@@ -123,7 +123,7 @@ The following section details the enforcement manual followed by the Steering Co
 
 All responses to reports of conduct violations will be managed by the Steering Committee itself. To write to the Steering Committee and for the current membership, see [https://rse-aunz.github.io/about/](https://rse-aunz.github.io/about/)
 
-### How will the Council respond to reports?
+### How will the Steering Committee respond to reports?
 When a report is sent to the Steering Committee, a member will reply to the report to confirm receipt within 24 hours. If a report does not contain enough information, the Council will attempt to obtain all relevant data before acting, including contacting any individuals involved to get a comprehensive account of events. Once a report has been filed, one of the Steering Committee members will be assigned as the main acting member responsible for any communications with the involved individual(s).
 
 The Steering Committee is also empowered to act if any of its members becomes aware of ongoing behaviour that, taken as a whole over a long time period, is disrupting or harassing. Such behaviour might not be “over the line” in any single incident, and thus may not generate a report.
