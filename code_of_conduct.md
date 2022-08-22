@@ -1,6 +1,6 @@
 # The RSE Association of Australia and New Zealand Code of Conduct
 
-This code of conduct covers all participants in our events and communications at the RSE Association of Australia and New Zealand (the Council). Our participants are expected to show respect and courtesy to others and all interactions should be professional, both online and in-person.
+This code of conduct covers all participants in our events and communications at the RSE Association of Australia and New Zealand. Our participants are expected to show respect and courtesy to others and all interactions should be professional, both online and in-person.
 
 
 ## The short version
