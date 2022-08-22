@@ -90,7 +90,7 @@ If the violation occurs in an online space, reports should be emailed directly t
 
 The person to whom a report is made is hereafter referred to as "the Contact".
 
-All reports will be reviewed by the Council and will be kept confidential to the extent possible in a small group.
+All reports will be reviewed by the Steering Committee and will be kept confidential to the extent possible in a small group.
 
 In your report, please do your best to include:
 
