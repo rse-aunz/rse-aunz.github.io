@@ -29,7 +29,7 @@ This Code of Conduct should be honoured by everyone who participates in the RSE 
 
 This Code of Conduct outlines our behaviour expectations as participants in all related activities, both offline and online. Everyone’s participation is contingent upon following these guidelines in all activities associated with the RSE-AUNZ including but not limited to:
 
-- Council meetings
+- Steering Committee meetings
 - Email lists and online forums like Slack, Twitter, GitHub, and LinkedIn
 - Representing the Council at public events
 - As a relatively small organization, the Council itself is responsible for enforcing the Code of Conduct and all reports about misconduct will be dealt with promptly and in accordance with the Enforcement* *Manual (see below).
