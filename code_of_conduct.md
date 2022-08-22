@@ -31,7 +31,7 @@ This Code of Conduct outlines our behaviour expectations as participants in all 
 
 - Steering Committee meetings
 - Email lists and online forums like Slack, Twitter, GitHub, and LinkedIn
-- Representing the Council at public events
+- Representing the RSE-AUNZ at public events
 - As a relatively small organisation, the Steering Committee itself is responsible for enforcing the Code of Conduct and all reports about misconduct will be dealt with promptly and in accordance with the *Enforcement Manual* (see below).
 
 Behaviours that are disrespectful to our members or events’ attendees and sponsors, or intimidate, exclude or cause discomfort to others will not be tolerated. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, age, disability, gender reassignment, marriage and civil partnership, pregnancy and parenthood, race, religion or belief (or lack there of), gender identity and expression, sex, sexual orientation, technical choices, experience level or any other dimension of diversity.
