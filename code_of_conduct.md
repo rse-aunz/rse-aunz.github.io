@@ -77,7 +77,7 @@ Examples of unacceptable behaviour include:
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any event or platform, either online or in-person. If an event participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage the Council to investigate the Code of Conduct violation and impose appropriate sanctions.
 
 ## Incident reporting guidelines
-If you believe that someone is violating the Code of Conduct, please report this in a timely manner. Code of Conduct violations reduce the value of the community for everyone. The Council takes reports of misconduct very seriously and is committed to preserving and maintaining the welcoming nature of our community.
+If you believe that someone is violating the Code of Conduct, please report this in a timely manner. Code of Conduct violations reduce the value of the community for everyone. The Steering Committee takes reports of misconduct very seriously and is committed to preserving and maintaining the welcoming nature of our community.
 
 ### All reports will be kept confidential.
 
