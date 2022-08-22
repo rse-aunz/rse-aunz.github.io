@@ -114,7 +114,7 @@ If you believe this is an ongoing situation, please let us know
 
 ## What to do if someone is in immediate danger?
 
-If you believe someone is in immediate danger, please ask a Council member to contact appropriate emergency responders. All event organizers should, before the event, determine who would be appropriate to contact in case of an incident and make sure this information is available at all times over the duration of the event in question.
+If you believe someone is in immediate danger, please ask a Steering Committee member to contact appropriate emergency responders. All event organisers should, before the event, determine who would be appropriate to contact in case of an incident and make sure this information is available at all times over the duration of the event in question.
 
 Once the incident has been resolved, we ask that it be reported to the Council in the same way as all other incidents.
 
