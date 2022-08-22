@@ -119,7 +119,7 @@ If you believe someone is in immediate danger, please ask a Steering Committee m
 Once the incident has been resolved, we ask that it be reported to the Council in the same way as all other incidents.
 
 ## Enforcement manual
-The following section details the enforcement manual followed by the Council. It is used when we respond to an issue to make sure we are consistent and fair on every instance. Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
+The following section details the enforcement manual followed by the Steering Committee. It is used when we respond to an issue to make sure we are consistent and fair on every instance. Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
 
 All responses to reports of conduct violations will be managed by the Council itself. To write to the Council and for the current membership, see [https://rse-aunz.github.io/about/](https://rse-aunz.github.io/about/)
 
