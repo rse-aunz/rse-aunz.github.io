@@ -13,14 +13,8 @@ permalink: /links/
   - <a class="" target="_blank" href="https://nl-rse.org/">Netherlands RSE Association</a>
   - <a class="" target="_blank" href="https://nordic-rse.org/">Nordic RSE Association</a>
   - <a class="" target="_blank" href="https://us-rse.org/">USA RSE Association</a>
-  - <a class="" target="_blank" href="https://researchsoftware.org/">RSEs International</a>
+  - <a class="" target="_blank" href="https://researchsoftware.org/">The International Council of RSE Associations (the Council)</a>
 
-
-### Past RSE Meetings
-  - <a class=""  target="_blank" href="https://www.rseconference.nz/">New Zealand RSE Conference 2020</a>
-  - <a class=""  target="_blank" href="https://rsecon2020.society-rse.org/">RSE Conference 2020</a>
-  - <a class=""  target="_blank" href="https://rse.ac.uk/conf2019/">RSE Conference 2019</a>
-  - <a class=""  target="_blank" href="https://society-rse.org/community/rse-leaders-meetings/">RSE Leaders Meetings</a>
 
 ### Getting Involved with Online Communities
   - <a class="" target="_blank" href="https://sorse.github.io">SORSE: International Series of Online Research Software Events</a>
