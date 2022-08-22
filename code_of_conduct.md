@@ -25,7 +25,7 @@ Thank you for helping make this a welcoming, friendly community for all.
 ## About the Code of Conduct
 We are committed to creating a welcoming and supportive environment for all of our members. All participants in our events and communications are expected to show respect and courtesy to others.
 
-This Code of Conduct should be honoured by everyone who participates in the Council, as member, guest, or in another role. It should be honoured in all related activities, by anyone claiming affiliation with the Council, and especially when someone is representing the Council in any role (including as an event volunteer, organiser or speaker).
+This Code of Conduct should be honoured by everyone who participates in the RSE AUNZ association, as member, guest, or in another role. It should be honoured in all related activities, such as events, mailing list and social media communications, and especially when someone is representing the RSE-AUNZ in any role (including as an event volunteer, organiser or speaker).
 
 This Code of Conduct outlines our behaviour expectations as members of the Council in all related activities, both offline and online. Everyone’s participation is contingent upon following these guidelines in all activities associated with the Council including but not limited to:
 
