@@ -126,7 +126,7 @@ All responses to reports of conduct violations will be managed by the Steering C
 ### How will the Council respond to reports?
 When a report is sent to the Steering Committee, a member will reply to the report to confirm receipt within 24 hours. If a report does not contain enough information, the Council will attempt to obtain all relevant data before acting, including contacting any individuals involved to get a comprehensive account of events. Once a report has been filed, one of the Steering Committee members will be assigned as the main acting member responsible for any communications with the involved individual(s).
 
-The Council is also empowered to act if any of its members becomes aware of ongoing behaviour that, taken as a whole over a long time period, is disrupting or harassing. Such behaviour might not be “over the line” in any single incident, and thus may not generate a report.
+The Steering Committee is also empowered to act if any of its members becomes aware of ongoing behaviour that, taken as a whole over a long time period, is disrupting or harassing. Such behaviour might not be “over the line” in any single incident, and thus may not generate a report.
 
 ### Immediate response
 The initial response to an incident is very important. Depending on the severity and details of the incident, an immediate response may be required.
