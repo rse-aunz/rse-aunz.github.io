@@ -7,12 +7,6 @@ This code of conduct covers all participants in our events and communications at
 If you have a question about the code of conduct or wish to report misconduct, please email the appropriate contact:
 - For the RSE Asia Australia Unconference please contact paula [dot] martinez [at] ardc.edu.au
 - For any other situation, please contact the co-chairs of the Steering Committee of the the RSE Association of Australia and New Zealand rse-nz-au+managers [at] googlegroups.com
---
-
-
-<!--EndFragment-->
-</body>
-</html>
 
 Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for this community.
 
@@ -86,10 +80,6 @@ Any violations to the Code of Conduct during Council events should be immediatel
 - For the RSE Asia Australia Unconference please contact paula [dot] martinez [at] ardc.edu.au
 - For any other situation, please contact the co-chair of the Steering Committee of the the RSE Association of Australia and New Zealand rse-nz-au+managers [at] googlegroups.com
 
-
-</body>
-</html>.
-
 If the violation occurs in an online space, reports should be emailed directly to the co-chair of the Steering Committee.
 
 The person to whom a report is made is hereafter referred to as "the Contact".
@@ -119,7 +109,7 @@ Once the incident has been resolved, we ask that it be reported to the Council i
 ## Enforcement manual
 The following section details the enforcement manual followed by the Steering Committee. It is used when we respond to an issue to make sure we are consistent and fair on every instance. Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
 
-All responses to reports of conduct violations will be managed by the Steering Committee itself. To write to the Steering Committee and for the current membership, see [https://rse-aunz.github.io/about/](https://rse-aunz.github.io/about/)
+All responses to reports of conduct violations will be managed by the Steering Committee itself. To write to the Steering Committee and for the current membership, see [https://rse-aunz.github.io/about/](https://rse-aunz.github.io/about/).
 
 ### How will the Steering Committee respond to reports?
 When a report is sent to the Steering Committee, a member will reply to the report to confirm receipt within 24 hours. If a report does not contain enough information, the Council will attempt to obtain all relevant data before acting, including contacting any individuals involved to get a comprehensive account of events. Once a report has been filed, one of the Steering Committee members will be assigned as the main acting member responsible for any communications with the involved individual(s).
