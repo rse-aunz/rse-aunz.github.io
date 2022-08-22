@@ -121,7 +121,7 @@ Once the incident has been resolved, we ask that it be reported to the Council i
 ## Enforcement manual
 The following section details the enforcement manual followed by the Steering Committee. It is used when we respond to an issue to make sure we are consistent and fair on every instance. Enforcement of the Code of Conduct should be respectful and not include any harassing behaviours.
 
-All responses to reports of conduct violations will be managed by the Council itself. To write to the Council and for the current membership, see [https://rse-aunz.github.io/about/](https://rse-aunz.github.io/about/)
+All responses to reports of conduct violations will be managed by the Steering Committee itself. To write to the Steering Committee and for the current membership, see [https://rse-aunz.github.io/about/](https://rse-aunz.github.io/about/)
 
 ### How will the Council respond to reports?
 When a report is sent to the Council, a member will reply to the report to confirm receipt within 24 hours. If a report does not contain enough information, the Council will attempt to obtain all relevant data before acting, including contacting any individuals involved to get a comprehensive account of events. Once a report has been filed, one of the Council members will be assigned as the main acting member responsible for any communications with the involved individual(s).
