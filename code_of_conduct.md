@@ -104,7 +104,7 @@ In your report, please do your best to include:
 - Identifying information of the reported person
 - The behaviour associated with the Code of Conduct violation
 - If possible, where the Code of Conduct violation happened
-- The approximate time of the behaviour (if different than the time the report was made)
+- The approximate time of the behaviour (if different than the time the report was made), please include the time zone. 
 - The circumstances surrounding the incident
 - Other people involved or that witnessed the incident
 - If there is a publicly available record (i.e. email thread, Slack messages, Twitter threads)
