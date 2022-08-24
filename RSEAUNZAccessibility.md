@@ -40,7 +40,7 @@ participant about delays in finding the answer.
 conference in a section of the conference website or email promotions so potential participants
 can find the information easily.  
 
--  Making sure all media (social media posts, emails, and websites) and 
+- Making sure all media (social media posts, emails, and websites) and 
 software components (video, chat, and registration) are accessible:  
 
   - Images must have descriptive alternative (alt) text  
@@ -54,7 +54,7 @@ software components (video, chat, and registration) are accessible:
   - Media can be navigated fully from the keyboard (rather than relying on 
 mouse use)  
 
-Providing frequent breaks in the schedule. long sessions without breaks are a barrier to people with many types of disability. 
+- Providing frequent breaks in the schedule. long sessions without breaks are a barrier to people with many types of disability. 
 This is increasingly relevant 
   in the time of Long Covid. Breaks should occur every hour.  
   
