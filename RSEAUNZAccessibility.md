@@ -5,9 +5,10 @@
 
 ---
 
-The professional conference landscape has changed considerably recently. We
- have learned from the COVID-19 pandemic that conference environments can 
-evolve to become more diverse and inclusive[^1]. Organizing a conference that 
+The professional conference landscape has changed considerably over the last few years.
+We have learned from the COVID-19 pandemic that conference environments can 
+evolve to become more diverse and inclusive[^1]. 
+Organizing a conference that 
 is accessible for colleagues with disabilities is an important way to ensure a large 
 group of presenters and participants from all career stages.
 
@@ -16,7 +17,8 @@ group of presenters and participants from all career stages.
 Moving conferences online has made them more accessible in many ways, but
 some barriers to full participation are often overlooked by organizers. 
 This report will evaluate the components of the 
-[RSE Asia-Australia Unconference 2022](https://rse-aunz.github.io/2022-Asia-Australia-unconference/) and make suggestions for removing accessibility 
+[RSE Asia-Australia Unconference 2022](https://rse-aunz.github.io/2022-Asia-Australia-unconference/) 
+and make suggestions for removing accessibility 
 barriers. Some of these will be easy to respond to for this year's conference, 
 while others will require more advance planning and budgeting and can be 
 implemented in future years or other conferences.
@@ -26,26 +28,27 @@ implemented in future years or other conferences.
 The conference will be welcoming if you show that access has been 
 considered. This involves
 
-- removing accessibility barriers, for instance, for screen reader users  
+- Avoiding the requirement for people to ask for accessibility practices 
+or disclose their disabilities to organizers  
 
-- avoiding the requirement for people to ask for accessibility practices 
-or disclose their disabilities to organizers
-
-  - Designation of an individual contact person (or email address) to answer 
-questions about accessibility. Answer questions promptly, or update the 
-participant about delays in finding the answer.
+  - Designating an individual contact person (or email address) to answer 
+questions about accessibility. 
+Answer questions promptly, or update the 
+participant about delays in finding the answer.  
 
   - Describing accessibility practices (like captioning) planned for the 
-conference in a section of the conference website so potential participants
-can find the information easily.    
+conference in a section of the conference website or email promotions so potential participants
+can find the information easily.  
 
-- Make sure all media (social media posts, emails, websites, and 
-software components (like video, chat, and registration are accessible
-for screen reader users (images must have descriptive alt-text), 
-deaf or hard-of-hearing people (videos must have captions). Media should also
-have sufficient contrast and large enough fonts to be visible to people with low vision. 
-Ensuring that your media can be navigated fully from the keyboard (rather than relying on 
-mouse use) will ensure accessibility for many people.
+-  Making sure all media (social media posts, emails, and websites) and 
+software components (video, chat, and registration) are accessible:  
+
+  - Images must have descriptive alternative (alt) text
+  - Accurate captions should be included in all videos
+  - Contrast and text size should make media easily accessible
+    Media must be navigable with a screen reader
+  - Media can be navigated fully from the keyboard (rather than relying on 
+mouse use)
 
   - Providing frequent breaks in the schedule. long sessions without breaks
   are a barrier to people with many types of disability. This is increasingly relevant 
@@ -57,11 +60,11 @@ mouse use) will ensure accessibility for many people.
     - Plain, direct communication is preferred. It's fine to say things like
 	"blind," "deaf". and "disabled."  
 	
-	- Avoid euphemisms like "challenged" or "differently abled."
+	- Avoid euphemisms like "challenged" or "differently abled."  
 	
-	  - Avoid talking about disability as "inspiring." 
+  - Avoid talking about disability as "inspiring." 
 	  [This is an excellent talk from a disabled Australian woman about "inspiration porn!"]
-	  (https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much/transcript)  
+(https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much/transcript)  
 
 ## 2. Software Components and their accessibility
 
@@ -74,7 +77,7 @@ The EventBrite platform is not optimized for screen reader use.
 I have tested the process for other events on Mac and an iPhone with the VoiceOver screen 
 reader. 
 Signing up for a free event is difficult but I was able to do it.
-However, I was not able to get through the process of charging it to a
+However, I was not able to get through the process of charging a paid event to a
 credit card. As a result, there are likely to be people either giving up 
 on attending or contacting the organizers to ask for an alternative
 way of paying. 
@@ -152,7 +155,7 @@ many services that provide these "live captions." One that has been effective in
 community is [White Coat Captioning](https://whitecoatcaptioning.com).
 
 Since some deaf people use sign language as their first language, it can
-be an ideal accessibility practice. Interpreters should also have an opportunity to become familiar with the field and its vocabular. One 
+be an ideal accessibility practice. Interpreters should also have an opportunity to become familiar with the field and its vocabulary. One 
 complication with sign language interpretation is that each country
 has its own sign language. Since this conference is focused on Australia, 
 Auslan interpretation should be considered.
@@ -177,4 +180,4 @@ that their slides show. There is more information in Section X
 about providing presenters with accessibility guidelines.  
 
 Presenters who are aware of describing all the elements of their slides often 
-slow down their talks in a way that benefits people with many kinds of disabilities. x 
+slow down their talks in a way that benefits people with many kinds of disabilities.  
