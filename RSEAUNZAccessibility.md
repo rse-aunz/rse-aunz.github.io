@@ -67,8 +67,7 @@ This is increasingly relevant
   - Avoid euphemisms like "challenged" or "differently abled."  
 	
   - Avoid talking about disability as "inspiring." 
-[This is an excellent talk from a disabled Australian woman about "inspiration porn!"]
-(https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much/transcript)  
+[This is an excellent talk from a disabled Australian woman about "inspiration porn!"](https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much/transcript)  
 
 ## 2. Software Components and their Accessibility
 
@@ -185,3 +184,49 @@ about providing presenters with accessibility guidelines.
 
 Presenters who are aware of describing all the elements of their slides often 
 slow down their talks in a way that benefits people with many kinds of disabilities.  
+
+## 3. Accessibility Standards for Presenters
+
+Providing accessibility guidelines for presenters accomplishes two goals: 
+providint access for participants with disabilities, and educating presenters,
+who are usually more structurally priveleged, about how to make their material 
+more inclusive. We wrote accessibility standards with instructional resources
+for [UseR!2021](https://user2021.r-project.org/participation/talks-access/).
+Some presenters told us they learned a lot of things about making their work accessible, 
+while others ignored the standards. 
+In the future, one way the RSE-Australia/New Zealand Unconference could nudge
+presenters toward implementing accessibility practices would be to have them
+agree to follow accessibility standards as part of the submission process.  
+
+Many of the accessibility standards for presenters are parallel with the 
+recommendations for conference organizers. They are presented here with 
+some learning resources.  
+
+- Prefer slide formats like .Rmd/HTML or Python Notebooks/HTML. Sometiems source
+code is more accessible to screen reader users. Silvia Canelón has
+[a great tutorial post about creating Rmd slides using the Xaringan package](https://www.silviacanelon.com/talk/2020-xaringan-basics-and-beyond/).
+
+- Avoid distracting transitions, flashing images, and complicated layouts.
+
+- Ensure that images have alternative (alt) text so screen reader users can access their meaning. 
+Some resources for learning about this descriptive text:
+
+  - The [Diagram Center](http://diagramcenter.org/making-images-accessible.html)
+  has guidelines and learning tools for writing alt-texts for STEM.  
+
+- [WGBH](https://www.wgbh.org/foundation/ncam/guidelines/guidelines-for-describing-stem-images) 
+  also has guidelines for STEM images.
+  For my opinion about their emphasis on brevity (I disagree that that's the #1 priority!), 
+  see the next item.  
+
+  - Communicating Science Through Meaningful Alt-Text, presented by Liz Hare to 
+  the Time Scavengers Virtural Internship Program, June 2022  
+
+    - [Slides](https://lizharedogs.github.io/TimeScavengersWorkshopAltText/#1) (press PgDn to advance slides)
+	- [Video](https://drive.google.com/file/d/1Fj_qJM8bJtnAyd-UTMVeiUNw8cORSnM4/view?usp=sharing )  
+  - Revealing Room for Improvement in Accessibility in a SOcial Media Data VIsualization Community,
+  Silvia Canelón and Liz Hare, CSV conf, May 2021  
+  
+    - [Slides](https://spcanelon.github.io/csvConf2021/slides/indexLH.html#1) (press PgDn to advance slides)
+	- [Video](https://www.youtube.com/watch?v=DxLkv2iRdf8)
+	
