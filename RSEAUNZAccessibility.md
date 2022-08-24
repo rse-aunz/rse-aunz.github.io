@@ -10,7 +10,7 @@ We have learned from the COVID-19 pandemic that conference environments can
 evolve to become more diverse and inclusive[^1]. 
 Organizing a conference that 
 is accessible for colleagues with disabilities is an important way to ensure a large 
-group of presenters and participants from all career stages.
+group of presenters and participants from all career stages will attend.
 Accessibility is the responsibility of the conference organizers and presenters.
 Accessibility practices are the steps we take to make sure an event is accessible
 to as many people as possible, like transcripts and text captions of speech, 
@@ -64,7 +64,7 @@ This is increasingly relevant
   in the time of Long Covid. Breaks should occur every hour.  
   
   
-- Providing accessibility standards for presenters, listing expected accessibility practices for their talks and providing references about how to implement them (see Section 3).    
+- Providing accessibility standards for presenters, listing expected accessibility practices for their talks and providing references about how to implement them (see Section 3). f
 
 
 - The language used to talk about any group of people is important. 
@@ -113,13 +113,13 @@ a screen reader.
 
 #### Suggestions
 
-For the conference flyer, consider another format like markdown/HTML or PDF 
+For the conference flier, consider another format like markdown/HTML or PDF 
 that has been created to be accessible ([Adobe](https://csuf.screenstepslive.com/m/96806/l/1474315-alt-text-for-images-in-adobe-acrobat-pdf) 
 and [Microsoft Office](https://support.microsoft.com/en-us/office/create-accessible-pdfs-064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 have facilities for this.
 
 For the conference website, the heading "Accessibility and Inclusivity" on the website would be a perfect place to provide information about
-accessibility practices like captions, accessibility standardsfor presenters, and address other questions potential 
+accessibility practices like captions, accessibility standards for presenters, and address other questions potential 
 participants might have about disability-related access.  
 
 The website provides an email address for questions, 
@@ -137,6 +137,11 @@ provided before early registration closes.
 
 ### 2.3 Zoom
 
+Most important features of Zoom are accessible to people with disabilities. 
+Zoom has prioritized accessibility more than many other platforms. 
+It is in wide use, so some people will be quite familiar with it. 
+Others may be less experienced and take more time to find their way around the interface.
+
 Historically, conference presentations rely on the assumption
 that the audience receives information on two channels: they look at 
 the slide to appreciate some of the information, while listening
@@ -144,7 +149,7 @@ to the author explain the content.
 The synthesis of the information from
 these two channels leads to comprehension of the presentation. 
 For example, in a presentation about statistical analysis code
-the slides are likely to contain the precice code while 
+the slides are likely to contain the precise code while 
 the verbalized part of the talk might be more general or 
 explanatory. For people with sensory disabilities, there 
 are accessibility practices to provide the missing information.  
@@ -196,8 +201,8 @@ slow down their talks in a way that benefits people with many kinds of disabilit
 ## 3. Accessibility Standards for Presenters
 
 Providing accessibility standards for presenters accomplishes two goals: 
-providint access for participants with disabilities, and educating presenters,
-who are usually more structurally priveleged, about how to make their material 
+providing access for participants with disabilities, and educating presenters,
+who are usually more structurally privileged, about how to make their material 
 more inclusive. We wrote accessibility standards with instructional resources
 for [UseR!2021](https://user2021.r-project.org/participation/talks-access/).
 Some presenters told us they learned a lot of things about making their work accessible, 
@@ -209,6 +214,8 @@ agree to follow accessibility standards as part of the submission process.
 Many of the accessibility standards for presenters are parallel with the 
 recommendations for conference organizers. They are presented here with 
 some learning resources.  
+
+### The Slides
 
 - Prefer slide formats like .Rmd/HTML or Python Notebooks/HTML. Sometimes source
 code is more accessible to screen reader users. Silvia Canelón has
@@ -232,30 +239,45 @@ Some resources for learning about this descriptive text:
 
     - [Slides](https://lizharedogs.github.io/TimeScavengersWorkshopAltText/#1) (press PgDn to advance slides)
 	- [Video](https://drive.google.com/file/d/1Fj_qJM8bJtnAyd-UTMVeiUNw8cORSnM4/view?usp=sharing )  
-  - Revealing Room for Improvement in Accessibility in a SOcial Media Data VIsualization Community,
+  - Revealing Room for Improvement in Accessibility in a Social Media Data Visualization Community,
   Silvia Canelón and Liz Hare, CSV conf, May 2021  
   
     - [Slides](https://spcanelon.github.io/csvConf2021/slides/indexLH.html#1) (press PgDn to advance slides)
 	- [Video](https://www.youtube.com/watch?v=DxLkv2iRdf8)
 	
-  - Ensure that PowerPoint or PDF slides are created with accessibility features. 
+	
+- Optimize the visibility of your slides by considering:  
+
+  - Enough contrast for visibility
+  [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)  
+  
+  - Color palettes that can be distinguished by everyone
+  [How to Make Your Website Accessible for Color-Blind People](https://equalizedigital.com/website-accessibility-color-blind/)  
+  
+  - Text size large enough to be readable on small screens
+  [Font Size on the Web](https://accessibility.psu.edu/fontsizehtml/)  
+  
+  - Choose fonts for readability
+  
+
+- Ensure that PowerPoint or PDF slides are created with accessibility features. 
   MS Office has an accessibility checker. Some instructions:  
   
-    - [Adobe](https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html)_  
+  - [Adobe](https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html)_  
 	
-	- [MS Office](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25) 
+ [MS Office](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25) 
 	Include alt-text and run the accessibility checker before saving slides as PDF.  
 	
-  - Use the speaker notes feature of your presentation to provide further explanation of slides.
+- Use the speaker notes feature of your presentation to provide further explanation of slides.
   
-  - Speak clearly and not too quickly. 
+- Speak clearly and not too quickly. 
   Keeping your face visible will help people understand you by reading your lips or facial expression.
   Faking eye contact is not necessary, since some presenters will find this impossible or uncomfortable.  
   
-  - Mention slide numbers or headers when switching slides. 
+- Mention slide numbers or headers when switching slides. 
   Use descriptions to help orient people following along with a screen reader.
   
-  - Avoid assuming that things are "obvious" in your slides. 
+- Avoid assuming that things are "obvious" in your slides. 
   Mention these things aloud.
   
   - 
