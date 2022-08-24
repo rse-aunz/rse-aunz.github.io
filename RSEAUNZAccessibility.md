@@ -28,7 +28,7 @@ barriers. Some of these will be easy to respond to for this year's conference,
 while others will require more advance planning and budgeting and can be 
 implemented in future years or other conferences.
 
-## 1. Overall Communication Strategy
+##  Overall Communication Strategy
 
 The conference will be welcoming if you show that access has been 
 considered. This involves
@@ -64,7 +64,7 @@ This is increasingly relevant
   in the time of Long Covid. Breaks should occur every hour.  
   
   
-- Providing accessibility standards for presenters, listing expected accessibility practices for their talks and providing references about how to implement them (see Section 3). f
+- Providing accessibility standards for presenters, listing expected accessibility practices for their talks and providing references about how to implement them (see Section 3).  
 
 
 - The language used to talk about any group of people is important. 
@@ -78,12 +78,12 @@ This is increasingly relevant
   - Avoid talking about disability as "inspiring." 
 [This is an excellent talk from a disabled Australian woman about "inspiration porn!"](https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much/transcript)  
 
-## 2. Software Components and their Accessibility
+## Software Components and their Accessibility
 
 For this conference, registration is on EventBrite, the website is hosted
 on GitHub, and the conference will take place on Zoom. 
 
-### 2.1 EventBrite
+### EventBrite
 
 The EventBrite platform is not optimized for screen reader use. 
 I have tested the process for other events on Mac and an iPhone with the VoiceOver screen 
@@ -103,7 +103,7 @@ We used [Conftool](https://www.conftool.net//index.php)
 for [useR! 2021](https://user2021.r-project.org) successfully and the 
 developers were even willing to help fix accessibility issues.
 
-### 2.2 Website
+### Website
 
 In general, GitHub and Markdown provide an accessible environment to host
 the information about the conference. The banner graphic has descriptive 
@@ -135,7 +135,7 @@ if their query reached anyone who can find answers or fix
 problems.  Don't charge late fees if answers could not be 
 provided before early registration closes.
 
-### 2.3 Zoom
+### Zoom
 
 Most important features of Zoom are accessible to people with disabilities. 
 Zoom has prioritized accessibility more than many other platforms. 
@@ -198,7 +198,7 @@ about providing presenters with accessibility standards.
 Presenters who are aware of describing all the elements of their slides often 
 slow down their talks in a way that benefits people with many kinds of disabilities.  
 
-## 3. Accessibility Standards for Presenters
+## Accessibility Standards for Presenters
 
 Providing accessibility standards for presenters accomplishes two goals: 
 providing access for participants with disabilities, and educating presenters,
@@ -269,7 +269,10 @@ Some resources for learning about this descriptive text:
 	Include alt-text and run the accessibility checker before saving slides as PDF.  
 	
 - Use the speaker notes feature of your presentation to provide further explanation of slides.
-  
+
+### DUring the talk
+
+
 - Speak clearly and not too quickly. 
   Keeping your face visible will help people understand you by reading your lips or facial expression.
   Faking eye contact is not necessary, since some presenters will find this impossible or uncomfortable.  
