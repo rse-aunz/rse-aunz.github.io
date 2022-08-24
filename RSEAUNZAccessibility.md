@@ -11,6 +11,11 @@ evolve to become more diverse and inclusive[^1].
 Organizing a conference that 
 is accessible for colleagues with disabilities is an important way to ensure a large 
 group of presenters and participants from all career stages.
+Accessibility is the responsibility of the conference organizers and presenters.
+Accessibility practices are the steps we take to make sure an event is accessible
+to as many people as possible, like transcripts and text captions of speech, 
+alternative (alt)-text descriptions of images,
+and providing more frequent breaks.
 
 [^1]: Joo R, Sánchez-Tapia A, Mortara S, Bellini Saibene Y, Turner H, Hug Peter D, Morandeira NS, Bannert M, Almazrouq B, Hare E, Ación L. Ten simple rules to host an inclusive conference. PLoS computational biology. 2022 Jul 21;18(7):e1010164.
 
@@ -43,11 +48,11 @@ can find the information easily.
 - Making sure all media (social media posts, emails, and websites) and 
 software components (video, chat, and registration) are accessible:  
 
-  - Images must have descriptive alternative (alt) text  
+  - Images must have descriptive alt-text  
 
   - Accurate captions should be included in all videos  
 
-  - Contrast and text size should make media easily accessible  
+  - Contrast, text size, and color palettes should make media easily accessible  
 
   - Media must be navigable with a screen reader  
 
@@ -58,6 +63,10 @@ mouse use)
 This is increasingly relevant 
   in the time of Long Covid. Breaks should occur every hour.  
   
+  
+- Providing accessibility standards for presenters, listing expected accessibility practices for their talks and providing references about how to implement them (see Section 3).    
+
+
 - The language used to talk about any group of people is important. 
  Learn and use the words used by individuals or disabled communities to describe themselves.
  
@@ -110,8 +119,7 @@ and [Microsoft Office](https://support.microsoft.com/en-us/office/create-accessi
 have facilities for this.
 
 For the conference website, the heading "Accessibility and Inclusivity" on the website would be a perfect place to provide information about
-accessibility practices like captions, accessibility guidelines
-for presenters, and address other questions potential 
+accessibility practices like captions, accessibility standardsfor presenters, and address other questions potential 
 participants might have about disability-related access.  
 
 The website provides an email address for questions, 
@@ -179,15 +187,15 @@ with static text: it cannot recognize text in videos or describe images in
 videos. To provide the details from the slides, the slides should be 
 made available in advance so they can be read along while listening to the presentation or in preparation to understand it. 
 Presenters should be encouraged to describe images and verbalize the concepts
-that their slides show. There is more information in Section X
-about providing presenters with accessibility guidelines.  
+that their slides show. There is more information in Section 3
+about providing presenters with accessibility standards.  
 
 Presenters who are aware of describing all the elements of their slides often 
 slow down their talks in a way that benefits people with many kinds of disabilities.  
 
 ## 3. Accessibility Standards for Presenters
 
-Providing accessibility guidelines for presenters accomplishes two goals: 
+Providing accessibility standards for presenters accomplishes two goals: 
 providint access for participants with disabilities, and educating presenters,
 who are usually more structurally priveleged, about how to make their material 
 more inclusive. We wrote accessibility standards with instructional resources
@@ -202,7 +210,7 @@ Many of the accessibility standards for presenters are parallel with the
 recommendations for conference organizers. They are presented here with 
 some learning resources.  
 
-- Prefer slide formats like .Rmd/HTML or Python Notebooks/HTML. Sometiems source
+- Prefer slide formats like .Rmd/HTML or Python Notebooks/HTML. Sometimes source
 code is more accessible to screen reader users. Silvia Canelón has
 [a great tutorial post about creating Rmd slides using the Xaringan package](https://www.silviacanelon.com/talk/2020-xaringan-basics-and-beyond/).
 
@@ -214,13 +222,13 @@ Some resources for learning about this descriptive text:
   - The [Diagram Center](http://diagramcenter.org/making-images-accessible.html)
   has guidelines and learning tools for writing alt-texts for STEM.  
 
-- [WGBH](https://www.wgbh.org/foundation/ncam/guidelines/guidelines-for-describing-stem-images) 
+  - [WGBH](https://www.wgbh.org/foundation/ncam/guidelines/guidelines-for-describing-stem-images) 
   also has guidelines for STEM images.
   For my opinion about their emphasis on brevity (I disagree that that's the #1 priority!), 
   see the next item.  
 
   - Communicating Science Through Meaningful Alt-Text, presented by Liz Hare to 
-  the Time Scavengers Virtural Internship Program, June 2022  
+  the Time Scavengers Virtual Internship Program, June 2022  
 
     - [Slides](https://lizharedogs.github.io/TimeScavengersWorkshopAltText/#1) (press PgDn to advance slides)
 	- [Video](https://drive.google.com/file/d/1Fj_qJM8bJtnAyd-UTMVeiUNw8cORSnM4/view?usp=sharing )  
@@ -230,3 +238,25 @@ Some resources for learning about this descriptive text:
     - [Slides](https://spcanelon.github.io/csvConf2021/slides/indexLH.html#1) (press PgDn to advance slides)
 	- [Video](https://www.youtube.com/watch?v=DxLkv2iRdf8)
 	
+  - Ensure that PowerPoint or PDF slides are created with accessibility features. 
+  MS Office has an accessibility checker. Some instructions:  
+  
+    - [Adobe](https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html)_  
+	
+	- [MS Office](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25) 
+	Include alt-text and run the accessibility checker before saving slides as PDF.  
+	
+  - Use the speaker notes feature of your presentation to provide further explanation of slides.
+  
+  - Speak clearly and not too quickly. 
+  Keeping your face visible will help people understand you by reading your lips or facial expression.
+  Faking eye contact is not necessary, since some presenters will find this impossible or uncomfortable.  
+  
+  - Mention slide numbers or headers when switching slides. 
+  Use descriptions to help orient people following along with a screen reader.
+  
+  - Avoid assuming that things are "obvious" in your slides. 
+  Mention these things aloud.
+  
+  - 
+  
