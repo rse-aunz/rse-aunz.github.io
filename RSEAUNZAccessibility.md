@@ -43,30 +43,34 @@ can find the information easily.
 -  Making sure all media (social media posts, emails, and websites) and 
 software components (video, chat, and registration) are accessible:  
 
-  - Images must have descriptive alternative (alt) text
-  - Accurate captions should be included in all videos
-  - Contrast and text size should make media easily accessible
-    Media must be navigable with a screen reader
-  - Media can be navigated fully from the keyboard (rather than relying on 
-mouse use)
+  - Images must have descriptive alternative (alt) text  
 
-  - Providing frequent breaks in the schedule. long sessions without breaks
-  are a barrier to people with many types of disability. This is increasingly relevant 
-  in the time of Long Covid. Breaks should occur every hour
+  - Accurate captions should be included in all videos  
+
+  - Contrast and text size should make media easily accessible  
+
+  - Media must be navigable with a screen reader  
+
+  - Media can be navigated fully from the keyboard (rather than relying on 
+mouse use)  
+
+Providing frequent breaks in the schedule. long sessions without breaks are a barrier to people with many types of disability. 
+This is increasingly relevant 
+  in the time of Long Covid. Breaks should occur every hour.  
   
- - The language used to talk about any group of people is important. 
- Learn and use the words used by individuals or disabled communities.
+- The language used to talk about any group of people is important. 
+ Learn and use the words used by individuals or disabled communities to describe themselves.
  
-    - Plain, direct communication is preferred. It's fine to say things like
-	"blind," "deaf". and "disabled."  
+  - Plain, direct communication is preferred. It's fine to say things like 
+  "blind," "deaf". and "disabled."  
 	
-	- Avoid euphemisms like "challenged" or "differently abled."  
+  - Avoid euphemisms like "challenged" or "differently abled."  
 	
   - Avoid talking about disability as "inspiring." 
-	  [This is an excellent talk from a disabled Australian woman about "inspiration porn!"]
+[This is an excellent talk from a disabled Australian woman about "inspiration porn!"]
 (https://www.ted.com/talks/stella_young_i_m_not_your_inspiration_thank_you_very_much/transcript)  
 
-## 2. Software Components and their accessibility
+## 2. Software Components and their Accessibility
 
 For this conference, registration is on EventBrite, the website is hosted
 on GitHub, and the conference will take place on Zoom. 
@@ -88,7 +92,7 @@ For this year, the organizers should find alternative ways for people
 who can't use eventBrite to pay. In future years, a more accessible
 registration system should be selected. 
 We used [Conftool](https://www.conftool.net//index.php)
-for [userR! 2021](https://user2021.r-project.org) successfully and the 
+for [useR! 2021](https://user2021.r-project.org) successfully and the 
 developers were even willing to help fix accessibility issues.
 
 ### 2.2 Website
