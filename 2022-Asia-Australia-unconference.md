@@ -42,14 +42,14 @@ All times in UTC+10
 
 |             | **Day 1 - 14th September**                 | **Day 2 - 15th September** | **Day 3 - 16th September** |
 |-------------|--------------------------------------------|----------------------------|----------------------------|
-| **1:00 PM** | Welcome, Vision, Explanation, and Partners | Explain, Review            | Explain, Review            |
-| **1:30 PM** | Early Career RSE keynote                   | Mid Career RSE keynote     | Strategy & Policy Panel    |
-| **2:00 PM** | Early Career RSE keynote                   | Second Session             | Strategy & Policy Panel    |
-| **2:30 PM** | Introductions to connect                   | Second Session             | Strategy & Policy Panel    |
-| **3:00 PM** | Break                                      | Break                      | Break                      |
-| **3:30 PM** | Introductions to connect                   | Third Session              | Actionable items           |
-| **4:00 PM** | First Session                              | Third Session              | Actionable items           |
-| **4:30 PM** | First Session                              | Review and discussion      | Close and thank you        |
+| **1:00PM - 1:30PM** | Welcome, Vision, Explanation, and Partners | Explain, Review            | Explain, Review            |
+| **1:30PM - 2:00PM** | Early Career RSE keynote                   | Mid Career RSE keynote     | Strategy & Policy Panel    |
+| **2:00PM - 2:30PM** | Early Career RSE keynote                   | Second Session             | Strategy & Policy Panel    |
+| **2:30PM - 3:00PM** | Introductions to connect                   | Second Session             | Strategy & Policy Panel    |
+| **3:00PM - 3:30PM** | Break                                      | Break                      | Break                      |
+| **3:30PM - 4:00PM** | Introductions to connect                   | Third Session              | Actionable items           |
+| **4:00PM - 4:30PM** | First Session                              | Third Session              | Actionable items           |
+| **4:30PM - 5:00PM** | First Session                              | Review and discussion      | Close and thank you        |
 
 ### Key Dates
 
