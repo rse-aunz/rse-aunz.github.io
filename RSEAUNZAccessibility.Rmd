@@ -1,8 +1,9 @@
 ---
 title: RSE Australia/New Zealand Unconference 2022
 subtitle: Accessibility Report
-author: Liz Hare, Ph.D.
-email: LizHare@doggenetics.com
+author:
+    name: "Liz Hare, Ph.D."
+    email: "LizHare@DogGenetics.com"
 date: "`r Sys.Date()`"
 output:
     html_document:
@@ -15,15 +16,17 @@ output:
 
 The professional conference landscape has changed considerably over the last few years.
 We have learned from the COVID-19 pandemic that conference environments can 
-evolve to become more diverse and inclusive[^1]. 
+evolve to become more diverse and inclusive in part by organizing 
+[UseR!2021](https://user2021.r-project.org)[^1]. 
 Organizing a conference that 
 is accessible for colleagues with disabilities is an important way to ensure a large 
-group of presenters and participants from all career stages will attend.
+group of presenters and participants from all career stages will attend and 
+contribute their expertise to the field.
 Accessibility is the responsibility of the conference organizers and presenters.
 Accessibility practices are the steps we take to make sure an event is accessible
 to as many people as possible, like transcripts and text captions of speech, 
 alternative (alt)-text descriptions of images,
-and providing more frequent breaks.
+and  more frequent breaks.
 
 [^1]: Joo R, Sánchez-Tapia A, Mortara S, Bellini Saibene Y, Turner H, Hug Peter D, Morandeira NS, Bannert M, Almazrouq B, Hare E, Ación L. Ten simple rules to host an inclusive conference. PLoS computational biology. 2022 Jul 21;18(7):e1010164.
 
@@ -39,7 +42,10 @@ implemented in future years or other conferences.
 #  Overall Communication Strategy
 
 The conference will be welcoming if you show that access has been 
-considered. This involves
+considered and accessibility practices have been adopted. The practices listed in 
+this section are for conference organizers. Linked resources on how to implement them are
+in Section 3, which talks about accessibility standards for presenters.
+These accessibility practices are:
 
 - Avoiding the requirement for people to ask for accessibility practices 
 or disclose their disabilities to organizers  
@@ -56,8 +62,6 @@ can find the information easily.
 - Making sure all media (social media posts, emails, and websites) and 
 software components (video, chat, and registration) are accessible:  
 
-  - Images must have descriptive alt-text  
-
   - Accurate captions should be included in all videos  
 
   - Contrast, text size, and color palettes should make media easily accessible  
@@ -67,6 +71,10 @@ software components (video, chat, and registration) are accessible:
   - Media can be navigated fully from the keyboard (rather than relying on 
 mouse use)  
 
+  - Images must have descriptive alt-text[^2]
+  
+[^2]: Alt-texts should  include any "text" that is in the image, as screen readers cannot extract text displayed in an image. It should also describe the main visual features of the image (for more on alt-text, see Section 3).   
+
 - Providing frequent breaks in the schedule. long sessions without breaks are a barrier to people with many types of disability. 
 This is increasingly relevant 
   in the time of Long Covid. Breaks should occur every hour.  
@@ -75,7 +83,7 @@ This is increasingly relevant
 - Providing accessibility standards for presenters, listing expected accessibility practices for their talks and providing references about how to implement them (see Section 3).  
 
 
-- The language used to talk about any group of people is important. 
+- Considering that the language used to talk about any group of people is important. 
  Learn and use the words used by individuals or disabled communities to describe themselves.
  
   - Plain, direct communication is preferred. It's fine to say things like 
@@ -150,7 +158,7 @@ Zoom has prioritized accessibility more than many other platforms.
 It is in wide use, so some people will be quite familiar with it. 
 Others may be less experienced and take more time to find their way around the interface.
 
-Historically, conference presentations rely on the assumption
+Conference presentations rely on the assumption
 that the audience receives information on two channels: they look at 
 the slide to appreciate some of the information, while listening
 to the author explain the content. 
@@ -227,7 +235,7 @@ some learning resources.
 
 - Prefer slide formats like .Rmd/HTML or Python Notebooks/HTML. Sometimes source
 code is more accessible to screen reader users. Silvia Canelón has
-[a great tutorial post about creating Rmd slides using the Xaringan package](https://www.silviacanelon.com/talk/2020-xaringan-basics-and-beyond/).
+[a great tutorial blog about creating accessible Rmd/HTML slides using the Xaringan package](https://www.silviacanelon.com/talk/2020-xaringan-basics-and-beyond/).
 
 - Avoid distracting transitions, flashing images, and complicated layouts.
 
@@ -272,14 +280,11 @@ Some resources for learning about this descriptive text:
   MS Office has an accessibility checker. Some instructions:  
   
   - [Adobe](https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html)  
-	
- [MS Office](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25) 
-	Include alt-text and run the accessibility checker before saving slides as PDF.  
-	
-- Use the speaker notes feature of your presentation to provide further explanation of slides.  
 
-## During the Talk
+  - [Power Point](https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25) Use the Accessibility Checker and add alt-text before saving as PDF.
 
+
+## Giving the Talk
 
 - Speak clearly and not too quickly. 
   Keeping your face visible will help people understand you by reading your lips or facial expression.
@@ -291,5 +296,39 @@ Some resources for learning about this descriptive text:
 - Avoid assuming that things are "obvious" in your slides. 
   Mention these things aloud.
   
-  - 
+# After the Unconference
+
+The RSE Australia/New Zealand organization has the potential to both expand its membership and 
+enhance career opportunities and visibility for disabled research software engineers.
+Organizers should be aware of the chicken-and-egg problem of inclusion on all aspects of diversity,
+but particularly for people with disabilities who face specific barriers to participation. 
+We haven't been seen at conferences or in professional settings, so accessibility has been overlooked.
+Building the infrastructure to allow a variety of disabled people to attend will lead to 
+increased participation,
+but the barriers must be removed first.  
+
+To facilitate progress from year to year, it's quite useful to survey participants after the conference. 
+People are used to inaccessibility and may have learned that their feedback is
+usually ignored. 
+Asking directly about it will help convince participants that their experience matters.
+
+Keep track of the accessibility practices you used, and how to implement them. 
+Retain this information along with feedback data and organizer comments. 
+If you document the accessibility work and results, it's more likely that as members of 
+organizing committees change over the years, the knowledge is retained.
+Due in large part to a change in the organizational leadership for UseR!2022, 
+it was not as inclusive across many historically excluded groups as UseR!2021, 
+and not screen reader accessible.
+*Accessibility is fragile.* 
+To mitigate this, the Global UseR! Working Group created a 
+[Knowledgebase](https://gitlab.com/rconf/userknowledgebase) 
+as a repository for resources and lessons learned.
+
+
+One way to promote inclusion in a conference is to make sure the leadership
+and organizing committee are diverse. 
+Invite people to join rather than 
+relying on self-nomination. 
+The article referenced below provides further advice about leadership, continuity, and diversity.
+
   
