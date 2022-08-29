@@ -83,15 +83,15 @@ Eligibility for the accessibility micro-grants will be based on a similar approa
 
 ### How to apply for the scholarship and accessibility micro-grant
 
-To apply for the scholarship, please email us at rse2022 at rse-aunz.org with the subject [Scholarship] and why you would like to attend for free and how this would benefit you and your organisation (200 words maximum).
+To apply for the scholarship, please email us at _rse2022 at rse-aunz.org_ with the subject [Scholarship] and why you would like to attend for free and how this would benefit you and your organisation (200 words maximum).
 
-To apply for the accessibility micro-grant, please email us at rse2022 at rse-aunz.org with the subject [Accessibility]  and why you would like a micro-grant, how would you use it and how attending would benefit you (200 words maximum).
+To apply for the accessibility micro-grant, please email us at _rse2022 at rse-aunz.org_ with the subject [Accessibility]  and why you would like a micro-grant, how would you use it and how attending would benefit you (200 words maximum).
 
 If you are applying for both, please email us separately.
 
 We encourage participants to apply even if they do not think they are eligible as this will allow us to prioritise and maximise diversity and inclusion. All information will be treated in a confidential manner.
 
-If you feel that the unconference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at rse2022 at rse-aunz.org.
+If you feel that the unconference is not matching up to the commitment of these ideals, please let us know by contacting the organising committee at _rse2022 at rse-aunz.org_.
 
 The [Code of Conduct](https://rse-aunz.github.io/code-of-conduct) is designed to provide all participants with community participation guidelines.
 
@@ -101,7 +101,7 @@ If your organisation would like to partner with us, there are still Allied partn
 
 ### Contact Us
 
-If you would like to know more or have any questions, please contact the organising committee at rse2022 at rse-aunz.org by email.
+If you would like to know more or have any questions, please contact the organising committee at _rse2022 at rse-aunz.org_ by email.
 
 ### Aligned Conferences & Events
 
