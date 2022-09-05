@@ -64,7 +64,7 @@ software components (video, chat, and registration) are accessible:
 
   - Accurate captions should be included in all videos  
 
-  - Contrast, text size, and color palettes should make media easily accessible  
+  - Contrast, text size, and colour palettes should make media easily accessible  
 
   - Media must be navigable with a screen reader  
 
@@ -113,7 +113,7 @@ way of paying.
 ### Suggestions
 
 For this year, the organizers should find alternative ways for people
-who can't use eventBrite to pay. In future years, a more accessible
+who can't use Eventbrite to pay. In future years, a more accessible
 registration system should be selected. 
 We used [Conftool](https://www.conftool.net//index.php)
 for [useR! 2021](https://user2021.r-project.org) successfully and the 
@@ -267,8 +267,8 @@ Some resources for learning about this descriptive text:
   - Enough contrast for visibility
   [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)  
   
-  - Color palettes that can be distinguished by everyone
-  [How to Make Your Website Accessible for Color-Blind People](https://equalizedigital.com/website-accessibility-color-blind/)  
+  - Colour palettes that can be distinguished by everyone
+  [How to Make Your Website Accessible for Colour-Blind People](https://equalizedigital.com/website-accessibility-color-blind/)  
   
   - Text size large enough to be readable on small screens
   [Font Size on the Web](https://accessibility.psu.edu/fontsizehtml/)  
@@ -329,6 +329,8 @@ One way to promote inclusion in a conference is to make sure the leadership
 and organizing committee are diverse. 
 Invite people to join rather than 
 relying on self-nomination. 
-The article referenced below provides further advice about leadership, continuity, and diversity.
+The article referenced below[^1] and the  
+[Knowledgebase](https://gitlab.com/rconf/userknowledgebase)
+provide further advice about leadership, continuity, and diversity.
 
   
