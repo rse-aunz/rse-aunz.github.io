@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "RSE Stories: An Interview with Johanna Bayer"
-from:   2022-09-01 10:00:00
+from:   2022-09-06 10:00:00
 tags: ["RSE", "RSEStories", "ARDC", "2022"]
 published: true                     
 ---
