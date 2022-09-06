@@ -10,7 +10,7 @@ Posted by Paula Martinez on 6 September 2022
 
 This post was originally published as a news item on the [Australian Research Data Commons website (31 August, 2022)](https://ardc.edu.au/news/shaping-research-software-an-interview-with-johanna-bayer/).
 
-![Johanna Bayer - Research Software Engineer]("/assests/2022-08-24_JBayer.jpg")
+![Johanna Bayer - Research Software Engineer]("/assets/2022-08-24_JBayer.jpg")
 
 Johanna Bayer, PhD Candidate at the University of Melbourne and a research software engineer.
 
