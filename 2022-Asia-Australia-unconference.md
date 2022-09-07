@@ -139,7 +139,7 @@ Here is the suggested text to complement the flyer:
 
 
 ### Allied Partner
-![logo of NCI](/assets/NCIlogo.png){:class="img-responsive" height="50px" style="float:left;margin-bottom:30px;"}
+![logo of NCI](/assets/NCIlogo.png){:class="img-responsive" height="50px" style="float:left;margin-bottom:30px;margin-right:40px;"}
 
 ![logo of Google](/assets/google.png){:class="img-responsive" height="50px" style="float:left;margin-bottom:30px;"}
 
