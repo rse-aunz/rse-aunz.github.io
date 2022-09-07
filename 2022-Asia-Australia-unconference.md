@@ -51,6 +51,10 @@ All times in UTC+10
 | **4:00PM - 4:30PM** | First Session                              | Third Session              | Actionable items           |
 | **4:30PM - 5:00PM** | First Session                              | Review and discussion      | Close and thank you        |
 
+### Flyers
+![Panel RSE Asia Australia conference 2022 - building the research software community across Asia and Australia ](/assets/RSEAA031__Flyer_Panel.png){:class="img-responsive"}
+![Keynotes of RSE Asia Australia conference 2022 - building the research software community across Asia and Australia ](/assets/RSEAA_Flyer_keynotes.png){:class="img-responsive"}
+
 ### Key Dates
 
 - SAVE the dates! *14th to the 16th of September 2022* [13:00 to 17:00 AEST](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220914T03&p1=1440&ah=4)
