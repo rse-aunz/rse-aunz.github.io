@@ -1,5 +1,5 @@
 ---
-title: RSE Australia/New Zealand Unconference 2022
+title: RSE Asia Australia Unconference 2022
 subtitle: Accessibility Report
 author:
     name: "Liz Hare, Ph.D."
@@ -223,7 +223,7 @@ more inclusive. We wrote accessibility standards with instructional resources
 for [UseR!2021](https://user2021.r-project.org/participation/talks-access/).
 Some presenters told us they learned a lot of things about making their work accessible, 
 while others ignored the standards. 
-In the future, one way the RSE-Australia/New Zealand Unconference could nudge
+In the future, one way the RSE Asia Australia Unconference could nudge
 presenters toward implementing accessibility practices would be to have them
 agree to follow accessibility standards as part of the submission process.  
 
