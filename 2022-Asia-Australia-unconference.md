@@ -85,6 +85,8 @@ Eligibility for the scholarships will be based on prioritising and maximising th
 
 Eligibility for the accessibility micro-grants will be based on a similar approach.
 
+[Liz Hare](https://twitter.com/DogGeneticsLLC) has provided a [high-level accessibility report for the conference](RSEAUNZAccessibility.html). 
+
 ### How to apply for the scholarship and accessibility micro-grant
 
 To apply for the scholarship, please email us at _rse2022 at rse-aunz.org_ with the subject [Scholarship] and why you would like to attend for free and how this would benefit you and your organisation (200 words maximum).
