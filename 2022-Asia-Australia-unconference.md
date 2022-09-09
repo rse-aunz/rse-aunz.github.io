@@ -44,12 +44,12 @@ All times in UTC+10
 |-------------|--------------------------------------------|----------------------------|----------------------------|
 | **1:00PM - 1:30PM** | Welcome, Vision, Explanation, and Partners | Explain, Review            | Explain, Review            |
 | **1:30PM - 2:00PM** | Early Career RSE keynote                   | Mid Career RSE keynote     | Strategy & Policy Panel    |
-| **2:00PM - 2:30PM** | Early Career RSE keynote                   | Second Session             | Strategy & Policy Panel    |
+| **2:00PM - 2:30PM** | Introductions to connect                   | Second Session             | Strategy & Policy Panel    |
 | **2:30PM - 3:00PM** | Introductions to connect                   | Second Session             | Strategy & Policy Panel    |
 | **3:00PM - 3:30PM** | Break                                      | Break                      | Break                      |
-| **3:30PM - 4:00PM** | Introductions to connect                   | Third Session              | Actionable items           |
+| **3:30PM - 4:00PM** | First Session                              | Third Session              | Actionable items           |
 | **4:00PM - 4:30PM** | First Session                              | Third Session              | Actionable items           |
-| **4:30PM - 5:00PM** | First Session                              | Review and discussion      | Close and thank you        |
+| **4:30PM - 5:00PM** | Early Career RSE keynote                   | Review and discussion      | Close and thank you        |
 
 ### Flyers
 ![Panel RSE Asia Australia conference 2022 - building the research software community across Asia and Australia ](/assets/RSEAA031__Flyer_Panel.png){:class="img-responsive"}
