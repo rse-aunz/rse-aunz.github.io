@@ -15,6 +15,33 @@ RSE-AUNZ has four main goals:
 
 4. Obtain recognition for RSE-AUNZ and its role.
 
+
+## Strategic Selection Criteria
+Since RSE-AUNZ is a volunteer run organisation, we have to be strategic in our efforts. Lead by Rowland Mosbergen, the RSE-AUNZ Steering Committee (SC) has come up with a strategic selection criteria that is applied to all new opportunities. 
+
+The initial set of five selection criteria are:
+  - *Does this make RSEs value themselves?*
+  - *Does this make Senior Managers value RSEs?*
+  - *Does this grow community or raise awareness?*
+  - *Does this or can this support Diversity, Equity & Inclusion (DEI)?*
+  - *Does this sit in the policy advocacy space?*
+
+You can answer 2 - Yes, 1 - Kind of, and 0 - No. These scores then get added up. 
+
+Policy advocacy is considered negative, so a Yes will be -2 to the total.
+
+To take a concrete example, here is the evaluation for the RSEAA unconference in 2022:
+
+|Selection Criteria                            | Score                   | Notes   | 
+|----------------------------------------------|-------------------------|---------|
+|Does this make RSEs value themselves?         | 2                       |
+|Does this make Senior Managers value RSEs?    | 2                       |
+|Does this grow community or raise awareness?  | 2                       |
+|Does this or can this support DEI?            | 2                       | Diversity shown by working with RSE Asia and making it cheap and online 
+|Does this sit in the policy advocacy space?   | 0                       |
+
+
+
 ## Deliverables
 The Steering Committee is actively working on six deliverables,
 through which RSE-AUNZ can progress its goals:
