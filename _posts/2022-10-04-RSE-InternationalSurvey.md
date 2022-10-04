@@ -1,10 +1,11 @@
 ---
 layout: event
-title:  What can we learn about our RSE communities in Australia and New Zealand from the International RSE survey?
-from:   2022-10-04 1:00:00 +1000    
-location: eResearch Australasia
+title: "What can we learn about our RSE communities in Australia and New Zealand from the International RSE survey?"
+from:  2022-10-04 1:00:00 +1000    
+location: eResearch Australasia 2022
 tags: events                
 published: true
+
 ---
 
 Dear RSEs,
