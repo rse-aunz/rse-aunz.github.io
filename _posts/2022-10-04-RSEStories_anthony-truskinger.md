@@ -8,9 +8,7 @@ published: true
 
 Posted by Paula Martinez on 4 October 2022
 
-This post was originally published as a news item on the [Australian Research Data Commons website (26 September, 2022)]([https://ardc.edu.au/article/shaping-research-software-an-interview-with-anthony-truskinger/](https://ardc.edu.au/article/shaping-research-software-an-interview-with-anthony-truskinger/).
-
-![Anthony Truskinger - Research Software Engineer](/assets/2022-10-04_Atruskinger.jpg)
+This post was originally published as a news item on the [Australian Research Data Commons website (26 September, 2022)]([https://ardc.edu.au/article/shaping-research-software-an-interview-with-anthony-truskinger/).
 
 Shaping Research Software: An Interview With Anthony Truskinger
 ===============================================================
