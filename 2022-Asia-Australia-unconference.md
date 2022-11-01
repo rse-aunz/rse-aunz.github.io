@@ -11,6 +11,10 @@ We invite you to join us for the first online Research Software Engineer (RSE) A
 
 We would like to thank our Key partners [ARDC](https://ardc.edu.au/) and [QCIF](https://qcif.edu.au/) for supporting us, as well as our Accessibility partner, the [Society for Research Software Engineering](https://society-rse.org/), and our Allied partners, [NCI Australia](https://nci.org.au/) and [Google Cloud for researchers](https://cloud.google.com/edu/researchers).
 
+A copy of our report is available at "Mosbergen, Rowland (2022): Research Software Engineer Asia Australia Unconference Summary Report. figshare. Online resource. https://doi.org/10.6084/m9.figshare.21201989". This [includes an accessible report in Microsoft Word format](https://figshare.com/articles/online_resource/Research_Software_Engineer_Asia_Australia_Unconference_Summary_Report/21201989?file=38069379).
+
+
+
 ### What is a Research Software Engineer? 
 
 Research Software Engineer is a broad term for people who combine programming and research skills that have trouble defining their role and value within academia. e.g researchers and academics who code, generalists who bring communities together across the research and technical domains, systems administrators who maintain research systems, and software engineers who work in the research domain. 
