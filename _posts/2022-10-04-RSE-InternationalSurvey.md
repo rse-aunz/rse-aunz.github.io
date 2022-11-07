@@ -19,3 +19,7 @@ Members of the Steering Committee: Nooriyah Lohani and Paula Martinez will prese
 ## Slides
 
 Thanks to Georgina Rae from NeSI via its [Nov Newsletter](https://mailchi.mp/nesi/newsletter-nov2022?e=f858aa3ebf), here is a [short summary with the slides](https://www.nesi.org.nz/news/2022/10/reflections-reconnecting-research-communities-across-australasia).
+
+## Other Research Software happenings at eResearch
+
+Thanks to Georgina Rae from NeSI via its [Nov Newsletter](https://mailchi.mp/nesi/newsletter-nov2022?e=f858aa3ebf), here is a [short summary](https://www.nesi.org.nz/news/2022/11/contributing-local-global-k%C5%8Drero-around-value-impacts-and-future-research-software).
