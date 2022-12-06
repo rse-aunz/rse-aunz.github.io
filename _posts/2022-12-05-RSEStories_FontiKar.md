@@ -18,8 +18,6 @@ We spoke to Dr Fonti Kar, who won the Ecological Society of Australia's award fo
 
 **Published:** 28 November 2022
 
-![Fonti Kar and AusTraits logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20580%20345'%3E%3C/svg%3E)
-
 ![Fonti Kar and AusTraits logo](https://ardc.edu.au/wp-content/uploads/2022/11/interview-with-fonti-kar-feature-image-583-x-345-580x345.png)
 
 As part of our [Research Software Agenda for Australia](https://ardc.edu.au/collaborations/strategic-activities/a-research-software-agenda-for-australia/), the ARDC is working with the research community to shape better research software in order to recognise it as a first-class output of research. 
@@ -31,8 +29,6 @@ Continuing the series, we talked with the winner of the [Ecological Society of A
 [AusTraits](https://austraits.org/) is a national data asset quantifying the traits of Australia’s flora, which comprises approximately 26,000 different plant species. It is a co-investment [project](https://ardc.edu.au/project/austraits/) of the ARDC through the [Australian Data Partnerships program](https://ardc.edu.au/program/australian-data-partnerships/), and the University of New South Wales, Western Sydney University and Royal Botanic Gardens, plus 15 others. The [{austraits}: R package](https://traitecoevo.github.io/austraits/) has been developed over the last 2 years and its code is [open source](https://github.com/traitecoevo/austraits/). One of the core maintainers is [Dr Fonti Kar](https://github.com/traitecoevo/austraits/graphs/contributors).
 
 Meet [Dr Fonti Kar](https://fontikar.wordpress.com/), a Postdoctoral Research Associate at the [Evolution & Ecology Research Centre](https://www.unsw.edu.au/research/eerc) based at the University of New South Wales, Sydney. Fonti is also a teaching assistant of Biostatistics, a Data Analyst of the [Atlas of Living Australia (ALA)](https://www.ala.org.au/), a [Software Carpentry](https://carpentries.org/) Instructor, a co-founder of the [UNSWcodeRs](https://unsw-coders.netlify.app/) and engages in a variety of [science outreach activities](https://fontikar.wordpress.com/outreach/). 
-
-![Rosie Hicks presents the Ecological Society of Australia Award for new developers of open source software in ecology to Dr Fonti Kar from AusTraits. ARDC and ESA banners in the background.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20648'%3E%3C/svg%3E)
 
 ![Rosie Hicks presents the Ecological Society of Australia Award for new developers of open source software in ecology to Dr Fonti Kar from AusTraits. ARDC and ESA banners in the background.](https://ardc.edu.au/wp-content/uploads/2022/12/ecocommons-launch_003_rosie-and-fonti-web-1024x648.jpg)
 
