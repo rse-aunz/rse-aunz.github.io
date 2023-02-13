@@ -13,7 +13,7 @@ We would like to thank our Key partners [ARDC](https://ardc.edu.au/) and [QCIF](
 
 A copy of our report is available at "Mosbergen, Rowland (2022): Research Software Engineer Asia Australia Unconference Summary Report. figshare. Online resource. https://doi.org/10.6084/m9.figshare.21201989". This [includes an accessible report in Microsoft Word format](https://figshare.com/articles/online_resource/Research_Software_Engineer_Asia_Australia_Unconference_Summary_Report/21201989?file=38069379).
 
-
+Check the video playlist with our keynotes and panel discussion [https://tinyurl.com/RSEAA2022-videos](https://tinyurl.com/RSEAA2022-videos).
 
 ### What is a Research Software Engineer? 
 
