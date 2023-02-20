@@ -17,8 +17,6 @@ We interview Dr Michael Roach, the winner of the ARDC-sponsored ABACBS ‘Torste
 
 **Published:** 30 January 2023
 
-![Michael Roach is the winner Torsten Seemann Outstanding Software Developer award.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20580%20345'%3E%3C/svg%3E)
-
 ![Michael Roach is the winner Torsten Seemann Outstanding Software Developer award.](https://ardc.edu.au/wp-content/uploads/2023/01/interview-with-michael-roach-583-x-345-580x345.png)
 
 As part of our [Research Software Agenda for Australia](https://ardc.edu.au/collaborations/strategic-activities/a-research-software-agenda-for-australia/), the ARDC is working with the research community to shape better research software in order to recognise it as a first-class output of research. This interview is the [eighth in a series](https://ardc.edu.au/news-and-events/news/?_keyword=%22Shaping%20Research%20Software%22&_categories=research-software) about research software engineers in Australia. Each month we talk to a leading research software engineer about their experiences and best-practice tips in creating, sustaining and improving software for research. 
@@ -36,8 +34,6 @@ What is your contribution to ‘Hecatomb’ and what is the impact of this tool 
 -----------------------------------------------------------------------------------------------
 
 [Hecatomb](https://github.com/shandley/hecatomb) was originally designed as a tool for read-based annotation of viral sequences. Our collaborator Scott Handley at Washington University in St. Louis created the original pipeline as a collection of bash and R scripts. Shortly after I joined FAME, in January 2021, I took on the role of developing Hecatomb to get it ready for [publication](https://doi.org/10.1101/2022.05.15.492003). I overhauled most of the pipeline to make it more efficient, robust, and user-friendly. I also included thorough [documentation](https://hecatomb.readthedocs.io/en/latest/) and tutorials in R and Python performing the data analysis. I wasn’t completely happy with manually kicking off a Snakemake pipeline, so I created a command line interface that makes running the pipeline a breeze. It’s still early days for Hecatomb, but we’ve already used it in [several publications](https://scholar.google.com.au/scholar?cites=2557935544862184627&as_sdt=2005&sciodt=0,5&hl=en) and many other ongoing projects. We’ve also run a few workshops on Hecatomb and have had a lot of interest from the community.
-
-![Logo of Hecatomb, where the letter 'o' is a virus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20124'%3E%3C/svg%3E)
 
 ![Logo of Hecatomb, where the letter 'o' is a virus](https://ardc.edu.au/wp-content/uploads/2023/01/hecatomblogo.png)
 
