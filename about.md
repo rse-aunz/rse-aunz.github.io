@@ -5,7 +5,7 @@ permalink: /about/
 navigation_weight: 2
 ---
 
-Membership is open to RSEs in Australia and New Zealand, who sign up to the mailing list:
+Membership is open to RSEs in Australia and New Zealand. When you signup to the mailing list please provide information including: Name, Affiliation, Role and short description of what you do in relation to Research Software:
 
 <a class="rse rse-join" href="{{ site.sign_up }}">Join the community</a>
 
@@ -20,22 +20,22 @@ The current committee is as follows:
 - Nooriyah Poonawala-Lohani
 - Manodeep Sinha
 
-### Secretary
-- Janet Stacey
-
 ### General Members
-- Justin Baker
-- Rebecca Lange
-- Rowland Mosbergen
-- Paula Andrea Martinez
-- *vacant*
+- Rowland Mosbergen 
+- Paula Andrea Martinez 
+- Janet Stacey
+- *vacant* - maybe you?
 
 ### Past Members
-- Heidi Perrett (2019-21)
-- Nicholas May (2019-21)
-- Daniel Collins (2019-20)
+- Justin Baker (2019-2022)
+- Rebecca Lange (2022)
+- Heidi Perrett (2019-2021)
+- Nicholas May (2019-2021)
+- Daniel Collins (2019-2020)
+
 
 ### Nomination Statements
+- No elections in 2022
 - [Election 2021](https://github.com/rse-aunz/organisation/blob/master/Elections/2021/nominations.md)
 - [Election 2020](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/nominations.md)
 - [Election 2019](https://github.com/rse-aunz/organisation/blob/master/Elections/2019/nominations.md)
