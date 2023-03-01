@@ -9,7 +9,7 @@ Membership is open to [Research Software Engineers in Australia and New Zealand]
 
 <a class="rse rse-join" href="{{ site.sign_up }}">Join the community!</a>
 
-![rse-workshop](/assets/RSE-Members-2023-03-01){:class="img-responsive"}
+![rse-workshop](/assets/RSE-Members-2023-03-01.png){:class="img-responsive"}
 
 ## Steering Committee
 
