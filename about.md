@@ -5,11 +5,11 @@ permalink: /about/
 navigation_weight: 2
 ---
 
-Membership is open to RSEs in Australia and New Zealand. When you signup to the mailing list please provide information including: Name, Affiliation, Role and short description of what you do in relation to Research Software:
+Membership is open to [Research Software Engineers in Australia and New Zealand](https://rse-aunz.github.io/). When you signup to the mailing list please provide information including: Name, Affiliation, Role and a short description of what you do in relation to Research Software:
 
-<a class="rse rse-join" href="{{ site.sign_up }}">Join the community</a>
+<a class="rse rse-join" href="{{ site.sign_up }}">Join the community!</a>
 
-![rse-workshop](/assets/RSE-Members-2022-03-15.png){:class="img-responsive"}
+![rse-workshop](/assets/RSE-Members-2023-03-01){:class="img-responsive"}
 
 ## Steering Committee
 
