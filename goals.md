@@ -15,6 +15,11 @@ RSE-AUNZ has four main goals:
 
 4. Obtain recognition for RSE-AUNZ and its role.
 
+# RSE-AUNZ Strategy 2023 to 2025
+
+The Steering Committee started reviewing the strategy and the goals of the RSE-AUNZ community in 2022. This was due to the recognition that the ability to volunteer time by the steering committee members is limited and that any committments need to be carefully considered.
+
+You can now have a look at the Strategy document: Mosbergen, Rowland; Martinez, Paula Andrea; Poonawala, Nooriyan; Sinha, Manodeep; Stacey, Janet (2023): Research Software Engineer Australia New Zealand  Strategy 2023-2025. figshare. Online resource. [https://doi.org/10.6084/m9.figshare.21385392.v1](https://doi.org/10.6084/m9.figshare.21385392.v1)
 
 ## Strategic Selection Criteria
 Since RSE-AUNZ is a volunteer run organisation, we have to be strategic in our efforts. Lead by Rowland Mosbergen, the RSE-AUNZ Steering Committee (SC) has come up with a strategic selection criteria that is applied to all new opportunities. 
