@@ -16,3 +16,6 @@ Calling all Research Software Developers
 
 The QCIF/ARDC Software Developers Forum will take place in the _Global Change Institute at the University of Queensland St Lucia campus_, Thursday 18th May 10am to 3pm. There is no cost to attend this forum, and morning tea and lunch will be provided. We encourage you to share this invitation with any colleagues or contacts who you think might also be interested in joining us. _Please contact Mark Crowe (QCIF Skills Development Manager - mark.crowe@qcif.edu.au)_ for more information or to register for the forum. **Registration closes CoB Friday 12th May**.
 
+<div style="text-align: center;">
+    <img src="/assets/QLDRSDF-Flyer.png" alt="Research Software Developers Forum on 18th May" width="354" height="500" class="center">
+</div>
