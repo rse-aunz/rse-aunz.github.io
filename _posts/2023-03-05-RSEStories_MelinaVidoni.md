@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RSE Stories: An Interview With Melina Vidoni"
+title:  "RSE Stories: An Interview With Dr Melina Vidoni"
 from:   2023-03-03 0:00:00
 tags: ["RSE", "RSEStories", "ARDC", "2023"]
 published: true                     
@@ -10,7 +10,7 @@ Posted by Paula Martinez, 3 March 2022
 
 This post was originally published as a news item on the [Australian Research Data Commons website (3 March, 2023)](https://ardc.edu.au/article/shaping-research-software-an-interview-with-melina-vidoni/).
 
-Shaping Research Software: An Interview With Melina Vidoni
+Shaping Research Software: An Interview With Dr Melina Vidoni
 ==========================================================
 
 We interview Dr Melina Vidoni about her interests that intersect technical debt and the development of scientific software.
