@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "RSE Stories: An Interview with Marcel Keller"
+from:   2023-04-03 0:00:00
+tags: ["RSE", "RSEStories", "ARDC", "2023"]
+published: true                     
+---
+
+Posted by Paula Martinez, 3 April 2022
+
+This post was originally published as a news item on the [Australian Research Data Commons website (3 April, 2023)](https://ardc.edu.au/article/shaping-research-software-an-interview-with-dr-marcel-keller/).
 
 Shaping Research Software: An Interview With Dr Marcel Keller
 =============================================================
@@ -76,19 +87,9 @@ Dr Paula Andrea Martinez, ARDC
 
 Jo Savill, Dr Tom Honeyman, ARDC
 
-### Categories
 
-[Research Software](/news-and-events/news/?_categories=research-software)
+Follow RSE-AUNZ
+---------------
 
-### Research Topic
-
-[Mathematical-Information and Computing Sciences](/news-and-events/news/?_topics=mathematical-information-and-computing-sciences)
-
-### Related Program
-
-*   [Implementing the Research Software Agenda for Australia](https://ardc.edu.au/program/research-software-program/)
-
-### Related Projects
-
-*   [Shape Research Software](https://ardc.edu.au/project/shape-research-software/)
-
+*   [Twitter](https://twitter.com/RSE-AUNZ)
+*   [Linkedin](https://www.linkedin.com/groups/13836034/)
