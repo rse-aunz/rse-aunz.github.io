@@ -5,7 +5,7 @@ permalink: /2023-Asia-Australia-unconference/
 navigation_weight: 2
 toc: true
 ---
-![banner of RSE Asia Australia conference 2023 - building the research software community across Asia and Australia ](/assets/conference_banner_small_website_2023.png){:class="img-responsive"}
+![banner of RSE Asia Australia conference 2023 - building the research software community across Asia and Australia ](/assets/2023_placeholder_banner_rseaa_unconference.png){:class="img-responsive"}
 
 
 ### What is a Research Software Engineer? 
