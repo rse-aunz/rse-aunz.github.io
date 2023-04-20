@@ -22,3 +22,10 @@ The [QCIF](https://www.qcif.edu.au/events/queensland-research-software-developer
     <img src="/assets/QLDRSDF-Flyer.png" alt="Research Software Developers Forum on 18th May" width="354" height="500" class="center">
 </div>
 
+Please help us disseminate this event with your networks!
+* [This page https://tinyurl.com/QLDRSDF](https://tinyurl.com/QLDRSDF){:target="_blank"}
+* [QCIF event page](https://www.qcif.edu.au/events/queensland-research-software-developers-forum/){:target="_blank"}
+* [ARDC event page](https://ardc.edu.au/event/queensland-research-software-developers-forum/ ){:target="_blank"}
+* [retweet this](https://twitter.com/ARDC_AU/status/1648809025906130945){:target="_blank"}
+* [Share via linkedin](https://www.linkedin.com/posts/australian-research-data-commons_research-software-developers-forum-activity-7054574649451413504-vS3M){:target="_blank"}
+
