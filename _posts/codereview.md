@@ -3,7 +3,8 @@ layout: resource
 title:  "Where to submit code / research software for review?"
 location: Australia
 tags: resource 
-date: 15-05-2023
+from: 2023-05-10 0:00:00
+published: true        
 ---
 
 The Research
