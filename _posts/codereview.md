@@ -1,5 +1,5 @@
 ---
-layout: resource
+layout: post
 title:  "Where to submit code / research software for review?"
 location: Australia
 tags: resource 
@@ -8,3 +8,5 @@ published: true
 ---
 
 The Research
+
+To continue the conversation, members can go to [the direct link to the mailing list thread](https://groups.google.com/g/rse-nz-au/c/lvzka29_5I4/m/3kedCoDTAQAJ).
