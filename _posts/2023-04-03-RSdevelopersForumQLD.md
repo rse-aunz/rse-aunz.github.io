@@ -9,7 +9,7 @@ tags: events
 published: true
 ---
 
-## Calling all Research Software Developers
+Calling all Research Software Developers
 
 [QCIF](https://www.qcif.edu.au/) and [ARDC](https://ardc.edu.au/) would like to invite you to the Queensland **Research Software Developers Forum on 18th May**. The forum will provide an in person platform for research software developers to come together to network with your peers, to share ideas and best practices, and to foster the development of a strong local community of practice. Participants will have the opportunity to highlight the depth and breadth of their software development activities and to showcase some of the projects they are working on. We'll discuss the potential for greater cooperation and collaboration within the software developers community, and will hold a knowledge-sharing session to explore solutions to any technical challenges that attendees have encountered.
 
