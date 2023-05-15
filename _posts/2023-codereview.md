@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Where to submit code / research software for review?"
 date:   2023-05-1 0:00:00 +1000
 tags: resource
