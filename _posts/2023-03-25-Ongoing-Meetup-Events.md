@@ -5,7 +5,7 @@ location: Australia
 tags: events 
 ---
 
-The Research Software Engineer Association of Australia and New Zealand (RSE-AUNZ) are organising regular local and online meetups. 
+The Research Software Engineer Association of Australia and New Zealand (RSE-AUNZ) are organising regular local and online meetups **every 4th Thursday of the month**. 
 
 For new and upcoming events, please go to the [RSE-AUNZ Eventbrite page to register for upcoming events](https://www.eventbrite.co.nz/o/the-rse-association-of-australia-and-new-zealand-65201929823) and to follow to be notified of new events.
 
