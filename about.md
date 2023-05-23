@@ -22,11 +22,11 @@ The current committee is as follows:
 
 ### General Members
 - Rowland Mosbergen 
-- Paula Andrea Martinez 
 - Janet Stacey
 - *vacant* - maybe you?
 
 ### Past Members
+- Paula Andrea Martinez (2022-2023)
 - Justin Baker (2019-2022)
 - Rebecca Lange (2022)
 - Heidi Perrett (2019-2021)
