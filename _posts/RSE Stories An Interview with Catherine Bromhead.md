@@ -1,31 +1,10 @@
-[![](/assets/RSE_AUNZ_logo.png)
-
-RSE Australia / New Zealand
----------------------------
-
-RSE-AUNZ
---------
-
-](/)
-
-[
-
-### Home
-
-](/)
-
-### Community
-
-[About](/about/) [Goals](/goals/) [Knowledge](/knowledge/) [Minutes](/minutes/) [Code of Conduct](/code-of-conduct)
-
-### Resources
-
-[Events](/events/) [News](/posts/) [Links](/links/)
-
-RSE Stories: An Interview with Catherine Bromhead
-============================================
-
-June 6, 2023
+---
+layout: post
+title:  "RSE Stories: An Interview with Catherine Bromhead"
+from:   2023-06-06 0:00:00
+tags: ["RSE", "RSEStories", "ARDC", "2023"]
+published: true                     
+---
 
 Posted by Paula Martinez, 6 June 2023
 
