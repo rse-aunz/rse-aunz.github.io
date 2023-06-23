@@ -6,7 +6,9 @@ tags: ["RSE", "RSEStories", "ARDC", "2023"]
 published: true                     
 ---
 
-Posted by Paula Martinez, 6 June 2023
+June 23, 2023
+
+Posted by Johanna Bayer, 23 June 2023
 
 This post was originally published as a news item on the [Australian Research Data Commons website (31 May, 2023)](https://ardc.edu.au/article/shaping-research-software-an-interview-with-catherine-bromhead/).
 
