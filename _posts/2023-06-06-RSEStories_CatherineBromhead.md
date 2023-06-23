@@ -1,12 +1,10 @@
 ---
 layout: post
 title:  "RSE Stories: An Interview with Catherine Bromhead"
-from:   2023-06-06 0:00:00
+from:   2023-06-23 0:00:00
 tags: ["RSE", "RSEStories", "ARDC", "2023"]
 published: true                     
 ---
-
-June 23, 2023
 
 Posted by Johanna Bayer, 23 June 2023
 
