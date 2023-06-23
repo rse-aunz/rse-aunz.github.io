@@ -23,6 +23,7 @@ The current committee is as follows:
 ### General Members
 - Rowland Mosbergen 
 - Janet Stacey
+- Johanna M. M. Bayer (secretary)
 - *vacant* - maybe you?
 
 ### Past Members
