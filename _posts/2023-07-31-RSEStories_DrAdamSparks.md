@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RSE Stories: An Interview with Catherine Bromhead"
+title:  "RSE Stories: An Interview with Dr Adam Sparks"
 from:   2023-07-31 0:00:00
 tags: ["RSE", "RSEStories", "ARDC", "2023"]
 published: true                     
