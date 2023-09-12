@@ -6,6 +6,7 @@ permalink: /minutes/
 
 | Meeting number  | Status | Reference  |
 | --------  | ------------------- | --------------------- |
+| SCM No.27 | Final | <a class="rse" href="/assets/pdfs/SCM-27.pdf">2023.07.31</a> |
 | SCM No.26 | Final | <a class="rse" href="/assets/pdfs/SCM-26.pdf">2023.06.27</a> |
 | SCM No.25 | Final | <a class="rse" href="/assets/pdfs/SCM-25.pdf">2023.05.23</a> |
 | SCM No.24 | Final | <a class="rse" href="/assets/pdfs/SCM-24.pdf">2022.02.22</a> |
