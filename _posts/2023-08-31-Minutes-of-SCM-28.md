@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Minutes of Steering Committee Meeting No.24"
+title:  "Minutes of Steering Committee Meeting No.28"
 from:   2023-08-31 00:00:00 +1000    
 to:     2023-08-31 00:00:00 +1000    
 tags: ["steering Committee", "2023"]
