@@ -18,7 +18,7 @@ published: true
 - NL
 - JS
 
-## Fiscal Sponsorship (Manodeep)
+## Fiscal Sponsorship 
 - October 31st is the critical deadline for the end of the funding of the RSE steering committe to QCIF. The steering committee is currently wokring on extedning financial sponsorship through Open Life Sciences.
 - M ACTION: to send around both documents for OLS to the steering committee this week.
 - Secretary will submit invoices to get paid in advance for hours until the end of the year before the October shutdown. 
@@ -48,7 +48,7 @@ published: true
 
 - RSE Australia does seem to have a LinkedIn Group, but do we have an organisation? Would this be beneficial?
 
-## Senior Advisory Board (Rowland)
+## Senior Advisory Board 
 
 - One of the panelists from the RSE conference was keen to be part of the senior advisory board.
 - This could be a starting point to reach out to people.
