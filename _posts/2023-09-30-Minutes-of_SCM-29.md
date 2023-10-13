@@ -25,7 +25,7 @@ published: true
 
 
 ## Debrief Unconference
-- Despite an agreement on the great success of the unconference, the steering committee concluded that the sustainable continuation of the unconference might incldue hiring a person dedicated to planning the next unconference.
+- Despite an agreement on the great success of the unconference, the steering committee concluded that the sustainable continuation of the unconference might include hiring a person dedicated to planning the next unconference.
 - A report will be written on the unconference that is shorter than last year.This year's unconference united 98 registrants compared to 141 from last year. 
 - Despite a slightly reduced number in participants compared to last year the level of conversation and discussion didn't seem to suffer.
 - The recordings of the unconference need to be moved to a YouTube location. Last year it was hosted by ARDC.
@@ -46,7 +46,7 @@ published: true
 
 ## LinkedIn Organisation
 
-- RSE Australia does seem to have a LinkedIn Group, but do we have an organisation? Would this be beneficial?
+- RSE Australia does seem to have a LinkedIn Group, but do we have an organization? Would this be beneficial?
 
 ## Senior Advisory Board 
 
@@ -66,11 +66,11 @@ published: true
 
 ## New meeting time? 
 
-- Rescheduling of meeting time to ~2 pm Melbourne time to allow attendence for steering committee memmbers currently residing overseas.
+- Rescheduling of meeting time to ~2 pm Melbourne time to allow attendance for steering committee members currently residing overseas.
 
 ## RSE team leader workshop
 - Maybe give a workshop to leaders of the community (management for RSE's) (Rowland). This could also be a part of the unconference.
-- another potential option would be an RSE team leader AMA ask me anything.
+- another potential option would be an RSE team leader AMA (ask me anything).
 
 ## RSE community leader workshop
 
