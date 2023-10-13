@@ -57,7 +57,7 @@ published: true
 
 ## Getting new SC members 
 - we need new steering committee members 
-- we need an advisory panel, and we regular members
+- we need an advisory panel and regular members
 
 # New business:
 
