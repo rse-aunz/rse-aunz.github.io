@@ -1,3 +1,10 @@
+---
+layout: page
+title: Previous events
+permalink: /previous_events
+---
+
+
 # Previous events
 
 These are the previous events involving the RSE_AUNZ community:
