@@ -27,7 +27,6 @@ This is a monthly calendar of all the events hosted by the RSE-AUNZ community.
 
 ## Previous events
 
-These are the previous events for the RSE-AUNZ community.
 
 {%- for post in site.posts -%}
     {%- if post.tags contains "events" -%}
