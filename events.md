@@ -25,6 +25,10 @@ This is a monthly calendar of all the events hosted by the RSE-AUNZ community.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Australia%2FMelbourne&bgcolor=%23ffffff&src=MWRlZjYzM2E5MTZhZmM3NzliNjdhYjBkNjQ1MmM4NTVhMGU0NGJkMTEyN2VlYmNkNjEyM2U5YzY1MGFiYzkxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+## Previous events
+
+These are the previous events for the RSE-AUNZ community.
+
 {%- for post in site.posts -%}
     {%- if post.tags contains "events" -%}
     	  {%- assign has_events = true -%}
