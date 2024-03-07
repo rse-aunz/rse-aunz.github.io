@@ -13,7 +13,11 @@ We currently have three events:
 
 You can see these events at [the RSE-AUNZ Eventbrite page](https://www.eventbrite.co.nz/o/the-rse-association-of-australia-and-new-zealand-65201929823) and follow.
 
-Want to host a local catchup - please reach out to events@rse-aunz.org .
+Want to host a local catchup - please reach out to events@rse-aunz.org.
+
+## Annual conference - the RSE Asia Australia unconference
+
+Every year in September we host a joint online event with [the RSE Asia Association](https://rse-asia.github.io/RSE_Asia/), for more details see [the RSEAA website](https://rseaa.github.io/).
 
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Australia%2FMelbourne&bgcolor=%23ffffff&src=MWRlZjYzM2E5MTZhZmM3NzliNjdhYjBkNjQ1MmM4NTVhMGU0NGJkMTEyN2VlYmNkNjEyM2U5YzY1MGFiYzkxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
