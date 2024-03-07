@@ -4,6 +4,17 @@ title: Events
 permalink: /events/
 ---
 
+## Regular networking events hosted by RSE-AUNZ
+ 
+We currently have three events:
+- [RSE Monash lunch catchup](https://www.eventbrite.co.nz/e/rse-monash-lunch-catchup-tickets-651261549827) every 1st Thursday of the month
+- [RSE Parkville lunch catchup](https://www.eventbrite.co.nz/e/rse-parkville-lunch-catchup-tickets-628136371797) every 2nd Thursday of the month
+- [RSE Online Networking Event](https://www.eventbrite.co.nz/e/rse-aunz-online-networking-meeting-tickets-628129090017) every 4th Thursday of the month
+
+You can see these events at [the RSE-AUNZ Eventbrite page](https://www.eventbrite.co.nz/o/the-rse-association-of-australia-and-new-zealand-65201929823) and follow.
+
+Want to host a local catchup - please reach out to events@rse-aunz.org .
+
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Australia%2FMelbourne&bgcolor=%23ffffff&src=MWRlZjYzM2E5MTZhZmM3NzliNjdhYjBkNjQ1MmM4NTVhMGU0NGJkMTEyN2VlYmNkNjEyM2U5YzY1MGFiYzkxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
