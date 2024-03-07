@@ -5,9 +5,9 @@ permalink: /previous_events
 ---
 
 
-# Previous events
-
 These are the previous events involving the RSE_AUNZ community:
+
+
 
 {%- for post in site.posts -%}
     {%- if post.tags contains "events" -%}
