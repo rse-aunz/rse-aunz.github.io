@@ -19,6 +19,9 @@ Want to host a local catchup - please reach out to events@rse-aunz.org.
 
 Every year in September we host a joint online event with [the RSE Asia Association](https://rse-asia.github.io/RSE_Asia/), for more details see [the RSEAA website](https://rseaa.github.io/).
 
+## Events Calendar
+
+This is a monthly calendar of all the events hosted by the RSE-AUNZ community.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Australia%2FMelbourne&bgcolor=%23ffffff&src=MWRlZjYzM2E5MTZhZmM3NzliNjdhYjBkNjQ1MmM4NTVhMGU0NGJkMTEyN2VlYmNkNjEyM2U5YzY1MGFiYzkxY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
