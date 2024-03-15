@@ -10,7 +10,7 @@ published: true
 RSE Steering Committee Meeting October 2023 (Tue 24th October)
 
 - Link to [all meeting minutes on the website](https://rse-aunz.github.io/minutes/)
-- Project details are now on [RSE-AUNZ github projects](https://github.com/orgs/rse-aunz/projects/3)
+- Project details are now on [RSE-AUNZ github projects](https://github.com/orgs/rse-aunz/projects/)
 
 ## Attending
 * RM
