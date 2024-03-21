@@ -11,7 +11,7 @@ This code of conduct covers all participants in our events and communications at
 
 ## The short version
 If you have a question about the code of conduct or wish to report misconduct, please email the appropriate contact:
-- For the RSE Asia Australia Unconference please contact paula [dot] martinez [at] ardc.edu.au
+- For the RSE Asia Australia Unconference please contact mosbergen [dot] r [at] wehi.edu.au
 - For any other situation, please contact the co-chairs of the Steering Committee of the the RSE Association of Australia and New Zealand rse-nz-au+managers [at] googlegroups.com
 
 Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for this community.
@@ -83,7 +83,7 @@ If you believe that someone is violating the Code of Conduct, please report this
 
 Any violations to the Code of Conduct during Steering Committee events should be immediately reported to the event host, organiser or the designated incident person/people.
 
-- For the RSE Asia Australia Unconference please contact paula [dot] martinez [at] ardc.edu.au
+- For the RSE Asia Australia Unconference please contact mosbergen [dot] r [at] wehi.edu.au
 - For any other situation, please contact the co-chair of the Steering Committee of the the RSE Association of Australia and New Zealand rse-nz-au+managers [at] googlegroups.com
 
 If the violation occurs in an online space, reports should be emailed directly to the co-chair of the Steering Committee.
