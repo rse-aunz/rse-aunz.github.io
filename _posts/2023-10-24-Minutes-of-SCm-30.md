@@ -1,7 +1,16 @@
+---
+layout: post
+title:  "Minutes of Steering Committee Meeting No.30"
+from:   2023-10-24 00:00:00 +1000    
+to:     2023-10-24 00:00:00 +1000    
+tags: ["steering Committee", "2023"]
+published: true                     
+---
+
 RSE Steering Committee Meeting October 2023 (Tue 24th October)
 
 - Link to [all meeting minutes on the website](https://rse-aunz.github.io/minutes/)
-- Project details are now on [RSE-AUNZ github projects](https://github.com/orgs/rse-aunz/projects/3)
+- Project details are now on [RSE-AUNZ github projects](https://github.com/orgs/rse-aunz/projects/)
 
 ## Attending
 * RM
