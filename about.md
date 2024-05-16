@@ -45,3 +45,9 @@ The current committee is as follows:
 ## Minutes of Steering Committee Meetings
 
 For an overview of Steering Committee Meetings see the [Minutes tab](/minutes/).
+
+# Other documents
+
+[Dispute Resolution](/assets/RSE-AUNZ Dispute Resolution - HackMD.pdf)
+[Succession Plan](/assets/RSE-AUNZ Steering Committee Succession Plan - HackMD.pdf)
+
