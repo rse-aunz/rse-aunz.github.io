@@ -48,6 +48,6 @@ For an overview of Steering Committee Meetings see the [Minutes tab](/minutes/).
 
 # Other documents
 
-[Dispute Resolution](/assets/RSE-AUNZ Dispute Resolution - HackMD.pdf)
-[Succession Plan](/assets/RSE-AUNZ Steering Committee Succession Plan - HackMD.pdf)
+- [Dispute Resolution](/assets/RSE-AUNZ_Dispute_Resolution.pdf)
+- [Succession Plan](/assets/RSE-AUNZ_Steering_Committee_Succession_Plan.pdf)
 
