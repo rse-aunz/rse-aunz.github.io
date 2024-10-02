@@ -13,17 +13,19 @@ Membership is open to [Research Software Engineers in Australia and New Zealand]
 
 ## Steering Committee
 
-RSE-AUNZ is overseen by a __Steering Committee__ which is elected by the members.
+RSE-AUNZ is overseen by a __Steering Committee__ which is (usually) elected by the members.
 The current committee is as follows:
 
 ### Co-Chairs
-- Nooriyah Poonawala-Lohani
-- Manodeep Sinha
+- Mercedes Randall (2024-)
+- Manodeep Sinha (2021-)
 
 ### General Members
+- Nooriyah Poonawala-Lohani
 - Rowland Mosbergen 
 - Janet Stacey
-- Johanna M. M. Bayer (secretary)
+- Johanna Bayer (secretary)
+- Peter Marendy
 - *vacant* - maybe you?
 
 ### Past Members
@@ -36,6 +38,8 @@ The current committee is as follows:
 
 
 ### Nomination Statements
+- No elections in 2024
+- No elections in 2023
 - No elections in 2022
 - [Election 2021](https://github.com/rse-aunz/organisation/blob/master/Elections/2021/nominations.md)
 - [Election 2020](https://github.com/rse-aunz/organisation/blob/master/Elections/2020/nominations.md)
