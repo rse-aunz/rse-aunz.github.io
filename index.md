@@ -42,10 +42,7 @@ This community is for:
 
 When you signup to the mailing list, please provide information including: Name, Affiliation, Role and a short description of what you do in relation to Research Software.
 
-## Local Meetups
-
-Since 2023 RSE-AUNZ restarted organising regular local meetups. You can fill out [this form](https://forms.gle/2SHLQ5JvTokfW2rp8) to express your interest in a local meetup or volunteer to be a coordinator. Currently, we have coordinators for Canberra, Brisbane, Parkville in Melbourne and Monash in Melbourne. If you are interested in hosting _Coordinator roles take about 2 hours a month, 1 hour for choosing a regular date/time/location to meet and emailing reminders to the mailing list, and 1 hour for going to the meetup itself_.
-
+<a class="rse rse-join" href="/events">Check out out our events!</a>
 
 ## About the RSE movement 
 
@@ -93,5 +90,9 @@ This is why we have a [Code of Conduct](https://rse-aunz.github.io/code-of-condu
 
 When you signup to the mailing list, please provide information including: Name, Affiliation, Role and a short description of what you do in relation to Research Software.
 <a class="rse rse-join" href="{{ site.sign_up }}">Join the community!</a>
+
+## Events
+
+You can find more about our events on the [Events page](events).
 
 
