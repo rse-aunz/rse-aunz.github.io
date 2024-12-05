@@ -42,9 +42,9 @@ This community is for:
 
 When you signup to the mailing list, please provide information including: Name, Affiliation, Role and a short description of what you do in relation to Research Software.
 
-## Meetups in 2023
+## Local Meetups
 
-In 2023 RSE-AUNZ restarted organising regular local meetups. You can fill out [this form](https://forms.gle/2SHLQ5JvTokfW2rp8) to express your interest in a local meetup or volunteer to be a coordinator. Currently, we have coordinators for Canberra, Brisbane, Parkville in Melbourne and Monash in Melbourne. _Coordinator roles take about 2 hours a month, 1 hour for choosing a regular date/time/location to meet and emailing reminders to the mailing list, and 1 hour for going to the meetup itself_.
+Since 2023 RSE-AUNZ restarted organising regular local meetups. You can fill out [this form](https://forms.gle/2SHLQ5JvTokfW2rp8) to express your interest in a local meetup or volunteer to be a coordinator. Currently, we have coordinators for Canberra, Brisbane, Parkville in Melbourne and Monash in Melbourne. If you are interested in hosting _Coordinator roles take about 2 hours a month, 1 hour for choosing a regular date/time/location to meet and emailing reminders to the mailing list, and 1 hour for going to the meetup itself_.
 
 
 ## About the RSE movement 
