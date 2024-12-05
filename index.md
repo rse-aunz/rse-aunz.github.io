@@ -42,6 +42,7 @@ This community is for:
 
 When you signup to the mailing list, please provide information including: Name, Affiliation, Role and a short description of what you do in relation to Research Software.
 
+<a class="rse rse-join" href="/events">Check out out our events!</a>
 
 ## About the RSE movement 
 
@@ -89,5 +90,9 @@ This is why we have a [Code of Conduct](https://rse-aunz.github.io/code-of-condu
 
 When you signup to the mailing list, please provide information including: Name, Affiliation, Role and a short description of what you do in relation to Research Software.
 <a class="rse rse-join" href="{{ site.sign_up }}">Join the community!</a>
+
+## Events
+
+You can find more about our events on the [Events page](events).
 
 
