@@ -6,16 +6,13 @@ permalink: /events/
 
 ## Regular networking events hosted by RSE-AUNZ
  
-We currently have three events, two in-person and one online.
-
 All the in-person events will have a mini-poster with the RSE-AUNZ logo on the table:
 
 ![logo of RSE-AUNZ with a qrcode to this events page](/assets/rse-inperson.jpeg)
 
 Please click on the links for more details:
-- [RSE Monash lunch catchup](https://www.eventbrite.co.nz/e/rse-monash-lunch-catchup-tickets-651261549827) every 1st Thursday of the month
 - [RSE Parkville lunch catchup](https://www.eventbrite.co.nz/e/rse-parkville-lunch-catchup-tickets-628136371797) every 2nd Thursday of the month
-- [RSE Online Networking Event](https://www.eventbrite.co.nz/e/rse-aunz-online-networking-meeting-tickets-628129090017) every 4th Thursday of the month
+- We have stopped the online and Monash monthly meetings for the time being. Please areach out to events@rse-aunz.org if you would like to help host local or online meetings.
 
 You can see these events at [the RSE-AUNZ Eventbrite page](https://www.eventbrite.co.nz/o/the-rse-association-of-australia-and-new-zealand-65201929823) and follow.
 
