@@ -12,7 +12,7 @@ All the in-person events will have a mini-poster with the RSE-AUNZ logo on the t
 
 Please click on the links for more details:
 - [RSE Parkville lunch catchup](https://www.eventbrite.co.nz/e/rse-parkville-lunch-catchup-tickets-628136371797) every 2nd Thursday of the month
-- We have stopped the online and Monash monthly meetings for the time being. Please areach out to events@rse-aunz.org if you would like to help host local or online meetings.
+- We have stopped the online and Monash monthly meetings for the time being. Please reach out to events@rse-aunz.org if you would like to help organise local or online meetings.
 
 You can see these events at [the RSE-AUNZ Eventbrite page](https://www.eventbrite.co.nz/o/the-rse-association-of-australia-and-new-zealand-65201929823) and follow.
 
