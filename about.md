@@ -22,13 +22,13 @@ The current committee is as follows:
 
 ### General Members
 - Nooriyah Poonawala-Lohani
-- Rowland Mosbergen 
+- Rowland Mosbergen (secretary)
 - Janet Stacey
-- Johanna Bayer (secretary)
 - Peter Marendy
 - *vacant* - maybe you?
 
 ### Past Members
+- Johanna Bayer (2023-2024)
 - Paula Andrea Martinez (2022-2023)
 - Justin Baker (2019-2022)
 - Rebecca Lange (2022)
