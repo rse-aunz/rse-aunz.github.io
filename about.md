@@ -21,11 +21,11 @@ The current committee is as follows:
 - Manodeep Sinha (2021-)
 
 ### General Members
-- Nooriyah Poonawala-Lohani
-- Rowland Mosbergen (secretary)
-- Janet Stacey
-- Peter Marendy
-- *vacant* - maybe you?
+- Nooriyah Poonawala-Lohani (NZ)
+- Rowland Mosbergen (AU), Secretary
+- Janet Stacey (NZ)
+- Peter Marendy (AU)
+- Matthew Laurenson (NZ), Community Manager
 
 ### Past Members
 - Johanna Bayer (2023-2024)
