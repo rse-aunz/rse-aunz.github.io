@@ -17,8 +17,8 @@ RSE-AUNZ is overseen by a __Steering Committee__ which is (usually) elected by t
 The current committee is as follows:
 
 ### Co-Chairs
-- Mercedes Randall (2024-)
-- Manodeep Sinha (2021-)
+- Mercedes Randall (NZ), 2024-
+- Manodeep Sinha (AU), 2021-
 
 ### General Members
 - Nooriyah Poonawala-Lohani (NZ)
@@ -28,13 +28,13 @@ The current committee is as follows:
 - Matthew Laurenson (NZ), Community Manager
 
 ### Past Members
-- Johanna Bayer (2023-2024)
-- Paula Andrea Martinez (2022-2023)
-- Justin Baker (2019-2022)
-- Rebecca Lange (2022)
-- Heidi Perrett (2019-2021)
-- Nicholas May (2019-2021)
-- Daniel Collins (2019-2020)
+- Johanna Bayer (AU), 2023-2024
+- Paula Andrea Martinez (AU), 2022-2023
+- Justin Baker (AU), 2019-2022
+- Rebecca Lange (AU), 2022
+- Heidi Perrett (AU), 2019-2021
+- Nicholas May (AU), 2019-2021
+- Daniel Collins (AU), 2019-2020
 
 
 ### Nomination Statements
