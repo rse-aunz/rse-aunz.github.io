@@ -18,9 +18,9 @@ You can see these events at [the RSE-AUNZ Eventbrite page](https://www.eventbrit
 
 Want to host a local catchup - please reach out to events@rse-aunz.org.
 
-## Annual conference - the RSE Asia Australia unconference
+## Annual conference - Research Software Asia Australia
 
-Every year in September we host a joint online event with [the RSE Asia Association](https://rse-asia.github.io/RSE_Asia/), for more details see [the RSEAA website](https://rseaa.github.io/).
+Every year in September we host a joint online event with [the RSE Asia Association](https://rse-asia.github.io/RSE_Asia/), for more details see [the RSAA website](https://rseaa.github.io/).
 
 ## Events Calendar
 
