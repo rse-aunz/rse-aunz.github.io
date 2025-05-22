@@ -26,14 +26,12 @@ Since RSE-AUNZ is a volunteer run organisation, we have to be strategic in our e
 
 The initial set of five selection criteria are:
   - *Does this make RSEs value themselves?*
-  - *Does this make Senior Managers value RSEs?*
-  - *Does this grow community or raise awareness?*
+  - *Does this make decision makers value RSEs?*
+  - *Does this grow the community or raise awareness?*
   - *Does this or can this support Diversity, Equity & Inclusion (DEI)?*
-  - *Does this sit in the policy advocacy space?*
+  - *Can this be resourced sustainably?*
 
 You can answer 2 - Yes, 1 - Kind of, and 0 - No. These scores then get added up. 
-
-Policy advocacy is considered negative, so a Yes will be -2 to the total.
 
 To take a concrete example, here is the evaluation for the RSEAA unconference in 2022:
 
