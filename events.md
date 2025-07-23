@@ -8,6 +8,9 @@ permalink: /events/
 
 Every year in September we host a joint online event with [the RSE Asia Association](https://rse-asia.github.io/RSE_Asia/), for more details see [the RSAA website](https://rseaa.github.io/).
 
+## Annual conference - NZ RSE
+
+[NZRSE Conference](https://www.rseconference.nz/) is the prime online event where you can network and share ideas with open research and coding enthusiasts from all over Aotearoa New Zealand. Researchers across Public Research Organisations, universities, other public sector organisations, and commercial industries come together to learn new techniques, connect with colleagues, and share ideas.
 
 ## Regular networking events hosted by RSE-AUNZ
 
