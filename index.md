@@ -58,7 +58,7 @@ says the following about RSEs:
 Inspired by the success of the RSE Association in UK, we 
 established the RSE Australia and New Zealand Association in 2017. 
 Together with  international bodies and support from our national 
-organisations such as AeRO, New Zealand eScience Infrastructure ([NeSI](https://www.nesi.org.nz/)), the Australian Research Data Commons 
+organisations such as AeRO, Research and Education Advanced Network New Zealand ([REANNZ](https://www.reannz.co.nz/)), the Australian Research Data Commons 
 ([ARDC](https://ardc.edu.au/resource-hub/?_categories=research-software)), and research institutions, we aim to campaign for the 
 recognition and wider adoption of the RSE role within the research 
 ecosystem. 
