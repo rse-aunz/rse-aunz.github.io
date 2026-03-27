@@ -42,10 +42,7 @@ This community is for:
 
 When you signup to the mailing list, please provide information including: Name, Affiliation, Role and a short description of what you do in relation to Research Software.
 
-## Meetups in 2023
-
-In 2023 RSE-AUNZ restarted organising regular local meetups. You can fill out [this form](https://forms.gle/2SHLQ5JvTokfW2rp8) to express your interest in a local meetup or volunteer to be a coordinator. Currently, we have coordinators for Canberra, Brisbane, Parkville in Melbourne and Monash in Melbourne. _Coordinator roles take about 2 hours a month, 1 hour for choosing a regular date/time/location to meet and emailing reminders to the mailing list, and 1 hour for going to the meetup itself_.
-
+<a class="rse rse-join" href="/events">Check out out our events!</a>
 
 ## About the RSE movement 
 
@@ -61,7 +58,7 @@ says the following about RSEs:
 Inspired by the success of the RSE Association in UK, we 
 established the RSE Australia and New Zealand Association in 2017. 
 Together with  international bodies and support from our national 
-organisations such as AeRO, New Zealand eScience Infrastructure ([NeSI](https://www.nesi.org.nz/)), the Australian Research Data Commons 
+organisations such as AeRO, Research and Education Advanced Network New Zealand ([REANNZ](https://www.reannz.co.nz/)), the Australian Research Data Commons 
 ([ARDC](https://ardc.edu.au/resource-hub/?_categories=research-software)), and research institutions, we aim to campaign for the 
 recognition and wider adoption of the RSE role within the research 
 ecosystem. 
@@ -93,5 +90,9 @@ This is why we have a [Code of Conduct](https://rse-aunz.github.io/code-of-condu
 
 When you signup to the mailing list, please provide information including: Name, Affiliation, Role and a short description of what you do in relation to Research Software.
 <a class="rse rse-join" href="{{ site.sign_up }}">Join the community!</a>
+
+## Events
+
+You can find more about our events on the [Events page](events).
 
 

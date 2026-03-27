@@ -4,20 +4,22 @@ title: Events
 permalink: /events/
 ---
 
-## Regular networking events hosted by RSE-AUNZ
- 
-We currently have three events:
-- [RSE Monash lunch catchup](https://www.eventbrite.co.nz/e/rse-monash-lunch-catchup-tickets-651261549827) every 1st Thursday of the month
-- [RSE Parkville lunch catchup](https://www.eventbrite.co.nz/e/rse-parkville-lunch-catchup-tickets-628136371797) every 2nd Thursday of the month
-- [RSE Online Networking Event](https://www.eventbrite.co.nz/e/rse-aunz-online-networking-meeting-tickets-628129090017) every 4th Thursday of the month
+## Annual conference - Research Software Asia Australia
 
-You can see these events at [the RSE-AUNZ Eventbrite page](https://www.eventbrite.co.nz/o/the-rse-association-of-australia-and-new-zealand-65201929823) and follow.
+Every year in September we host a joint online event with [the RSE Asia Association](https://rse-asia.github.io/RSE_Asia/), for more details see [the RSAA website](https://rseaa.github.io/).
+
+## Annual conference - NZ RSE
+
+[NZRSE Conference](https://www.rseconference.nz/) is the prime online event where you can network and share ideas with open research and coding enthusiasts from all over Aotearoa New Zealand. Researchers across Public Research Organisations, universities, other public sector organisations, and commercial industries come together to learn new techniques, connect with colleagues, and share ideas.
+
+## Regular networking events hosted by RSE-AUNZ
+
+Starting in 2025, we have paused organising the online, Parkville, and Monash monthly meetings. Please reach out to events@rse-aunz.org if you would like to help organise local or online meetings.
+
+We will be aiming to catchup at other events. You can see these events at [the RSE-AUNZ Eventbrite page](https://www.eventbrite.co.nz/o/the-rse-association-of-australia-and-new-zealand-65201929823) and follow.
 
 Want to host a local catchup - please reach out to events@rse-aunz.org.
 
-## Annual conference - the RSE Asia Australia unconference
-
-Every year in September we host a joint online event with [the RSE Asia Association](https://rse-asia.github.io/RSE_Asia/), for more details see [the RSEAA website](https://rseaa.github.io/).
 
 ## Events Calendar
 
