@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Minutes of Steering Committee Meeting No.30"
-from:   2023-10-24 00:00:00 +1000    
-to:     2023-10-24 00:00:00 +1000    
+title:  "RSE Steering Committee Meeting October 2023 (Tue 24th October)"
+from:   2023-10-24 00:00:00 +1000
+to:     2023-10-24 00:00:00 +1000
 tags: ["steering Committee", "2023"]
-published: true                     
+published: true
 ---
 
 RSE Steering Committee Meeting October 2023 (Tue 24th October)
