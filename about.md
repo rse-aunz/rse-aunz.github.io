@@ -54,4 +54,5 @@ For an overview of Steering Committee Meetings see the [Minutes tab](/minutes/).
 
 - [Dispute Resolution](/assets/RSE-AUNZ_Dispute_Resolution.pdf)
 - [Succession Plan](/assets/RSE-AUNZ_Steering_Committee_Succession_Plan.pdf)
+- [Privacy Policy](/privacy/)
 
