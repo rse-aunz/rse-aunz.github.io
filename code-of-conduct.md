@@ -4,15 +4,15 @@ title: Code of conduct
 permalink: /code-of-conduct/
 ---
 
-# The RSE Association of Australia and New Zealand Code of Conduct
+# The RSE Community of Australia and New Zealand Code of Conduct
 
-This code of conduct covers all participants in our events and communications at the RSE Association of Australia and New Zealand. Our participants are expected to show respect and courtesy to others and all interactions should be professional, both online and in-person.
+This code of conduct covers all participants in our events and communications at the RSE Community of Australia and New Zealand. Our participants are expected to show respect and courtesy to others and all interactions should be professional, both online and in-person.
 
 
 ## The short version
 If you have a question about the code of conduct or wish to report misconduct, please email the appropriate contact:
 - For the RSE Asia Australia Unconference please contact mosbergen [dot] r [at] wehi.edu.au
-- For any other situation, please contact the co-chairs of the Steering Committee of the the RSE Association of Australia and New Zealand rse-nz-au+managers [at] googlegroups.com
+- For any other situation, please contact the co-chairs of the Steering Committee of the the RSE Community of Australia and New Zealand rse-nz-au+managers [at] googlegroups.com
 
 Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for this community.
 
@@ -25,7 +25,7 @@ Thank you for helping make this a welcoming, friendly community for all.
 ## About the Code of Conduct
 We are committed to creating a welcoming and supportive environment for all of our members. All participants in our events and communications are expected to show respect and courtesy to others.
 
-This Code of Conduct should be honoured by everyone who participates in the RSE AUNZ association, as member, guest, or in another role. It should be honoured in all related activities, such as events, mailing list and social media communications, and especially when someone is representing the RSE-AUNZ in any role (including as an event volunteer, organiser or speaker).
+This Code of Conduct should be honoured by everyone who participates in the RSE AUNZ community, as member, guest, or in another role. It should be honoured in all related activities, such as events, mailing list and social media communications, and especially when someone is representing the RSE-AUNZ in any role (including as an event volunteer, organiser or speaker).
 
 This Code of Conduct outlines our behaviour expectations as participants in all related activities, both offline and online. Everyone’s participation is contingent upon following these guidelines in all activities associated with the RSE-AUNZ including but not limited to:
 
@@ -84,7 +84,7 @@ If you believe that someone is violating the Code of Conduct, please report this
 Any violations to the Code of Conduct during Steering Committee events should be immediately reported to the event host, organiser or the designated incident person/people.
 
 - For the RSE Asia Australia Unconference please contact mosbergen [dot] r [at] wehi.edu.au
-- For any other situation, please contact the co-chair of the Steering Committee of the the RSE Association of Australia and New Zealand rse-nz-au+managers [at] googlegroups.com
+- For any other situation, please contact the co-chair of the Steering Committee of the the RSE Community of Australia and New Zealand rse-nz-au+managers [at] googlegroups.com
 
 If the violation occurs in an online space, reports should be emailed directly to the co-chair of the Steering Committee.
 
@@ -156,8 +156,8 @@ Possible outcomes may include:
 - Ending a talk that violates the Code of Conduct early
 - A public announcement of an incident, ideally in the same venue that the violation occurred.
 - Immediately ending any event volunteer responsibilities and privileges the individual(s) hold(s).
-- An imposed suspension from the Association platforms. The Contact will communicate this suspension to the individual(s). They’ll be asked to take this suspension voluntarily, but if they don’t agree then a temporary ban may be imposed to enforce this suspension.
-- A permanent or temporary ban from some or all Association spaces.
+- An imposed suspension from the Community's platforms. The Contact will communicate this suspension to the individual(s). They’ll be asked to take this suspension voluntarily, but if they don’t agree then a temporary ban may be imposed to enforce this suspension.
+- A permanent or temporary ban from some or all Community spaces.
 - Assistance to the complainant with a report to other bodies, for example, institutional offices or appropriate law enforcement agencies.
 
 Once a resolution is agreed upon, but before it is enacted, the Steering Committee will contact the original reporter and any other affected parties and explain the proposed resolution. The Steering Committee will ask if this resolution is acceptable, and must note feedback for the record. However, the Steering Committee is not required to act on this feedback.

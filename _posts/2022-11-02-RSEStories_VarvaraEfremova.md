@@ -78,7 +78,7 @@ I work with Ember.js and have found the [Ember.js Discord](https://discord.com/i
 
 You can connect with Varvara via [Twitter](https://twitter.com/vrvrfrmv), [LinkedIn](https://www.linkedin.com/in/varvaraefremova) and [Github](https://github.com/echus).
 
-If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Association of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) (it’s free!). 
+If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Community of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) (it’s free!). 
 
 In our last [RSE Story](https://ardc.edu.au/article/shaping-research-software-an-interview-with-anthony-truskinger/) we talked with Anthony Truskinger from Open Ecoacoustics. Stay tuned for our next interview in the Shaping Research Software series, coming out in December. 
 

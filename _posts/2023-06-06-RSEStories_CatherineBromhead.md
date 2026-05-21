@@ -57,7 +57,7 @@ Keep In Touch
 
 You can connect with Catherine via [Linkedin](https://www.linkedin.com/in/catherine-bromhead-aa83a8117/) or @cat-bro on [Matrix](https://matrix.org/) .
 
-If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Association of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) – it’s free! 
+If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Community of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) – it’s free! 
 
 Updates on Research Software Awards
 -----------------------------------

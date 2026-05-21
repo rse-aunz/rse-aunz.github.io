@@ -74,7 +74,7 @@ Keep In Touch
 
 You can connect with Melina via [Twitter](https://twitter.com/melvidoni).
 
-If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Association of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) (it’s free!). 
+If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Community of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) (it’s free!). 
 
 Research Software Awards Open for Submissions
 ---------------------------------------------

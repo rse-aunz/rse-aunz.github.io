@@ -65,7 +65,7 @@ Keep In Touch
 
 You can connect with Michael via [GitHub](https://github.com/beardymcjohnface), [Twitter](https://twitter.com/BeardyMcFace), [Mastodon](https://mastodon.social/@BeardyMcJohnFace@genomic.social), and [LinkedIn](https://www.linkedin.com/in/michael-roach-33327340/).
 
-If you’d like to be part of the growing community of research software engineers in Australia, become a member of [the RSE Association of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) (it’s free!). 
+If you’d like to be part of the growing community of research software engineers in Australia, become a member of [the RSE Community of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) (it’s free!). 
 
 Research Software Awards Open for Submissions
 ---------------------------------------------

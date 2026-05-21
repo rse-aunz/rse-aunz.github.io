@@ -91,7 +91,7 @@ The Torsten Seemann Outstanding Bioinformatics Software Developer Award, Sponsor
 
 Stay tuned for our next interview in the Shaping Research Software series, coming out in September.
 
-If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Association of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.github.io/) (it’s free!).
+If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Community of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.github.io/) (it’s free!).
 
 **Learn more about the [ARDC’s Research Software Agenda for Australia](https://ardc.edu.au/collaborations/strategic-activities/a-research-software-agenda-for-australia/).**
 

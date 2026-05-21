@@ -81,7 +81,7 @@ Keep in touch
 
 You can connect with Fonti via [Twitter,](https://twitter.com/fonti_kar) [LinkedIn](https://www.linkedin.com/in/fonti-kar/) and [GitHub.](https://github.com/fontikar)
 
-If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Association of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) (it’s free!). 
+If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Community of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) (it’s free!). 
 
 In our last [RSE Story, we talked with Varvara Efremova](https://ardc.edu.au/article/shaping-research-software-an-interview-with-varvara-efremova/) from [opendata.fit](http://opendata.fit/). Stay tuned for our next interview in the Shaping Research Software series, coming out in February 2023. 
 
