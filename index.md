@@ -38,15 +38,18 @@ This community is for:
 </div>
 
 
-<a class="rse rse-join" href="{{ site.sign_up }}">Join the community!</a>
+
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSccdH-P6sWSFYyPlzRX7sZT4aQ7LNW6sxZYE7QJcg2bKgn4Xg/viewform">Join the community as a member - it's free!</a>
+
+<a class="rse rse-join" href="https://www.linkedin.com/company/research-software-engineer-australia-new-zealand/?viewAsMember=true">Follow us on LinkedIn!</a>
+
+<a class="rse rse-join" href="{{ site.sign_up }}">Join the community mailing list!</a>
 
 When you signup to the mailing list, please provide information including: Name, Affiliation, Role and a short description of what you do in relation to Research Software.
 
-## Meetups
+## Events
 
-RSE-AUNZ currently hosts regular meetups in some areas. Currently, we have coordinators for Canberra, Brisbane, Parkville in Melbourne and Monash in Melbourne.
-
-You can fill out [this form](https://forms.gle/2SHLQ5JvTokfW2rp8) to express your interest in a local meetup or volunteer to be a coordinator. _Coordinator roles take about 2 hours a month, 1 hour for choosing a regular date/time/location to meet and emailing reminders to the mailing list, and 1 hour for going to the meetup itself_.
+RSE-AUNZ currently hosts the [Aotearoa New Zealand Research Software conference](https://www.rseconference.nz/) and the [Research Software Asia Australia conference](https://rseaa.org).
 
 <a class="rse rse-join" href="/events">Check out out our events!</a>
 
