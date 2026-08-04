@@ -43,6 +43,8 @@ This community is for:
 
 <a class="rse rse-join" href="https://www.linkedin.com/company/research-software-engineer-australia-new-zealand/?viewAsMember=true">Follow us on LinkedIn!</a>
 
+<a class="rse rse-join" href="https://rse-aunz.zulipchat.com/">Zulip RSE-AUNZ Community (must be a member)</a>
+
 <a class="rse rse-join" href="{{ site.sign_up }}">Join the community mailing list!</a>
 
 When you signup to the mailing list, please provide information including: Name, Affiliation, Role and a short description of what you do in relation to Research Software.
