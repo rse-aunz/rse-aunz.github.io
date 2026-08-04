@@ -39,11 +39,11 @@ This community is for:
 
 
 
-<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSccdH-P6sWSFYyPlzRX7sZT4aQ7LNW6sxZYE7QJcg2bKgn4Xg/viewform">Join the community as a member - it's free!</a>
+<a class="rse rse-join" href="https://docs.google.com/forms/d/e/1FAIpQLSccdH-P6sWSFYyPlzRX7sZT4aQ7LNW6sxZYE7QJcg2bKgn4Xg/viewform">Free Membership Form</a>
 
 <a class="rse rse-join" href="https://www.linkedin.com/company/research-software-engineer-australia-new-zealand/?viewAsMember=true">Follow us on LinkedIn!</a>
 
-<a class="rse rse-join" href="https://rse-aunz.zulipchat.com/">Zulip RSE-AUNZ Community (must be a member)</a>
+<a class="rse rse-join" href="https://rse-aunz.zulipchat.com/">Zulip chat space for members</a>
 
 <a class="rse rse-join" href="{{ site.sign_up }}">Join the community mailing list!</a>
 
