@@ -56,7 +56,7 @@ In terms of formal networks, I’m a member of the [International Association fo
 Keep in touch
 -------------
 
-If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Association of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) (it’s free!). 
+If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Community of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org) (it’s free!). 
 
 You can connect with Marcel via [Linkedin](https://www.linkedin.com/in/mkskeller/), [Github](https://github.com/mkskeller), [Twitter](https://twitter.com/mkskeller), [Mastodon](https://tech.lgbt/@mkskeller).
 

@@ -81,7 +81,7 @@ What communities are you part of and recommend?
 
 I’m currently a member of the [Australasian Plant Pathology Society](https://www.appsnet.org/) because of my training in botanical epidemiology and plant disease modelling. I’m also very involved in [rOpenSci](https://ropensci.org/), where I serve as an Associate Editor for code review for both regular peer review and statistical software. rOpenSci has been a fantastic community to be a part of as an R programmer, and serving as an editor is a chance to give back to the community. While I’m not currently a member, I do also recommend the [Statistical Society of Australia](https://www.statsoc.org.au/), if you’re interested in this area.
 
-If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Association of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org/) – it’s free!
+If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Community of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.org/) – it’s free!
 
 Keep In Touch
 -------------

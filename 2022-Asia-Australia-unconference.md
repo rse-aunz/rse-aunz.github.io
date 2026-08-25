@@ -7,7 +7,7 @@ toc: true
 ---
 ![banner of RSE Asia Australia conference 2022 - building the research software community across Asia and Australia ](/assets/conference_banner_small_website.png){:class="img-responsive"}
 
-We invite you to join us for the first online Research Software Engineer (RSE) Asia Australia Unconference from the *14th to the 16th of September 2022*. This is a joint partnership between the newly formed [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Association of Australia and New Zealand](https://rse-aunz.github.io/). 
+We invite you to join us for the first online Research Software Engineer (RSE) Asia Australia Unconference from the *14th to the 16th of September 2022*. This is a joint partnership between the newly formed [RSE Asia Association](https://rse-asia.github.io/RSE_Asia/) and the [RSE Community of Australia and New Zealand](https://rse-aunz.github.io/). 
 
 We would like to thank our Key partners [ARDC](https://ardc.edu.au/) and [QCIF](https://qcif.edu.au/) for supporting us, as well as our Accessibility partner, the [Society for Research Software Engineering](https://society-rse.org/), and our Allied partners, [NCI Australia](https://nci.org.au/) and [Google Cloud for researchers](https://cloud.google.com/edu/researchers).
 
@@ -129,7 +129,7 @@ The flyer [can be downloaded here](/assets/RSEAA025 Unconference Flyer.png).
 
 Here is the suggested text to complement the flyer:
 
-*For those who are interested, we invite you to the first online Research Software Engineer (RSE) Asia Australia Unconference from the 14th to the 16th of September 2022. This is a joint partnership between the newly formed RSE Asia Association and the RSE Association of Australia and New Zealand. We have made the costs low ($10 to $20 AUD) to attract a broader audience, and there are 50 scholarships available, as well as a $50 AUD accessibility micro-grant. Details here: https://rse-aunz.github.io/2022-Asia-Australia-unconference/*
+*For those who are interested, we invite you to the first online Research Software Engineer (RSE) Asia Australia Unconference from the 14th to the 16th of September 2022. This is a joint partnership between the newly formed RSE Asia Association and the RSE Community of Australia and New Zealand. We have made the costs low ($10 to $20 AUD) to attract a broader audience, and there are 50 scholarships available, as well as a $50 AUD accessibility micro-grant. Details here: https://rse-aunz.github.io/2022-Asia-Australia-unconference/*
 
 
 ### Key Partners

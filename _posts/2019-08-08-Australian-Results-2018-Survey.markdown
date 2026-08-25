@@ -5,7 +5,7 @@ date:   2019-08-09 12:00:00 +1000
 categories: survey 2018
 ---
 
-In 2018, the RSE-AUNZ Association participated in an international 
+In 2018, the RSE-AUNZ Community participated in an international 
 survey <sup>[1]</sup> organized by the Software Sustainability Institute
  in the UK, with questions tailored for AU and NZ contexts 
  <sup>[2]</sup>.

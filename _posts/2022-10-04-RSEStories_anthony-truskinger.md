@@ -76,7 +76,7 @@ What best practices for quality software do you implement in your work? 
 Which research software communities do you recommend? 
 ------------------------------------------------------
 
-The [RSE Association of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.github.io/) is a growing community but I often find it is too general to be useful to me. I recommend finding or creating communities with your own research fields and extending them with discussions about research software engineering.
+The [RSE Community of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.github.io/) is a growing community but I often find it is too general to be useful to me. I recommend finding or creating communities with your own research fields and extending them with discussions about research software engineering.
 
 For Ecoacoustics communities in Australia, check out the [Australasian Chapter of Ecoacoustics group on Facebook](https://www.facebook.com/groups/ausecoacoustics). For bioacoustics (for which many of our problems are similar) the new [Bioacoustics Stack Exchange](https://bioacoustics.stackexchange.com/) is a great resource.
 
@@ -87,7 +87,7 @@ You can connect with Anthony via [Twitter](https://twitter.com/atruskie), [Linke
 
 Open Ecoacoustics is an ARDC-co-investment project. Read about [the project](https://ardc.edu.au/project/open-ecoacoustics/).
 
-If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Association of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.github.io/) (it’s free!).
+If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Community of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.github.io/) (it’s free!).
 
 Stay tuned for our next interview in the Shaping Research Software series, coming out in November.
 

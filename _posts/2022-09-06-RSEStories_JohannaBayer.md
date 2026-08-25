@@ -87,7 +87,7 @@ Keep in Touch
 
 You can connect with Johanna via [Twitter](https://twitter.com/likeajumprope?lang=en), [LinkedIn](https://www.linkedin.com/in/johanna-bayer) and [Github](https://github.com/likeajumprope).
 
-If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Association of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.github.io/) (it’s free!). Remember that September is the month when RSEs come together, join us for the New Zealand [conference](https://www.rseconference.nz/) and the Asia Australia [unconference](https://rse-aunz.github.io/2022-Asia-Australia-unconference/).
+If you’d like to be part of the growing community of research software engineers in Australia, become a member of the [RSE Community of Australia and New Zealand (RSE-AUNZ)](https://rse-aunz.github.io/) (it’s free!). Remember that September is the month when RSEs come together, join us for the New Zealand [conference](https://www.rseconference.nz/) and the Asia Australia [unconference](https://rse-aunz.github.io/2022-Asia-Australia-unconference/).
 
 In our previous RSE Story we talked with the [winners of the Venables Award](https://ardc.edu.au/news/shaping-research-software-interview-with-lydia-lucchesi-and-sam-nelson/), which was established by the Statistical Society of Australia in partnership with the ARDC. The winners will present their software in a public talk, on Thu Sep 8, 1-2pm, you can [register now](https://www.eventbrite.com.au/e/ssa-venables-award-winners-2022-seminar-tickets-407730612237).
 

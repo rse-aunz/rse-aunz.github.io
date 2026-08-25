@@ -5,7 +5,7 @@ permalink: /
 navigation_weight: 1
 ---
 
-## The RSE Association of Australia and New Zealand
+## The RSE Community of Australia and New Zealand
 
 This community aims to build awareness of the diverse Research Software 
 Engineer (RSE) roles, to connect volunteers in the RSE domain, and to 
@@ -69,7 +69,7 @@ says the following about RSEs:
 > [(link)](https://www.cemac.leeds.ac.uk/events/research-software-engineers/).
 
 Inspired by the success of the RSE Association in UK, we 
-established the RSE Australia and New Zealand Association in 2017. 
+established the RSE Australia and New Zealand Community in 2017. 
 Together with  international bodies and support from our national 
 organisations such as AeRO, Research and Education Advanced Network New Zealand ([REANNZ](https://www.reannz.co.nz/)), the Australian Research Data Commons 
 ([ARDC](https://ardc.edu.au/resource-hub/?_categories=research-software)), and research institutions, we aim to campaign for the 
